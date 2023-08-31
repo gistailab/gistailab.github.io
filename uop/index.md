@@ -7,12 +7,12 @@ title: "Learning to Place Unseen Objects Stably using a Large-scale Simulation"
 RA-L submitted <br>
 <table style="border: none; display: initial;">
     <tr style="border: none;">
-        <td style="border: none;"><a href="https://">Sangjun Noh</a><sup>*,1</sup></td>
-        <td style="border: none;"><a href="https://">Raeyoung Kang</a><sup>*,1</sup></td>
-        <td style="border: none;"><a href="https://">Taewon Kim</a><sup>*,1</sup></td>
-        <td style="border: none;"><a href="https://">Seunghyeok Back</a><sup>1</sup></td>
-        <td style="border: none;"><a href="https://">Seongho Bak</a><sup>1</sup></td>
-        <td style="border: none;"><a href="https://">Kyoobin Lee</a><sup>†, 1</sup></td>
+        <td style="border: none;"><a href="https://">Sangjun Noh</a><sup>*,1</sup></td>     <!-- TODO: add email -->
+        <td style="border: none;"><a href="https://">Raeyoung Kang</a><sup>*,1</sup></td>   <!-- TODO: add email -->
+        <td style="border: none;"><a href="https://">Taewon Kim</a><sup>*,1</sup></td>      <!-- TODO: add email -->
+        <td style="border: none;"><a href="https://">Seunghyeok Back</a><sup>1</sup></td>   <!-- TODO: add email -->
+        <td style="border: none;"><a href="https://">Seongho Bak</a><sup>1</sup></td>       <!-- TODO: add email -->
+        <td style="border: none;"><a href="https://">Kyoobin Lee</a><sup>†, 1</sup></td>    <!-- TODO: add email -->
     </tr>
 </table>
 <br>
