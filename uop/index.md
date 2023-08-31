@@ -7,12 +7,12 @@ title: "Learning to Place Unseen Objects Stably using a Large-scale Simulation"
 RA-L submitted <br>
 <table style="border: none; display: initial;">
     <tr style="border: none;">
-        <td style="border: none;"><a href="sangjun7@gm.gist.ac.kr">Sangjun Noh</a><sup>*,1</sup></td>
-        <td style="border: none;"><a href="raeyo@gm.gist.ac.kr">Raeyoung Kang</a><sup>*,1</sup></td>
-        <td style="border: none;"><a href="ailab.ktw@gm.gist.ac.kr">Taewon Kim</a><sup>*,1</sup></td>
-        <td style="border: none;"><a href="shback@gm.gist.ac.kr">Seunghyeok Back</a><sup>1</sup></td>
-        <td style="border: none;"><a href="bakseongho@gm.gist.ac.kr">Seongho Bak</a><sup>1</sup></td>
-        <td style="border: none;"><a href="kyoobinlee@gist.ac.kr">Kyoobin Lee</a><sup>†, 1</sup></td>
+        <td style="border: none;"><a href="mailto:sangjun7@gm.gist.ac.kr">Sangjun Noh</a><sup>*,1</sup></td>
+        <td style="border: none;"><a href="mailto:raeyo@gm.gist.ac.kr">Raeyoung Kang</a><sup>*,1</sup></td>
+        <td style="border: none;"><a href="mailto:ailab.ktw@gm.gist.ac.kr">Taewon Kim</a><sup>*,1</sup></td>
+        <td style="border: none;"><a href="mailto:shback@gm.gist.ac.kr">Seunghyeok Back</a><sup>1</sup></td>
+        <td style="border: none;"><a href="mailto:bakseongho@gm.gist.ac.kr">Seongho Bak</a><sup>1</sup></td>
+        <td style="border: none;"><a href="mailto:kyoobinlee@gist.ac.kr">Kyoobin Lee</a><sup>†, 1</sup></td>
     </tr>
 </table>
 <br>
