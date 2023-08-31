@@ -7,12 +7,12 @@ title: "Learning to Place Unseen Objects Stably using a Large-scale Simulation"
 RA-L submitted <br>
 <table style="border: none; display: initial;">
     <tr style="border: none;">
-        <td style="border: none;"><a href="https://">Sangjun Noh</a><sup>*,1</sup></td>     <!-- TODO: add email -->
-        <td style="border: none;"><a href="https://">Raeyoung Kang</a><sup>*,1</sup></td>   <!-- TODO: add email -->
-        <td style="border: none;"><a href="https://">Taewon Kim</a><sup>*,1</sup></td>      <!-- TODO: add email -->
-        <td style="border: none;"><a href="https://">Seunghyeok Back</a><sup>1</sup></td>   <!-- TODO: add email -->
-        <td style="border: none;"><a href="https://">Seongho Bak</a><sup>1</sup></td>       <!-- TODO: add email -->
-        <td style="border: none;"><a href="https://">Kyoobin Lee</a><sup>†, 1</sup></td>    <!-- TODO: add email -->
+        <td style="border: none;"><a href="sangjun7@gm.gist.ac.kr">Sangjun Noh</a><sup>*,1</sup></td>
+        <td style="border: none;"><a href="raeyo@gm.gist.ac.kr">Raeyoung Kang</a><sup>*,1</sup></td>
+        <td style="border: none;"><a href="ailab.ktw@gm.gist.ac.kr">Taewon Kim</a><sup>*,1</sup></td>
+        <td style="border: none;"><a href="shback@gm.gist.ac.kr">Seunghyeok Back</a><sup>1</sup></td>
+        <td style="border: none;"><a href="bakseongho@gm.gist.ac.kr">Seongho Bak</a><sup>1</sup></td>
+        <td style="border: none;"><a href="kyoobinlee@gist.ac.kr">Kyoobin Lee</a><sup>†, 1</sup></td>
     </tr>
 </table>
 <br>
@@ -27,23 +27,23 @@ RA-L submitted <br>
 <table style="border: none; display: initial;">
     <tr style="border: none;">
         <td style="border: none;">
-            <a href="https://" style="color: #ffffff">                      <!-- TODO: add arxiv -->
+            <a href="https://arxiv.org/abs/2303.08387" style="color: #ffffff">
                 <div class="link_button">
-                    <i class="bi bi-file-earmark-richtext"></i> Paper
+                    <i class="bi bi-file-earmark-richtext"></i> Paper (preprint)
                 </div>
             </a>
         </td>
         <td style="border: none; display: initial;">
-            <a href="https://" style="color: #ffffff">                      <!-- TODO: add code -->
+            <a href="https://github.com/gist-ailab/uop-net" style="color: #ffffff">
                 <div class="link_button">
-                    <i class="bi bi-github"></i> Code
+                    <i class="bi bi-github"></i> Code (Github)
                 </div>
             </a>
         </td>
         <td style="border: none;">
-            <a href="https://" style="color: #ffffff">                      <!-- TODO: add video -->
+            <a href="https://www.youtube.com/watch?v=08F4jxSEL7A" style="color: #ffffff">
                 <div class="link_button">
-                    <i class="bi bi-youtube"></i> Video
+                    <i class="bi bi-youtube"></i> Video (Youtube)
                 </div>
             </a>
         </td>
@@ -51,23 +51,24 @@ RA-L submitted <br>
 </table>
 <br>
 <video width="100%" autoplay muted loop>
-    <source src="./assets/~~~~.mp4" type="video/mp4">                       <!-- TODO: add sample video -->
+    <!-- <source src="./assets/~~~~.mp4" type="video/mp4">                       TODO: add sample video -->
+    <source src="https://www.youtube.com/watch?v=08F4jxSEL7A" type="video/mp4">                       <!-- TODO: add sample video -->
     Your browser does not support the video tag.
 </video> 
 </center>
 
 # Abstract 
 
-Object placement is a crucial task for robots in unstructured environments as it enables them to manipulate and arrange objects safely and efficiently. However, existing methods for object placement have limitations, such as the requirement for a complete 3D model of the object or the inability to handle complex object shapes, which restrict the applicability of robots in unstructured scenarios. In this paper, we propose an Unseen Object Placement (UOP) method that directly detects stable planes of an unseen object from a single-view and partial point cloud. We trained our model on large-scale simulation data to generalize over relationships between the shape and properties of stable planes with a 3D point cloud. We verify our approach through simulations and real-world robot experiments, demonstrating state-of-the-art performance for placing single-view and partial objects. Our UOP approach enables robots to place objects stably, even when the object's shape and properties are not fully known, providing a promising solution for object placement in unstructured environments. Our research has potential applications in various domains such as manufacturing, logistics, and home automation. We will release our code, dataset upon publication.
+Object placement is a fundamental task for robots, yet it remains challenging for partially observed objects. Existing methods for object placement have limitations, such as the requirement for a complete 3D model of the object or the inability to handle complex shapes and novel objects, which restrict the applicability of robots in the real world. Our focus was on addressing the Unseen Object Placement (UOP) problem. We tackled the UOP problem using two methods: (1) UOP-Net, a point cloud segmentation based approach that directly detects the most stable plane from partial point clouds, and (2) UOP-Sim, a large-scale dataset to accommodate various shapes and novel objects. Our UOP approach enables robots to place objects stably, even when the object's shape and properties are not fully known, providing a promising solution for object placement in various environments. We verify our approach through simulation and real-world robot experiments, demonstrating state-of-the-art performance for placing single-view and partial objects. For comprehensive findings, please refer to https://sites.google.com/uop-net. (This page)
 
 
 # Citation
 
 ```
-@article{sang2023learning,
+@article{noh2023learning,
   title={Learning to Place Unseen Objects Stably using a Large-scale Simulation},
-  author={Sangjun Noh, Raeyoung Kang, Taewon Kim, Seunghyeok Back, Seongho Bak, Kyoobin Lee},
-  journal={arXiv preprint arXiv:},
+  author={Noh, Sangjun and Kang, Raeyoung and Kim, Taewon and Back, Seunghyeok and Bak, Seongho and Lee, Kyoobin},
+  journal={arXiv preprint arXiv:2303.08387},
   year={2023}
 }
 ```
