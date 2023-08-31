@@ -4,14 +4,19 @@ title: "GIST - AILAB paper project home"
 
 # GIST AILAB
 
-[Homepage]()
+[Homepage](https://sites.google.com/view/gistailab)
 
-[GitHub]()
+[GitHub](https://github.com/gist-ailab)
+
+[Youtube](https://www.youtube.com/@gistailab)
+
+[Project page (This page)](https://gistailab.github.io/)
+
 
 ## paper projects
 
 ### Learning to Place Unseen Objects Stably using a Large-scale Simulation (pre-printed)
 
-[Project Page]() | [Paper-arxiv]()
+[Project Page](https://gistailab.github.io/uop/) | [Paper-arxiv](https://arxiv.org/abs/2303.08387)
 
-Object placement is a crucial task for robots in unstructured environments as it enables them to manipulate and arrange objects safely and efficiently. However, existing methods for object placement have limitations, such as the requirement for a complete 3D model of the object or the inability to handle complex object shapes, which restrict the applicability of robots in unstructured scenarios. In this paper, we propose an Unseen Object Placement (UOP) method that directly detects stable planes of an unseen object from a single-view and partial point cloud. We trained our model on large-scale simulation data to generalize over relationships between the shape and properties of stable planes with a 3D point cloud. We verify our approach through simulations and real-world robot experiments, demonstrating state-of-the-art performance for placing single-view and partial objects. Our UOP approach enables robots to place objects stably, even when the object's shape and properties are not fully known, providing a promising solution for object placement in unstructured environments. Our research has potential applications in various domains such as manufacturing, logistics, and home automation. We will release our code, dataset upon publication.
+Object placement is a fundamental task for robots, yet it remains challenging for partially observed objects. Existing methods for object placement have limitations, such as the requirement for a complete 3D model of the object or the inability to handle complex shapes and novel objects, which restrict the applicability of robots in the real world. Our focus was on addressing the Unseen Object Placement (UOP) problem. We tackled the UOP problem using two methods: (1) UOP-Net, a point cloud segmentation based approach that directly detects the most stable plane from partial point clouds, and (2) UOP-Sim, a large-scale dataset to accommodate various shapes and novel objects. Our UOP approach enables robots to place objects stably, even when the object's shape and properties are not fully known, providing a promising solution for object placement in various environments. We verify our approach through simulation and real-world robot experiments, demonstrating state-of-the-art performance for placing single-view and partial objects. For comprehensive findings, please refer to https://sites.google.com/uop-net.
