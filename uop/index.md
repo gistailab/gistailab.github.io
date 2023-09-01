@@ -83,6 +83,7 @@ title: "04 Learning to Place Unseen Objects Stably using a Large-scale Simulatio
             </tr>
         </tbody>
     </table>
+    <br>
     <table style="border: none; display: initial;">
         <tbody>
             <tr style="border: none;">
