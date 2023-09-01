@@ -145,11 +145,14 @@ title: "04 Learning to Place Unseen Objects Stably using a Large-scale Simulatio
         <tbody>
             <tr style="border: none;">
                 <td style="border: none;">
+                    <img src="./assets/image/uop_pipeline_abs.png" alt="UOP Pipeline abs" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <!-- <td style="border: none;">
                     <img src="./assets/image/uop_pipeline_1.png" alt="UOP Pipeline 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
-                </td>
-                <td style="border: none;">
+                </td> -->
+                <!-- <td style="border: none;">
                     <img src="./assets/image/uop_pipeline_2.png" alt="UOP Pipeline 2" style="margin: 10px 20px 10px 0px;" width="100%"/>
-                </td>
+                </td> -->
             </tr>
         </tbody>
     </table>
@@ -161,7 +164,7 @@ title: "04 Learning to Place Unseen Objects Stably using a Large-scale Simulatio
 
 <center>
     <video width="75%" autoplay muted loop>
-        <source src="./assets/20230901_Home-DataGeneration_01.mp4" type="video/mp4">
+        <source src="./assets/20230901_Home-DataGeneration_02.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video> 
 </center>
