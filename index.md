@@ -16,7 +16,7 @@ title: "GIST - AILAB paper project home"
 
 <br>
 
-## paper projects
+## Paper Projects
 
 ### Learning to Place Unseen Objects Stably using a Large-scale Simulation (pre-printed)
 
