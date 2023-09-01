@@ -5,7 +5,10 @@ title: "00 Learning to Place Unseen Objects Stably using a Large-scale Simulatio
 <br>
 
 <center>
-<h1 style="display: block;">Learning to Place Unseen Objects Stably using a Large-scale Simulation</h1>
+<h1 style="display: block;">
+    Learning to Place Unseen Objects Stably<br>
+    using a Large-scale Simulation
+</h1>
 RA-L submitted <br>
 <table style="border: none; display: initial;">
     <tr style="border: none;">
@@ -52,7 +55,7 @@ RA-L submitted <br>
     </tr>
 </table>
 <br>
-<video width="100%" autoplay muted loop>
+<video width="75%" controls autoplay muted loop>
     <source src="./assets/20230901_Home-DataGeneration_01.mp4" type="video/mp4">                       <!-- TODO: add presentation video -->
     Your browser does not support the video tag.
 </video> 
@@ -71,11 +74,12 @@ Object placement is a fundamental task for robots, yet it remains challenging fo
 <br>
 
 # UOP-Sim Data Generataion 
-
-<video width="100%" autoplay muted loop>
-    <source src="./assets/20230901_Home-DataGeneration_01.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video> 
+<center>
+    <video width="75%" autoplay muted loop>
+        <source src="./assets/20230901_Home-DataGeneration_01.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video> 
+</center>
 
 <br>
 
