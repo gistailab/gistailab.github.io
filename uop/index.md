@@ -444,10 +444,10 @@ title: "Learning to Place Unseen Objects Stably using a Large-scale Simulation"
 <br>
 <br>
 
-# Authors & Contacts
+# Author Contacts
 
 <center>
-Contact email to get more information on the project<br>
+Contact email to get more information on this project<br>
 <!-- GIST 광주과학기술원 ([gist.ac.kr](https://www.gist.ac.kr/kr/main.html)) | AILAB GIST AILAB  -->
 </center>
 <center>
