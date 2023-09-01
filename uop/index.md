@@ -2,6 +2,33 @@
 title: "04 Learning to Place Unseen Objects Stably using a Large-scale Simulation"
 ---
 <br>
+<head>
+    <!-- <style>
+        figure {
+            border: 1px #cccccc solid;
+            padding: 4px;
+            margin: auto;
+        }
+        figcaption {
+            background-color: black;
+            color: white;
+            font-style: italic;
+            padding: 2px;
+            text-align: center;
+        }
+        /* <figure>
+            <img src="pic_trulli.jpg" alt="Trulli" style="width:100%">
+            <figcaption>Fig.1 - Trulli, Puglia, Italy</figcaption>
+        </figure> */
+    </style> -->
+    <!-- <style type="text/css">
+        .avoid {
+            page-break-inside: avoid !important;
+            margin: 4px 0 4px 0;  /* to keep the page break from cutting too close to the text in the div */
+        }
+    </style> -->
+    <!-- <img src="./assets/~.png" alt="AILAB GAER Logo" style="float: left; margin: 10px 20px 10px 0px;" width="40%"/> -->
+</head>
 
 <center>
     <h1 style="display: block;">
@@ -111,8 +138,12 @@ Object placement is a fundamental task for robots, yet it remains challenging fo
 # UOP Pipeline
 
 <!-- TODO: add image -->
+<center>
 <img src="./assets/uop_pipeline/~.png" alt="uop_pipeline 1" style="margin: 10px 20px 10px 0px;" width="40%"/>
 <img src="./assets/uop_pipeline/~.png" alt="uop_pipeline 2" style="margin: 10px 20px 10px 0px;" width="40%"/>
+<br>
+</center>
+
 <br>
 
 # UOP-Sim Data Generataion
@@ -206,10 +237,3 @@ This work was also partially supported by the HPC Support project of the Korea M
     123 Cheomdangwagi-ro, Buk-gu, Gwangju, 61005, Korea ]
 </center>
 
-<!-- <style type="text/css">
-  .avoid {
-    page-break-inside: avoid !important;
-    margin: 4px 0 4px 0;  /* to keep the page break from cutting too close to the text in the div */
-  }
-</style> -->
-<!-- <img src="./assets/~.png" alt="AILAB GAER Logo" style="float: left; margin: 10px 20px 10px 0px;" width="40%"/> -->
