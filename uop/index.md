@@ -116,7 +116,7 @@ title: "Learning to Place Unseen Objects Stably using a Large-scale Simulation"
     <table style="border: none; display: initial;">
         <tbody>
             <tr style="border: none;">
-                <td style="border: none;">(Official code and dataset will be released at publication.)</td>
+                <td style="border: none;">(Official code and dataset will be released upon publication.)</td>
             </tr>
         </tbody>
     </table>
@@ -484,9 +484,12 @@ Contact email to get more information on the project<br>
     <div class="columns is-centered">
       <div class="column is-8">
         <div class="content">
+          <center>
           <p>
-            This website format is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+            This website format is licensed under <br>
+            a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
           </p>
+          </center>
           <!-- <p>
             This means you are free to borrow the <a
               href="https://github.com/nerfies/nerfies.github.io">source code</a> of this website,
