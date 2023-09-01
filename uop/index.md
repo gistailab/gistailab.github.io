@@ -255,9 +255,11 @@ title: "Learning to Place Unseen Objects Stably using a Large-scale Simulation"
         <tbody>
             <tr style="border: none;">
                 <td style="border: none;">
-                    <img src="./assets/image/dataset_visualize/YCB_Picture7.png" alt="YCB Visualize 9" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                    <img src="./assets/image/dataset_visualize/YCB_Picture9.png" alt="YCB Visualize 9" style="margin: 10px 20px 10px 0px;" width="110%"/>
                 </td>
                 <td style="border: none;">
+                    <img src="./assets/image/dataset_visualize/YCB_Picture10.png" alt="YCB Visualize 10" style="margin: 10px 20px 10px 0px;" width="95%"/>
+                </td>
                 </td>
             </tr>
         </tbody>
