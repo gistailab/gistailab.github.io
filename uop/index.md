@@ -1,5 +1,5 @@
 ---
-title: "01 Learning to Place Unseen Objects Stably using a Large-scale Simulation"
+title: "02 Learning to Place Unseen Objects Stably using a Large-scale Simulation"
 ---
 <br>
 
@@ -25,7 +25,9 @@ RA-L submitted <br>
         <td style="border: none;"><sup>*</sup>These authors contributed equally to the paper</td>
         <td style="border: none;"><sup>†</sup>Corresponding author</td>
     </tr>
-    <sup>1</sup>Gwangju Institute of Science and Technology (GIST)<br>
+    <tr style="border: none;">
+        <td style="border: none;"><sup>1</sup>Gwangju Institute of Science and Technology (GIST)</td>
+    </tr>
 </table>
 <br>
 <table style="border: none; display: initial;">
@@ -55,6 +57,9 @@ RA-L submitted <br>
                 </div>
             </a>
         </td>
+        <tr style="border: none;">
+            <td style="border: none;">(Official code and dataset will be released at publication.)</td>
+        </tr>
     </tr>
 </table>
 <br>
@@ -101,7 +106,8 @@ Object placement is a fundamental task for robots, yet it remains challenging fo
 
 <br>
 <br>
-<hr style="border: solid 1px #c80000;">
+<!-- <hr style="border: solid 1px #c80000;"> -->
+<hr style="#c80000;">
 <br>
 <br>
 
@@ -122,3 +128,12 @@ Object placement is a fundamental task for robots, yet it remains challenging fo
 
 This work was fully supported by the Korea Institute for Advancement of Technology (KIAT) grant funded by the Korea Government (MOTIE) (Project Name: Shared autonomy based on deep reinforcement learning for responding intelligently to unfixed environments such as robotic assembly tasks, Project Number: 20008613).
 This work was also partially supported by the HPC Support project of the Korea Ministry of Science and ICT and NIPA.
+
+<br>
+
+# Authors & Contacts
+
+<!-- TODO: add image -->
+<img src="./assets/~.png" alt="GIST-AILAB Logo" style="float: left; margin: 10px 20px 10px 0px;" width="40%"/>
+
+[Address : Dasan Building (C9) 204/206, 123 Cheomdangwagi-ro, Buk-gu, Gwangju, 61005, Korea  ]
