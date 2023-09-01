@@ -53,8 +53,7 @@ RA-L submitted <br>
 </table>
 <br>
 <video width="100%" autoplay muted loop>
-    <!-- <source src="./assets/~~~~.mp4" type="video/mp4">                       TODO: add sample video -->
-    <source src="https://www.youtube.com/watch?v=08F4jxSEL7A" type="video/mp4">                       <!-- TODO: add sample video -->
+    <source src="./assets/20230901_Home-DataGeneration_01.mp4" type="video/mp4">                       <!-- TODO: add presentation video -->
     Your browser does not support the video tag.
 </video> 
 </center>
@@ -67,7 +66,30 @@ Object placement is a fundamental task for robots, yet it remains challenging fo
 
 # UOP Pipeline
 
+<!-- TODO: add image -->
+
 <br>
+
+# UOP-Sim Data Generataion 
+
+<video width="100%" autoplay muted loop>
+    <source src="./assets/20230901_Home-DataGeneration_01.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video> 
+
+<br>
+
+# Inference UOP-Net in Real World
+
+## Comparison each Result with the YCB Object Set & Novel Household Objects
+
+<!-- TODO: add gif image -->
+
+<br>
+
+## Additional Inference Results (pics)
+
+<!-- TODO: add pic image -->
 
 # Citation
 
