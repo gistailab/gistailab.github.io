@@ -1,5 +1,5 @@
 ---
-title: "03 Learning to Place Unseen Objects Stably using a Large-scale Simulation"
+title: "04 Learning to Place Unseen Objects Stably using a Large-scale Simulation"
 ---
 <br>
 
@@ -48,7 +48,7 @@ title: "03 Learning to Place Unseen Objects Stably using a Large-scale Simulatio
                 <a href="https://arxiv.org/abs/2303.08387" style="color: #ffffff">
                     <div class="link_button">
                         <center>
-                        <i class="bi bi-file-earmark-richtext"></i> Paper <br>(arxiv preprint)
+                        <i class="bi bi-file-earmark-richtext"></i> Paper (arxiv preprint)
                         </center>
                     </div>
                 </a>
@@ -59,7 +59,7 @@ title: "03 Learning to Place Unseen Objects Stably using a Large-scale Simulatio
                 <a href="https://github.com/gist-ailab/uop-net" style="color: #ffffff">
                     <div class="link_button">
                         <center>
-                        <i class="bi bi-github"></i> Code <br>(AILAB Git repo)
+                        <i class="bi bi-github"></i> Code(AILAB Git repo)
                         </center>
                     </div>
                 </a>
@@ -70,7 +70,7 @@ title: "03 Learning to Place Unseen Objects Stably using a Large-scale Simulatio
                 <a href="https://www.youtube.com/watch?v=08F4jxSEL7A" style="color: #ffffff">
                     <div class="link_button">
                         <center>
-                        <i class="bi bi-youtube"></i> Video <br>(AILAB Youtube)
+                        <i class="bi bi-youtube"></i> Video (AILAB Youtube)
                         </center>
                     </div>
                 </a>
