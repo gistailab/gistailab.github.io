@@ -44,7 +44,6 @@ title: "04 Learning to Place Unseen Objects Stably using a Large-scale Simulatio
         </tbody>
     </table>
     <br>
-    <br>
     <!-- Links ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ---- -->
     <table style="border: none; display: initial;">
         <tbody>
@@ -92,6 +91,7 @@ title: "04 Learning to Place Unseen Objects Stably using a Large-scale Simulatio
         </tbody>
     </table>
     <br>
+    <br>
     <!-- PT video ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ---- -->
     <video width="75%" controls autoplay muted loop>
         <source src="./assets/20230901_Home-DataGeneration_01.mp4" type="video/mp4">            <!-- TODO: add presentation video -->
@@ -111,7 +111,8 @@ Object placement is a fundamental task for robots, yet it remains challenging fo
 # UOP Pipeline
 
 <!-- TODO: add image -->
-
+<img src="./assets/uop_pipeline/~.png" alt="uop_pipeline 1" style="margin: 10px 20px 10px 0px;" width="40%"/>
+<img src="./assets/uop_pipeline/~.png" alt="uop_pipeline 2" style="margin: 10px 20px 10px 0px;" width="40%"/>
 <br>
 
 # UOP-Sim Data Generataion
