@@ -1,5 +1,5 @@
 ---
-title: "04 Learning to Place Unseen Objects Stably using a Large-scale Simulation"
+title: "Learning to Place Unseen Objects Stably using a Large-scale Simulation"
 ---
 <br>
 <head>
@@ -98,17 +98,17 @@ title: "04 Learning to Place Unseen Objects Stably using a Large-scale Simulatio
                         </div>
                     </a>
                 </td>
-                <td style="border: none;"></td> <!-- intervals -->
-                <td style="border: none;"></td> <!-- intervals -->
-                <td style="border: none;">
-                    <a href="https://www.youtube.com/watch?v=08F4jxSEL7A" style="color: #ffffff">
-                        <div class="link_button">
+                <!-- <td style="border: none;"></td> intervals -->
+                <!-- <td style="border: none;"></td> intervals -->
+                <!-- <td style="border: none;"> -->
+                    <!-- <a href="https://www.youtube.com/watch?v=08F4jxSEL7A" style="color: #ffffff"> -->
+                        <!-- <div class="link_button"> -->
                             <!-- <center> -->
-                            <i class="bi bi-youtube"></i> Video 
+                            <!-- <i class="bi bi-youtube"></i> Video  -->
                             <!-- </center> -->
-                        </div>
-                    </a>
-                </td>
+                        <!-- </div> -->
+                    <!-- </a> -->
+                <!-- </td> -->
             </tr>
         </tbody>
     </table>
@@ -120,15 +120,15 @@ title: "04 Learning to Place Unseen Objects Stably using a Large-scale Simulatio
             </tr>
         </tbody>
     </table>
-    <br>
-    <br>
-    <br>
-    <br>
+    <!-- <br> -->
+    <!-- <br> -->
+    <!-- <br> -->
+    <!-- <br> -->
     <!-- PT video ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ---- -->
-    <video width="75%" controls autoplay muted loop>
-        <source src="./assets/20230901_Home-DataGeneration_01.mp4" type="video/mp4">            <!-- TODO: add presentation video -->
-        Your browser does not support the video tag.
-    </video> 
+    <!-- <video width="75%" controls autoplay muted loop> -->
+        <!-- <source src="./assets/20230901_Home-DataGeneration_01.mp4" type="video/mp4">            TODO: add presentation video -->
+        <!-- Your browser does not support the video tag. -->
+    <!-- </video>  -->
 </center>
 
 <br>
@@ -186,6 +186,83 @@ title: "04 Learning to Place Unseen Objects Stably using a Large-scale Simulatio
 <br>
 <br>
 <br>
+<br>
+
+# UOP-Sim Data Test Set Visualize
+
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/image/dataset_visualize/YCB_Picture1.png" alt="YCB Visualize 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/image/dataset_visualize/YCB_Picture2.png" alt="YCB Visualize 2" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<br>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/image/dataset_visualize/YCB_Picture3.png" alt="YCB Visualize 3" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/image/dataset_visualize/YCB_Picture4.png" alt="YCB Visualize 4" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<br>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/image/dataset_visualize/YCB_Picture5.png" alt="YCB Visualize 5" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/image/dataset_visualize/YCB_Picture6.png" alt="YCB Visualize 6" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<br>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/image/dataset_visualize/YCB_Picture7.png" alt="YCB Visualize 7" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/image/dataset_visualize/YCB_Picture8.png" alt="YCB Visualize 8" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<br>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/image/dataset_visualize/YCB_Picture7.png" alt="YCB Visualize 9" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
 <br>
 
 # Inference UOP-Net in Real World
@@ -374,7 +451,6 @@ Contact email to get more information on the project<br>
 GIST 광주과학기술원 ([gist.ac.kr](https://www.gist.ac.kr/kr/main.html)) | AILAB GIST AILAB 
 </center>
 <br>
-
 
 <center>
 <img src="./assets/~.png" alt="AILAB GAER Logo" style="margin: 10px 20px 10px 0px;" width="40%"/>
