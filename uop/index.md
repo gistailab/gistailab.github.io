@@ -38,12 +38,16 @@ RA-L submitted <br>
                 </div>
             </a>
         </td>
+        <td style="border: none;">
+        </td>
         <td style="border: none; display: initial;">
             <a href="https://github.com/gist-ailab/uop-net" style="color: #ffffff">
                 <div class="link_button">
                     <i class="bi bi-github"></i> Code (Github)
                 </div>
             </a>
+        </td>
+        <td style="border: none;">
         </td>
         <td style="border: none;">
             <a href="https://www.youtube.com/watch?v=08F4jxSEL7A" style="color: #ffffff">
