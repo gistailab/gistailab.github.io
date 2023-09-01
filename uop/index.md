@@ -129,15 +129,17 @@ title: "04 Learning to Place Unseen Objects Stably using a Large-scale Simulatio
 <br>
 
 <!-- Paper contents ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ---- -->
+
 # Abstract
 
-Object placement is a fundamental task for robots, yet it remains challenging for partially observed objects. Existing methods for object placement have limitations, such as the requirement for a complete 3D model of the object or the inability to handle complex shapes and novel objects, which restrict the applicability of robots in the real world. Our focus was on addressing the Unseen Object Placement (UOP) problem. We tackled the UOP problem using two methods: (1) UOP-Net, a point cloud segmentation based approach that directly detects the most stable plane from partial point clouds, and (2) UOP-Sim, a large-scale dataset to accommodate various shapes and novel objects. Our UOP approach enables robots to place objects stably, even when the object's shape and properties are not fully known, providing a promising solution for object placement in various environments. We verify our approach through simulation and real-world robot experiments, demonstrating state-of-the-art performance for placing single-view and partial objects. For comprehensive findings, please refer to https://sites.google.com/uop-net. (This page)
+  Object placement is a fundamental task for robots, yet it remains challenging for partially observed objects. Existing methods for object placement have limitations, such as the requirement for a complete 3D model of the object or the inability to handle complex shapes and novel objects, which restrict the applicability of robots in the real world. Our focus was on addressing the Unseen Object Placement (UOP) problem. We tackled the UOP problem using two methods: (1) UOP-Net, a point cloud segmentation based approach that directly detects the most stable plane from partial point clouds, and (2) UOP-Sim, a large-scale dataset to accommodate various shapes and novel objects. Our UOP approach enables robots to place objects stably, even when the object's shape and properties are not fully known, providing a promising solution for object placement in various environments. We verify our approach through simulation and real-world robot experiments, demonstrating state-of-the-art performance for placing single-view and partial objects. For comprehensive findings, please refer to https://sites.google.com/uop-net. (This page)
 
 <br>
 
 # UOP Pipeline
 
 <!-- TODO: add image -->
+
 <center>
     <table style="border: none; display: initial;">
         <tbody>
@@ -171,6 +173,9 @@ Object placement is a fundamental task for robots, yet it remains challenging fo
 ## Comparison each Result with the YCB Object Set & Novel Household Objects
 
 <!-- TODO: add gif image -->
+
+- **Mustard bottle (YCB objects)**
+
 <center>
     <table style="border: none; display: initial;">
         <tbody>
@@ -184,7 +189,11 @@ Object placement is a fundamental task for robots, yet it remains challenging fo
             </tr>
         </tbody>
     </table>
-    <br>
+</center>
+
+- **Potted meat can (YCB objects)**
+
+<center>
     <table style="border: none; display: initial;">
         <tbody>
             <tr style="border: none;">
@@ -197,7 +206,11 @@ Object placement is a fundamental task for robots, yet it remains challenging fo
             </tr>
         </tbody>
     </table>
-    <br>
+</center>
+
+- **Sugar box (YCB objects)**
+
+<center>
     <table style="border: none; display: initial;">
         <tbody>
             <tr style="border: none;">
@@ -210,7 +223,11 @@ Object placement is a fundamental task for robots, yet it remains challenging fo
             </tr>
         </tbody>
     </table>
-    <br>
+</center>
+
+- **Toy block (Novel Household Object)**
+
+<center>
     <table style="border: none; display: initial;">
         <tbody>
             <tr style="border: none;">
@@ -223,7 +240,11 @@ Object placement is a fundamental task for robots, yet it remains challenging fo
             </tr>
         </tbody>
     </table>
-    <br>
+</center>
+
+- **Toy dinosaur (Novel Household Object)**
+
+<center>
     <table style="border: none; display: initial;">
         <tbody>
             <tr style="border: none;">
@@ -243,27 +264,32 @@ Object placement is a fundamental task for robots, yet it remains challenging fo
 
 ## Additional Inference Results (pics)
 
-- Chips can (YCB Object)
+- **Chips can (YCB Object)**
+
 <center>
 <img src="./assets/image/additional_result/1_Chips can (YCB Object).png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
 </center>
 
-- Soap tray (Novel Household Object)
+- **Soap tray (Novel Household Object)**
+
 <center>
 <img src="./assets/image/additional_result/2_Soap tray (Novel Household Object).png" alt="Additional Result 2" style="margin: 10px 20px 10px 0px;" width="75%"/>
 </center>
 
-- Duct tape (Novel Household Object)
+- **Duct tape (Novel Household Object)**
+
 <center>
 <img src="./assets/image/additional_result/3_Duct tape (Novel Household Object).png" alt="Additional Result 3" style="margin: 10px 20px 10px 0px;" width="75%"/>
 </center>
 
-- Watering can (Novel Household Object)
+- **Watering can (Novel Household Object)**
+
 <center>
 <img src="./assets/image/additional_result/4_Watering can (Novel Household Object).png" alt="Additional Result 4" style="margin: 10px 20px 10px 0px;" width="75%"/>
 </center>
 
-- Wooden bowl (Novel Household Object)
+- **Wooden bowl (Novel Household Object)**
+
 <center>
 <img src="./assets/image/additional_result/5_Wooden bowl (Novel Household Object).png" alt="Additional Result 5" style="margin: 10px 20px 10px 0px;" width="75%"/>
 </center>
@@ -289,8 +315,8 @@ Object placement is a fundamental task for robots, yet it remains challenging fo
 
 # Acknowledgements
 
-This work was fully supported by the Korea Institute for Advancement of Technology (KIAT) grant funded by the Korea Government (MOTIE) (Project Name: Shared autonomy based on deep reinforcement learning for responding intelligently to unfixed environments such as robotic assembly tasks, Project Number: 20008613).
-This work was also partially supported by the HPC Support project of the Korea Ministry of Science and ICT and NIPA.
+  This work was fully supported by the Korea Institute for Advancement of Technology (KIAT) grant funded by the Korea Government (MOTIE) (Project Name: Shared autonomy based on deep reinforcement learning for responding intelligently to unfixed environments such as robotic assembly tasks, Project Number: 20008613).
+  This work was also partially supported by the HPC Support project of the Korea Ministry of Science and ICT and NIPA.
 
 <br>
 
@@ -302,6 +328,7 @@ GIST 광주과학기술원 ([gist.ac.kr](https://www.gist.ac.kr/kr/main.html)) |
 </center>
 
 <!-- TODO: add image -->
+
 <center>
 <img src="./assets/~.png" alt="AILAB GAER Logo" style="margin: 10px 20px 10px 0px;" width="40%"/>
 <br>
@@ -315,4 +342,3 @@ GIST 광주과학기술원 ([gist.ac.kr](https://www.gist.ac.kr/kr/main.html)) |
     [ Address : Dasan Building (C9) 204/206 & Central Research Facilities (C11) 403, <br>
     123 Cheomdangwagi-ro, Buk-gu, Gwangju, 61005, Korea ]
 </center>
-
