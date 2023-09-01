@@ -183,18 +183,30 @@ Object placement is a fundamental task for robots, yet it remains challenging fo
 <br>
 
 ## Additional Inference Results (pics)
+
+- Chips can (YCB Object)
 <center>
-<!-- TODO: add pic image -->
-<img src="./assets/image/additional_result/~.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="40%"/>
-<br>
-<img src="./assets/image/additional_result/~.png" alt="Additional Result 2" style="margin: 10px 20px 10px 0px;" width="40%"/>
-<br>
-<img src="./assets/image/additional_result/~.png" alt="Additional Result 3" style="margin: 10px 20px 10px 0px;" width="40%"/>
-<br>
-<img src="./assets/image/additional_result/~.png" alt="Additional Result 4" style="margin: 10px 20px 10px 0px;" width="40%"/>
-<br>
-<img src="./assets/image/additional_result/~.png" alt="Additional Result 5" style="margin: 10px 20px 10px 0px;" width="40%"/>
-<br>
+<img src="./assets/image/additional_result/1_Chips can (YCB Object).png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+</center>
+
+- Soap tray (Novel Household Object)
+<center>
+<img src="./assets/image/additional_result/2_Soap tray (Novel Household Object).png" alt="Additional Result 2" style="margin: 10px 20px 10px 0px;" width="75%"/>
+</center>
+
+- Duct tape (Novel Household Object)
+<center>
+<img src="./assets/image/additional_result/3_Duct tape (Novel Household Object).png" alt="Additional Result 3" style="margin: 10px 20px 10px 0px;" width="75%"/>
+</center>
+
+- Watering can (Novel Household Object)
+<center>
+<img src="./assets/image/additional_result/4_Watering can (Novel Household Object).png" alt="Additional Result 4" style="margin: 10px 20px 10px 0px;" width="75%"/>
+</center>
+
+- Wooden bowl (Novel Household Object)
+<center>
+<img src="./assets/image/additional_result/5_Wooden bowl (Novel Household Object).png" alt="Additional Result 5" style="margin: 10px 20px 10px 0px;" width="75%"/>
 </center>
 
 <br>
@@ -229,7 +241,7 @@ This work was also partially supported by the HPC Support project of the Korea M
 <center>
 <img src="./assets/~.png" alt="AILAB GAER Logo" style="margin: 10px 20px 10px 0px;" width="40%"/>
 <br>
-<img src="./assets/~.png" alt="GIST-AILAB Logo" style="margin: 10px 20px 10px 0px;" width="40%"/>
+<img src="./assets/image/GIST-AILAB.png" alt="GIST-AILAB Logo" style="margin: 10px 20px 10px 0px;" width="40%"/>
 <br>
 </center>
 
