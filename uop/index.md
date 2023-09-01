@@ -52,9 +52,9 @@ title: "04 Learning to Place Unseen Objects Stably using a Large-scale Simulatio
                 <td style="border: none;">
                     <a href="https://arxiv.org/abs/2303.08387" style="color: #ffffff">
                         <div class="link_button">
-                            <center>
+                            <!-- <center> -->
                             <i class="bi bi-file-earmark-richtext"></i> Paper
-                            </center>
+                            <!-- </center> -->
                         </div>
                     </a>
                 </td>
@@ -63,9 +63,9 @@ title: "04 Learning to Place Unseen Objects Stably using a Large-scale Simulatio
                 <td style="border: none; display: initial;">
                     <a href="https://github.com/gist-ailab/uop-net" style="color: #ffffff">
                         <div class="link_button">
-                            <center>
+                            <!-- <center> -->
                             <i class="bi bi-github"></i> Code 
-                            </center>
+                            <!-- </center> -->
                         </div>
                     </a>
                 </td>
@@ -74,9 +74,9 @@ title: "04 Learning to Place Unseen Objects Stably using a Large-scale Simulatio
                 <td style="border: none;">
                     <a href="https://www.youtube.com/watch?v=08F4jxSEL7A" style="color: #ffffff">
                         <div class="link_button">
-                            <center>
+                            <!-- <center> -->
                             <i class="bi bi-youtube"></i> Video 
-                            </center>
+                            <!-- </center> -->
                         </div>
                     </a>
                 </td>
