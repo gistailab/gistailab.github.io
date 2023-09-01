@@ -35,7 +35,9 @@ title: "04 Learning to Place Unseen Objects Stably using a Large-scale Simulatio
         Learning to Place Unseen Objects Stably<br>
         using a Large-scale Simulation
     </h1>
+    <br>
     under review <br>
+    <br>
     <!-- Authors ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ---- -->
     <table style="border: none; display: initial;">
         <tbody>
@@ -70,6 +72,7 @@ title: "04 Learning to Place Unseen Objects Stably using a Large-scale Simulatio
             </tr>
         </tbody>
     </table>
+    <br>
     <br>
     <!-- Links ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ---- -->
     <table style="border: none; display: initial;">
@@ -119,6 +122,8 @@ title: "04 Learning to Place Unseen Objects Stably using a Large-scale Simulatio
     </table>
     <br>
     <br>
+    <br>
+    <br>
     <!-- PT video ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ---- -->
     <video width="75%" controls autoplay muted loop>
         <source src="./assets/20230901_Home-DataGeneration_01.mp4" type="video/mp4">            <!-- TODO: add presentation video -->
@@ -127,6 +132,9 @@ title: "04 Learning to Place Unseen Objects Stably using a Large-scale Simulatio
 </center>
 
 <br>
+<br>
+<br>
+<br>
 
 <!-- Paper contents ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ---- -->
 
@@ -134,6 +142,9 @@ title: "04 Learning to Place Unseen Objects Stably using a Large-scale Simulatio
 
   Object placement is a fundamental task for robots, yet it remains challenging for partially observed objects. Existing methods for object placement have limitations, such as the requirement for a complete 3D model of the object or the inability to handle complex shapes and novel objects, which restrict the applicability of robots in the real world. Our focus was on addressing the Unseen Object Placement (UOP) problem. We tackled the UOP problem using two methods: (1) UOP-Net, a point cloud segmentation based approach that directly detects the most stable plane from partial point clouds, and (2) UOP-Sim, a large-scale dataset to accommodate various shapes and novel objects. Our UOP approach enables robots to place objects stably, even when the object's shape and properties are not fully known, providing a promising solution for object placement in various environments. We verify our approach through simulation and real-world robot experiments, demonstrating state-of-the-art performance for placing single-view and partial objects. For comprehensive findings, please refer to https://sites.google.com/uop-net. (This page)
 
+<br>
+<br>
+<br>
 <br>
 
 # UOP Pipeline
@@ -159,6 +170,9 @@ title: "04 Learning to Place Unseen Objects Stably using a Large-scale Simulatio
 </center>
 
 <br>
+<br>
+<br>
+<br>
 
 # UOP-Sim Data Generataion
 
@@ -170,8 +184,13 @@ title: "04 Learning to Place Unseen Objects Stably using a Large-scale Simulatio
 </center>
 
 <br>
+<br>
+<br>
+<br>
 
 # Inference UOP-Net in Real World
+
+<br>
 
 ## Comparison each Result with the YCB Object Set & Novel Household Objects
 
@@ -193,6 +212,7 @@ title: "04 Learning to Place Unseen Objects Stably using a Large-scale Simulatio
         </tbody>
     </table>
 </center>
+<br>
 
 - **Potted meat can (YCB objects)**
 
@@ -210,6 +230,7 @@ title: "04 Learning to Place Unseen Objects Stably using a Large-scale Simulatio
         </tbody>
     </table>
 </center>
+<br>
 
 - **Sugar box (YCB objects)**
 
@@ -227,6 +248,7 @@ title: "04 Learning to Place Unseen Objects Stably using a Large-scale Simulatio
         </tbody>
     </table>
 </center>
+<br>
 
 - **Toy block (Novel Household Object)**
 
@@ -244,6 +266,7 @@ title: "04 Learning to Place Unseen Objects Stably using a Large-scale Simulatio
         </tbody>
     </table>
 </center>
+<br>
 
 - **Toy dinosaur (Novel Household Object)**
 
@@ -262,7 +285,11 @@ title: "04 Learning to Place Unseen Objects Stably using a Large-scale Simulatio
     </table>
     <br>
 </center>
+<br>
 
+<br>
+<br>
+<br>
 <br>
 
 ## Additional Inference Results (pics)
@@ -272,35 +299,45 @@ title: "04 Learning to Place Unseen Objects Stably using a Large-scale Simulatio
 <center>
 <img src="./assets/image/additional_result/1_Chips can (YCB Object).png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
 </center>
+<br>
 
 - **Soap tray (Novel Household Object)**
 
 <center>
 <img src="./assets/image/additional_result/2_Soap tray (Novel Household Object).png" alt="Additional Result 2" style="margin: 10px 20px 10px 0px;" width="75%"/>
 </center>
+<br>
 
 - **Duct tape (Novel Household Object)**
 
 <center>
 <img src="./assets/image/additional_result/3_Duct tape (Novel Household Object).png" alt="Additional Result 3" style="margin: 10px 20px 10px 0px;" width="75%"/>
 </center>
+<br>
 
 - **Watering can (Novel Household Object)**
 
 <center>
 <img src="./assets/image/additional_result/4_Watering can (Novel Household Object).png" alt="Additional Result 4" style="margin: 10px 20px 10px 0px;" width="75%"/>
 </center>
+<br>
 
 - **Wooden bowl (Novel Household Object)**
 
 <center>
 <img src="./assets/image/additional_result/5_Wooden bowl (Novel Household Object).png" alt="Additional Result 5" style="margin: 10px 20px 10px 0px;" width="75%"/>
 </center>
+<br>
 
+<br>
+<br>
 <br>
 <br>
 <!-- <hr style="border: solid 1px #c80000;"> -->
 <hr style="#c80000;">
+<br>
+<br>
+<br>
 <br>
 
 # Citation
@@ -315,6 +352,9 @@ title: "04 Learning to Place Unseen Objects Stably using a Large-scale Simulatio
 ```
 
 <br>
+<br>
+<br>
+<br>
 
 # Acknowledgements
 
@@ -322,15 +362,19 @@ title: "04 Learning to Place Unseen Objects Stably using a Large-scale Simulatio
   This work was also partially supported by the HPC Support project of the Korea Ministry of Science and ICT and NIPA.
 
 <br>
+<br>
+<br>
+<br>
 
 # Authors & Contacts
 
 <center>
 Contact email to get more information on the project<br>
+<br>
 GIST 광주과학기술원 ([gist.ac.kr](https://www.gist.ac.kr/kr/main.html)) | AILAB GIST AILAB 
 </center>
+<br>
 
-<!-- TODO: add image -->
 
 <center>
 <img src="./assets/~.png" alt="AILAB GAER Logo" style="margin: 10px 20px 10px 0px;" width="40%"/>
