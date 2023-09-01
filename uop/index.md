@@ -101,7 +101,7 @@ Object placement is a fundamental task for robots, yet it remains challenging fo
 
 <br>
 <br>
-<hr style="border: solid 2px red;">
+<hr style="border: solid 1px #c80000;">
 <br>
 <br>
 
