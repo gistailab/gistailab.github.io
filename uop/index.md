@@ -90,7 +90,7 @@ title: "04 Learning to Place Unseen Objects Stably using a Large-scale Simulatio
                     <a href="https://github.com/gist-ailab/uop-net" style="color: #ffffff">
                         <div class="link_button">
                             <!-- <center> -->
-                            <i class="bi bi-github"></i> Code 
+                            <i class="bi bi-github"></i> Code / Dataset
                             <!-- </center> -->
                         </div>
                     </a>
@@ -236,6 +236,11 @@ This work was also partially supported by the HPC Support project of the Korea M
 <br>
 
 # Authors & Contacts
+
+<center>
+Contact email to get more information on the project<br>
+GIST 광주과학기술원 ([gist.ac.kr](https://www.gist.ac.kr/kr/main.html)) | AILAB GIST AILAB 
+</center>
 
 <!-- TODO: add image -->
 <center>
