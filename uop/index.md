@@ -1,5 +1,5 @@
 ---
-title: "02 Learning to Place Unseen Objects Stably using a Large-scale Simulation"
+title: "03 Learning to Place Unseen Objects Stably using a Large-scale Simulation"
 ---
 <br>
 
@@ -77,13 +77,13 @@ title: "02 Learning to Place Unseen Objects Stably using a Large-scale Simulatio
             </td>
         </tr>
         <br>
-        <tr style="border: none;">
-            <!-- <center> -->                                                                   <!-- FIXME -->
+        <!-- <tr style="border: none;"> -->
+            <center>                                                                            <!-- FIXME -->
             <!-- <td style="border: none;"> -->
                 (Official code and dataset will be released at publication.)
             <!-- </td> -->
-            <!-- </center> -->
-        </tr>
+            </center>
+        <!-- </tr> -->
     </table>
     <br>
     <video width="75%" controls autoplay muted loop>
