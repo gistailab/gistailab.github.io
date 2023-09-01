@@ -4,69 +4,91 @@ title: "02 Learning to Place Unseen Objects Stably using a Large-scale Simulatio
 <br>
 
 <center>
-<h1 style="display: block;">
-    Learning to Place Unseen Objects Stably<br>
-    using a Large-scale Simulation
-</h1>
-RA-L submitted <br>
-<table style="border: none; display: initial;">
-    <tr style="border: none;">
-        <td style="border: none;"><a href="mailto:sangjun7@gm.gist.ac.kr">Sangjun Noh</a><sup>*,1</sup></td>
-        <td style="border: none;"><a href="mailto:raeyo@gm.gist.ac.kr">Raeyoung Kang</a><sup>*,1</sup></td>
-        <td style="border: none;"><a href="mailto:ailab.ktw@gm.gist.ac.kr">Taewon Kim</a><sup>*,1</sup></td>
-        <td style="border: none;"><a href="mailto:shback@gm.gist.ac.kr">Seunghyeok Back</a><sup>1</sup></td>
-        <td style="border: none;"><a href="mailto:bakseongho@gm.gist.ac.kr">Seongho Bak</a><sup>1</sup></td>
-        <td style="border: none;"><a href="mailto:kyoobinlee@gist.ac.kr">Kyoobin Lee</a><sup>†, 1</sup></td>
-    </tr>
-</table>
-<br>
-<table style="border: none; display: initial;">
-    <tr style="border: none;">
-        <td style="border: none;"><sup>*</sup>These authors contributed equally to the paper</td>
-        <td style="border: none;"><sup>†</sup>Corresponding author</td>
-    </tr>
-    <tr style="border: none;">
-        <td style="border: none;"><sup>1</sup>Gwangju Institute of Science and Technology (GIST)</td>
-    </tr>
-</table>
-<br>
-<table style="border: none; display: initial;">
-    <tr style="border: none;">
-        <td style="border: none;">
-            <a href="https://arxiv.org/abs/2303.08387" style="color: #ffffff">
-                <div class="link_button">
-                    <i class="bi bi-file-earmark-richtext"></i> Paper (preprint)
-                </div>
-            </a>
-        </td>
-        <td style="border: none;"></td> <!-- intervals -->
-        <td style="border: none;"></td> <!-- intervals -->
-        <td style="border: none; display: initial;">
-            <a href="https://github.com/gist-ailab/uop-net" style="color: #ffffff">
-                <div class="link_button">
-                    <i class="bi bi-github"></i> Code (Github)
-                </div>
-            </a>
-        </td>
-        <td style="border: none;"></td> <!-- intervals -->
-        <td style="border: none;"></td> <!-- intervals -->
-        <td style="border: none;">
-            <a href="https://www.youtube.com/watch?v=08F4jxSEL7A" style="color: #ffffff">
-                <div class="link_button">
-                    <i class="bi bi-youtube"></i> Video (Youtube)
-                </div>
-            </a>
-        </td>
+    <h1 style="display: block;">
+        Learning to Place Unseen Objects Stably<br>
+        using a Large-scale Simulation
+    </h1>
+    RA-L submitted <br>
+    <table style="border: none; display: initial;">
         <tr style="border: none;">
-            <td style="border: none;">(Official code and dataset will be released at publication.)</td>
+            <td style="border: none;"><a href="mailto:sangjun7@gm.gist.ac.kr">Sangjun Noh</a><sup>*,1</sup></td>
+            <td style="border: none;"><a href="mailto:raeyo@gm.gist.ac.kr">Raeyoung Kang</a><sup>*,1</sup></td>
+            <td style="border: none;"><a href="mailto:ailab.ktw@gm.gist.ac.kr">Taewon Kim</a><sup>*,1</sup></td>
+            <td style="border: none;"><a href="mailto:shback@gm.gist.ac.kr">Seunghyeok Back</a><sup>1</sup></td>
+            <td style="border: none;"><a href="mailto:bakseongho@gm.gist.ac.kr">Seongho Bak</a><sup>1</sup></td>
+            <td style="border: none;"><a href="mailto:kyoobinlee@gist.ac.kr">Kyoobin Lee</a><sup>†, 1</sup></td>
         </tr>
-    </tr>
-</table>
-<br>
-<video width="75%" controls autoplay muted loop>
-    <source src="./assets/20230901_Home-DataGeneration_01.mp4" type="video/mp4">                       <!-- TODO: add presentation video -->
-    Your browser does not support the video tag.
-</video> 
+    </table>
+    <br>
+    <table style="border: none; display: initial;">
+        <tr style="border: none;">
+            <td style="border: none;">
+                <!-- <div class="avoid"> -->
+                <sup>*</sup>These authors contributed equally to the paper
+                <!-- </div> -->
+            </td>
+            <td style="border: none;">
+                <!-- <div class="avoid"> -->
+                <sup>†</sup>Corresponding author
+                <!-- </div> -->
+            </td>
+        </tr>
+        <tr style="border: none;">
+            <!-- <td style="border: none;"> -->                                                 <!-- FIXME -->
+                <!-- <div class="avoid"> -->
+                <sup>1</sup>Gwangju Institute of Science and Technology (GIST)
+                <!-- </div> -->
+            <!-- </td> -->
+        </tr>
+    </table>
+    <br>
+    <table style="border: none; display: initial;">
+        <tr style="border: none;">
+            <td style="border: none;">
+                <a href="https://arxiv.org/abs/2303.08387" style="color: #ffffff">
+                    <div class="link_button">
+                        <center>
+                        <i class="bi bi-file-earmark-richtext"></i> Paper <br>(preprint)
+                        </center>
+                    </div>
+                </a>
+            </td>
+            <td style="border: none;"></td> <!-- intervals -->
+            <td style="border: none;"></td> <!-- intervals -->
+            <td style="border: none; display: initial;">
+                <a href="https://github.com/gist-ailab/uop-net" style="color: #ffffff">
+                    <div class="link_button">
+                        <center>
+                        <i class="bi bi-github"></i> Code <br>(Github)
+                        </center>
+                    </div>
+                </a>
+            </td>
+            <td style="border: none;"></td> <!-- intervals -->
+            <td style="border: none;"></td> <!-- intervals -->
+            <td style="border: none;">
+                <a href="https://www.youtube.com/watch?v=08F4jxSEL7A" style="color: #ffffff">
+                    <div class="link_button">
+                        <center>
+                        <i class="bi bi-youtube"></i> Video <br>(Youtube)
+                        </center>
+                    </div>
+                </a>
+            </td>
+        </tr>
+        <tr style="border: none;">
+            <!-- <center> -->                                                                   <!-- FIXME -->
+            <!-- <td style="border: none;"> -->
+                (Official code and dataset will be released at publication.)
+            <!-- </td> -->
+            <!-- </center> -->
+        </tr>
+    </table>
+    <br>
+    <video width="75%" controls autoplay muted loop>
+        <source src="./assets/20230901_Home-DataGeneration_01.mp4" type="video/mp4">            <!-- TODO: add presentation video -->
+        Your browser does not support the video tag.
+    </video> 
 </center>
 
 # Abstract
@@ -109,7 +131,6 @@ Object placement is a fundamental task for robots, yet it remains challenging fo
 <!-- <hr style="border: solid 1px #c80000;"> -->
 <hr style="#c80000;">
 <br>
-<br>
 
 # Citation
 
@@ -142,3 +163,10 @@ This work was also partially supported by the HPC Support project of the Korea M
 <center>
 [ Address : Dasan Building (C9) 204/206 & Central Research Facilities (C11) 403, 123 Cheomdangwagi-ro, Buk-gu, Gwangju, 61005, Korea ]
 </center>
+
+<!-- <style type="text/css">
+  .avoid {
+    page-break-inside: avoid !important;
+    margin: 4px 0 4px 0;  /* to keep the page break from cutting too close to the text in the div */
+  }
+</style> -->
