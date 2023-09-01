@@ -119,12 +119,37 @@ Object placement is a fundamental task for robots, yet it remains challenging fo
 ## Comparison each Result with the YCB Object Set & Novel Household Objects
 
 <!-- TODO: add gif image -->
+<center>
+<img src="./assets/inference_result/~.png" alt="Inference Result 1" style="margin: 10px 20px 10px 0px;" width="40%"/>
+<img src="./assets/inference_result/~.png" alt="Inference Result 1 gif" style="margin: 10px 20px 10px 0px;" width="40%"/>
+<br>
+<img src="./assets/inference_result/~.png" alt="Inference Result 2" style="margin: 10px 20px 10px 0px;" width="40%"/>
+<img src="./assets/inference_result/~.png" alt="Inference Result 2 gif" style="margin: 10px 20px 10px 0px;" width="40%"/>
+<br>
+<img src="./assets/inference_result/~.png" alt="Inference Result 3" style="margin: 10px 20px 10px 0px;" width="40%"/>
+<img src="./assets/inference_result/~.png" alt="Inference Result 3 gif" style="margin: 10px 20px 10px 0px;" width="40%"/>
+<br>
+<img src="./assets/inference_result/~.png" alt="Inference Result 4" style="margin: 10px 20px 10px 0px;" width="40%"/>
+<img src="./assets/inference_result/~.png" alt="Inference Result 4 gif" style="margin: 10px 20px 10px 0px;" width="40%"/>
+<br>
+</center>
 
 <br>
 
 ## Additional Inference Results (pics)
-
+<center>
 <!-- TODO: add pic image -->
+<img src="./assets/additional_result/~.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="40%"/>
+<br>
+<img src="./assets/additional_result/~.png" alt="Additional Result 2" style="margin: 10px 20px 10px 0px;" width="40%"/>
+<br>
+<img src="./assets/additional_result/~.png" alt="Additional Result 3" style="margin: 10px 20px 10px 0px;" width="40%"/>
+<br>
+<img src="./assets/additional_result/~.png" alt="Additional Result 4" style="margin: 10px 20px 10px 0px;" width="40%"/>
+<br>
+<img src="./assets/additional_result/~.png" alt="Additional Result 5" style="margin: 10px 20px 10px 0px;" width="40%"/>
+<br>
+</center>
 
 <br>
 <br>
@@ -155,13 +180,18 @@ This work was also partially supported by the HPC Support project of the Korea M
 # Authors & Contacts
 
 <!-- TODO: add image -->
-<img src="./assets/~.png" alt="AILAB GAER Logo" style="float: left; margin: 10px 20px 10px 0px;" width="40%"/>
-<img src="./assets/~.png" alt="GIST-AILAB Logo" style="float: left; margin: 10px 20px 10px 0px;" width="40%"/>
+<center>
+<img src="./assets/~.png" alt="AILAB GAER Logo" style="margin: 10px 20px 10px 0px;" width="40%"/>
+<br>
+<img src="./assets/~.png" alt="GIST-AILAB Logo" style="margin: 10px 20px 10px 0px;" width="40%"/>
+<br>
+</center>
 
 <br>
 
 <center>
-[ Address : Dasan Building (C9) 204/206 & Central Research Facilities (C11) 403, 123 Cheomdangwagi-ro, Buk-gu, Gwangju, 61005, Korea ]
+    [ Address : Dasan Building (C9) 204/206 & Central Research Facilities (C11) 403, <br>
+    123 Cheomdangwagi-ro, Buk-gu, Gwangju, 61005, Korea ]
 </center>
 
 <!-- <style type="text/css">
@@ -170,3 +200,4 @@ This work was also partially supported by the HPC Support project of the Korea M
     margin: 4px 0 4px 0;  /* to keep the page break from cutting too close to the text in the div */
   }
 </style> -->
+<!-- <img src="./assets/~.png" alt="AILAB GAER Logo" style="float: left; margin: 10px 20px 10px 0px;" width="40%"/> -->
