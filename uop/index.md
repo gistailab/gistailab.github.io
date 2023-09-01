@@ -139,9 +139,18 @@ Object placement is a fundamental task for robots, yet it remains challenging fo
 
 <!-- TODO: add image -->
 <center>
-<img src="./assets/uop_pipeline/~.png" alt="uop_pipeline 1" style="margin: 10px 20px 10px 0px;" width="40%"/>
-<img src="./assets/uop_pipeline/~.png" alt="uop_pipeline 2" style="margin: 10px 20px 10px 0px;" width="40%"/>
-<br>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/image/uop_pipeline_1.png" alt="UOP Pipeline 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/image/uop_pipeline_2.png" alt="UOP Pipeline 2" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 </center>
 
 <br>
@@ -163,21 +172,71 @@ Object placement is a fundamental task for robots, yet it remains challenging fo
 
 <!-- TODO: add gif image -->
 <center>
-<img src="./assets/image/inference_result/1_mustard.png" alt="Inference Result 1" style="margin: 10px 20px 10px 0px;" width="35%"/>
-<img src="./assets/image/inference_result/1_mustard.gif" alt="Inference Result 1 gif" style="margin: 10px 20px 10px 0px;" width="60%"/>
-<br>
-<img src="./assets/image/inference_result/2_spam.png" alt="Inference Result 2" style="margin: 10px 20px 10px 0px;" width="35%"/>
-<img src="./assets/image/inference_result/2_spam.gif" alt="Inference Result 2 gif" style="margin: 10px 20px 10px 0px;" width="60%"/>
-<br>
-<img src="./assets/image/inference_result/3_sugar_box.png" alt="Inference Result 3" style="margin: 10px 20px 10px 0px;" width="35%"/>
-<img src="./assets/image/inference_result/3_sugar_box.gif" alt="Inference Result 3 gif" style="margin: 10px 20px 10px 0px;" width="60%"/>
-<br>
-<img src="./assets/image/inference_result/4_LEGO.png" alt="Inference Result 4" style="margin: 10px 20px 10px 0px;" width="35%"/>
-<img src="./assets/image/inference_result/4_LEGO.gif" alt="Inference Result 4 gif" style="margin: 10px 20px 10px 0px;" width="60%"/>
-<br>
-<img src="./assets/image/inference_result/5_dinosaur.png" alt="Inference Result 5" style="margin: 10px 20px 10px 0px;" width="35%"/>
-<img src="./assets/image/inference_result/5_dinosaur.gif" alt="Inference Result 5 gif" style="margin: 10px 20px 10px 0px;" width="60%"/>
-<br>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/image/inference_result/1_mustard.png" alt="Inference Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/image/inference_result/1_mustard.gif" alt="Inference Result 1 gif" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <br>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/image/inference_result/2_spam.png" alt="Inference Result 2" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/image/inference_result/2_spam.gif" alt="Inference Result 2 gif" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <br>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/image/inference_result/3_sugar_box.png" alt="Inference Result 3" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/image/inference_result/3_sugar_box.gif" alt="Inference Result 3 gif" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <br>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/image/inference_result/4_LEGO.png" alt="Inference Result 4" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/image/inference_result/4_LEGO.gif" alt="Inference Result 4 gif" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <br>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/image/inference_result/5_dinosaur.png" alt="Inference Result 5" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/image/inference_result/5_dinosaur.gif" alt="Inference Result 5 gif" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <br>
 </center>
 
 <br>
