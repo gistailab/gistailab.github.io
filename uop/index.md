@@ -134,6 +134,11 @@ This work was also partially supported by the HPC Support project of the Korea M
 # Authors & Contacts
 
 <!-- TODO: add image -->
+<img src="./assets/~.png" alt="AILAB GAER Logo" style="float: left; margin: 10px 20px 10px 0px;" width="40%"/>
 <img src="./assets/~.png" alt="GIST-AILAB Logo" style="float: left; margin: 10px 20px 10px 0px;" width="40%"/>
 
-[Address : Dasan Building (C9) 204/206, 123 Cheomdangwagi-ro, Buk-gu, Gwangju, 61005, Korea  ]
+<br>
+
+<center>
+[ Address : Dasan Building (C9) 204/206 & Central Research Facilities (C11) 403, 123 Cheomdangwagi-ro, Buk-gu, Gwangju, 61005, Korea ]
+</center>
