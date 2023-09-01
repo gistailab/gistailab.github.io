@@ -9,89 +9,98 @@ title: "04 Learning to Place Unseen Objects Stably using a Large-scale Simulatio
         using a Large-scale Simulation
     </h1>
     RA-L submitted <br>
+    <!-- Authors ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ---- -->
     <table style="border: none; display: initial;">
-        <tr style="border: none;">
-            <td style="border: none;"><a href="mailto:sangjun7@gm.gist.ac.kr">Sangjun Noh</a><sup>*,1</sup></td>
-            <td style="border: none;"><a href="mailto:raeyo@gm.gist.ac.kr">Raeyoung Kang</a><sup>*,1</sup></td>
-            <td style="border: none;"><a href="mailto:ailab.ktw@gm.gist.ac.kr">Taewon Kim</a><sup>*,1</sup></td>
-            <td style="border: none;"><a href="mailto:shback@gm.gist.ac.kr">Seunghyeok Back</a><sup>1</sup></td>
-            <td style="border: none;"><a href="mailto:bakseongho@gm.gist.ac.kr">Seongho Bak</a><sup>1</sup></td>
-            <td style="border: none;"><a href="mailto:kyoobinlee@gist.ac.kr">Kyoobin Lee</a><sup>†, 1</sup></td>
-        </tr>
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;"><a href="mailto:sangjun7@gm.gist.ac.kr">Sangjun Noh</a><sup>*,1</sup></td>
+                <td style="border: none;"><a href="mailto:raeyo@gm.gist.ac.kr">Raeyoung Kang</a><sup>*,1</sup></td>
+                <td style="border: none;"><a href="mailto:ailab.ktw@gm.gist.ac.kr">Taewon Kim</a><sup>*,1</sup></td>
+                <td style="border: none;"><a href="mailto:shback@gm.gist.ac.kr">Seunghyeok Back</a><sup>1</sup></td>
+                <td style="border: none;"><a href="mailto:bakseongho@gm.gist.ac.kr">Seongho Bak</a><sup>1</sup></td>
+                <td style="border: none;"><a href="mailto:kyoobinlee@gist.ac.kr">Kyoobin Lee</a><sup>†, 1</sup></td>
+            </tr>
+        </tbody>
     </table>
     <br>
     <table style="border: none; display: initial;">
-        <tr style="border: none;">
-            <td style="border: none;">
-                <!-- <div class="avoid"> -->
-                <sup>*</sup>These authors contributed equally to the paper
-                <!-- </div> -->
-            </td>
-            <td style="border: none;">
-                <!-- <div class="avoid"> -->
-                <sup>†</sup>Corresponding author
-                <!-- </div> -->
-            </td>
-        </tr>
-        <tr style="border: none;">
-            <!-- <td style="border: none;"> -->                                                 <!-- FIXME -->
-                <!-- <div class="avoid"> -->
-                <sup>1</sup>Gwangju Institute of Science and Technology (GIST)
-                <!-- </div> -->
-            <!-- </td> -->
-        </tr>
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <sup>*</sup>These authors contributed equally to the paper
+                </td>
+                <td style="border: none;">
+                    <sup>†</sup>Corresponding author
+                </td>
+            </tr>
+        </tbody>
     </table>
     <br>
     <table style="border: none; display: initial;">
-        <tr style="border: none;">
-            <td style="border: none;">
-                <a href="https://arxiv.org/abs/2303.08387" style="color: #ffffff">
-                    <div class="link_button">
-                        <center>
-                        <i class="bi bi-file-earmark-richtext"></i> Paper (arxiv preprint)
-                        </center>
-                    </div>
-                </a>
-            </td>
-            <td style="border: none;"></td> <!-- intervals -->
-            <td style="border: none;"></td> <!-- intervals -->
-            <td style="border: none; display: initial;">
-                <a href="https://github.com/gist-ailab/uop-net" style="color: #ffffff">
-                    <div class="link_button">
-                        <center>
-                        <i class="bi bi-github"></i> Code(AILAB Git repo)
-                        </center>
-                    </div>
-                </a>
-            </td>
-            <td style="border: none;"></td> <!-- intervals -->
-            <td style="border: none;"></td> <!-- intervals -->
-            <td style="border: none;">
-                <a href="https://www.youtube.com/watch?v=08F4jxSEL7A" style="color: #ffffff">
-                    <div class="link_button">
-                        <center>
-                        <i class="bi bi-youtube"></i> Video (AILAB Youtube)
-                        </center>
-                    </div>
-                </a>
-            </td>
-        </tr>
-        <br>
-        <!-- <tr style="border: none;"> -->
-            <center>                                                                            <!-- FIXME -->
-            <!-- <td style="border: none;"> -->
-                (Official code and dataset will be released at publication.)
-            <!-- </td> -->
-            </center>
-        <!-- </tr> -->
+        <tbody>
+            <tr style="border: none;">
+                    <sup>1</sup>Gwangju Institute of Science and Technology (GIST)
+            </tr>
+        </tbody>
     </table>
     <br>
+    <br>
+    <!-- Links ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ---- -->
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <a href="https://arxiv.org/abs/2303.08387" style="color: #ffffff">
+                        <div class="link_button">
+                            <center>
+                            <i class="bi bi-file-earmark-richtext"></i> Paper
+                            </center>
+                        </div>
+                    </a>
+                </td>
+                <td style="border: none;"></td> <!-- intervals -->
+                <td style="border: none;"></td> <!-- intervals -->
+                <td style="border: none; display: initial;">
+                    <a href="https://github.com/gist-ailab/uop-net" style="color: #ffffff">
+                        <div class="link_button">
+                            <center>
+                            <i class="bi bi-github"></i> Code 
+                            </center>
+                        </div>
+                    </a>
+                </td>
+                <td style="border: none;"></td> <!-- intervals -->
+                <td style="border: none;"></td> <!-- intervals -->
+                <td style="border: none;">
+                    <a href="https://www.youtube.com/watch?v=08F4jxSEL7A" style="color: #ffffff">
+                        <div class="link_button">
+                            <center>
+                            <i class="bi bi-youtube"></i> Video 
+                            </center>
+                        </div>
+                    </a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">(Official code and dataset will be released at publication.)</td>
+            </tr>
+        </tbody>
+    </table>
+    <br>
+    <!-- PT video ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ---- -->
     <video width="75%" controls autoplay muted loop>
         <source src="./assets/20230901_Home-DataGeneration_01.mp4" type="video/mp4">            <!-- TODO: add presentation video -->
         Your browser does not support the video tag.
     </video> 
 </center>
 
+<br>
+
+<!-- Paper contents ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ---- -->
 # Abstract
 
 Object placement is a fundamental task for robots, yet it remains challenging for partially observed objects. Existing methods for object placement have limitations, such as the requirement for a complete 3D model of the object or the inability to handle complex shapes and novel objects, which restrict the applicability of robots in the real world. Our focus was on addressing the Unseen Object Placement (UOP) problem. We tackled the UOP problem using two methods: (1) UOP-Net, a point cloud segmentation based approach that directly detects the most stable plane from partial point clouds, and (2) UOP-Sim, a large-scale dataset to accommodate various shapes and novel objects. Our UOP approach enables robots to place objects stably, even when the object's shape and properties are not fully known, providing a promising solution for object placement in various environments. We verify our approach through simulation and real-world robot experiments, demonstrating state-of-the-art performance for placing single-view and partial objects. For comprehensive findings, please refer to https://sites.google.com/uop-net. (This page)
