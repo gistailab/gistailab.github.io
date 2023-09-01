@@ -2,6 +2,8 @@
 title: "GIST - AILAB paper project home"
 ---
 
+<br>
+
 # GIST AILAB
 
 [Homepage](https://sites.google.com/view/gistailab)
@@ -12,6 +14,7 @@ title: "GIST - AILAB paper project home"
 
 [Project page (This page)](https://gistailab.github.io/)
 
+<br>
 
 ## paper projects
 
