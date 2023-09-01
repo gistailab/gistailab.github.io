@@ -466,3 +466,38 @@ Contact email to get more information on the project<br>
     [ Address : Dasan Building (C9) 204/206 & Central Research Facilities (C11) 403, <br>
     123 Cheomdangwagi-ro, Buk-gu, Gwangju, 61005, Korea ]
 </center>
+
+<br>
+<br>
+
+<footer class="footer">
+  <div class="container">
+    <div class="content has-text-centered">
+      <!-- <a class="icon-link"
+         href="./static/videos/nerfies_paper.pdf">
+        <i class="fas fa-file-pdf"></i>
+      </a> -->
+      <center>
+        <a class="icon-link" href="https://github.com/keunhong" class="external-link" disabled>website format
+            <i class="fab fa-github"></i>
+        </a>
+      </center>
+    </div>
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+          <p>
+            This website format is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+          </p>
+          <!-- <p>
+            This means you are free to borrow the <a
+              href="https://github.com/nerfies/nerfies.github.io">source code</a> of this website,
+            we just ask that you link back to this page in the footer.
+            Please remember to remove the analytics code included in the header of the website which
+            you do not want on your website.
+          </p> -->
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
