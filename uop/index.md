@@ -188,7 +188,7 @@ title: "Learning to Place Unseen Objects Stably using a Large-scale Simulation"
 <br>
 <br>
 
-# UOP-Sim Data Test Set Visualize
+# UOP-Sim Data Test Set Visualize (YCB Objects)
 
 <center>
     <table style="border: none; display: initial;">
@@ -370,7 +370,7 @@ title: "Learning to Place Unseen Objects Stably using a Large-scale Simulation"
 <br>
 <br>
 
-## Additional Inference Results (pics)
+## Additional Inference Results
 
 - **Chips can (YCB Object)**
 
