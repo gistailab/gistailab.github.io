@@ -18,9 +18,9 @@ RA-L submitted <br>
 <br>
 <table style="border: none; display: initial;">
     <tr style="border: none;">
-        <td style="border: none;"><sup>*</sup>These authors contributed equally to the paper</td>
-        <td style="border: none;"><sup>†</sup>Corresponding author</td>
-        <td style="border: none;"><sup>1</sup>Gwangju Institute of Science and Technology (GIST)</td>
+        <tr style="border: none;"><sup>*</sup>These authors contributed equally to the paper</tr>
+        <tr style="border: none;"><sup>†</sup>Corresponding author</tr>
+        <tr style="border: none;"><sup>1</sup>Gwangju Institute of Science and Technology (GIST)</tr>
     </tr>
 </table>
 <br>
