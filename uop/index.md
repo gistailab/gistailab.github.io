@@ -36,7 +36,7 @@ title: "Learning to Place Unseen Objects Stably using a Large-scale Simulation"
         using a Large-scale Simulation
     </h1>
     <br>
-    under review <br>
+    published in in 24' IEEE RA-L <br>
     <br>
     <!-- Authors ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ---- -->
     <table style="border: none; display: initial;">
@@ -79,7 +79,7 @@ title: "Learning to Place Unseen Objects Stably using a Large-scale Simulation"
         <tbody>
             <tr style="border: none;">
                 <td style="border: none;">
-                    <a href="https://arxiv.org/abs/2303.08387" style="color: #ffffff">
+                    <a href="https://ieeexplore.ieee.org/document/10417128" style="color: #ffffff">
                         <div class="link_button">
                             <!-- <center> -->
                             <i class="bi bi-file-earmark-richtext"></i> Paper
@@ -116,7 +116,7 @@ title: "Learning to Place Unseen Objects Stably using a Large-scale Simulation"
     <table style="border: none; display: initial;">
         <tbody>
             <tr style="border: none;">
-                <td style="border: none;">(Official code and dataset will be released upon publication.)</td>
+                <td style="border: none;">(Official code and dataset is now released !)</td>
             </tr>
         </tbody>
     </table>
