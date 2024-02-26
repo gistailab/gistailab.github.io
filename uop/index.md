@@ -116,7 +116,7 @@ title: "Learning to Place Unseen Objects Stably using a Large-scale Simulation"
     <table style="border: none; display: initial;">
         <tbody>
             <tr style="border: none;">
-                <td style="border: none;">(Official code and dataset is now released !)</td>
+                <td style="border: none;">( !! Official code and dataset is now released !! )</td>
             </tr>
         </tbody>
     </table>
