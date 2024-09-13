@@ -158,103 +158,15 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <br>
 <br>
 
-<!-- # Inference in Real World
-
-<center>
-    <video width="75%" autoplay muted loop>
-        <source src="./assets/20230901_Home-DataGeneration_02.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video> 
-</center>
-
-<br>
-<br>
-<br>
-<br>
-
-# UOP-Sim Data Test Set Visualize (YCB Objects)
-
-<center>
-    <table style="border: none; display: initial;">
-        <tbody>
-            <tr style="border: none;">
-                <td style="border: none;">
-                    <img src="./assets/image/dataset_visualize/YCB_Picture1.png" alt="YCB Visualize 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
-                </td>
-                <td style="border: none;">
-                    <img src="./assets/image/dataset_visualize/YCB_Picture2.png" alt="YCB Visualize 2" style="margin: 10px 20px 10px 0px;" width="100%"/>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</center>
-<br>
-<center>
-    <table style="border: none; display: initial;">
-        <tbody>
-            <tr style="border: none;">
-                <td style="border: none;">
-                    <img src="./assets/image/dataset_visualize/YCB_Picture3.png" alt="YCB Visualize 3" style="margin: 10px 20px 10px 0px;" width="100%"/>
-                </td>
-                <td style="border: none;">
-                    <img src="./assets/image/dataset_visualize/YCB_Picture4.png" alt="YCB Visualize 4" style="margin: 10px 20px 10px 0px;" width="100%"/>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</center>
-<br>
-<center>
-    <table style="border: none; display: initial;">
-        <tbody>
-            <tr style="border: none;">
-                <td style="border: none;">
-                    <img src="./assets/image/dataset_visualize/YCB_Picture5.png" alt="YCB Visualize 5" style="margin: 10px 20px 10px 0px;" width="100%"/>
-                </td>
-                <td style="border: none;">
-                    <img src="./assets/image/dataset_visualize/YCB_Picture6.png" alt="YCB Visualize 6" style="margin: 10px 20px 10px 0px;" width="100%"/>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</center>
-<br>
-<center>
-    <table style="border: none; display: initial;">
-        <tbody>
-            <tr style="border: none;">
-                <td style="border: none;">
-                    <img src="./assets/image/dataset_visualize/YCB_Picture7.png" alt="YCB Visualize 7" style="margin: 10px 20px 10px 0px;" width="100%"/>
-                </td>
-                <td style="border: none;">
-                    <img src="./assets/image/dataset_visualize/YCB_Picture8.png" alt="YCB Visualize 8" style="margin: 10px 20px 10px 0px;" width="100%"/>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</center>
-<br>
-<center>
-    <table style="border: none; display: initial;">
-        <tbody>
-            <tr style="border: none;">
-                <td style="border: none;">
-                    <img src="./assets/image/dataset_visualize/YCB_Picture9.png" alt="YCB Visualize 9" style="margin: 10px 20px 10px 0px;" width="110%"/>
-                </td>
-                <td style="border: none;">
-                    <img src="./assets/image/dataset_visualize/YCB_Picture10.png" alt="YCB Visualize 10" style="margin: 10px 20px 10px 0px;" width="95%"/>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</center>
-<br> -->
-
 # Inference GrapSAM in Real World
 
-<br>
+<!-- <br> -->
 
 <!-- ## Prompt: 10point -->
+- **Prompt: 1point**
+<br>
+
+
 - **Prompt: 10point**
 
 
@@ -289,9 +201,12 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <br>
 
 
+- **Prompt: Bbox**
+
 <br>
-<br>
-<br>
+
+- **Prompt: Eye Gaze**
+
 <br>
 
 <!-- ## Additional Inference Results
