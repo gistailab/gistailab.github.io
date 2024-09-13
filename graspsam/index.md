@@ -75,22 +75,22 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         <tbody>
             <tr style="border: none;">
                 <td style="border: none;">
-                    <a href="https://ieeexplore.ieee.org/document/10417128" style="color: #ffffff">
-                        <div class="link_button">
+                    <!-- <a href="https://ieeexplore.ieee.org/document/10417128" style="color: #ffffff"> -->
+                        <!-- <div class="link_button"> -->
                             <!-- <i class="bi bi-file-earmark-richtext"></i> Paper -->
-                        </div>
-                    </a>
+                        <!-- </div> -->
+                    <!-- </a> -->
                 </td>
                 <td style="border: none;"></td> <!-- intervals -->
                 <td style="border: none;"></td> <!-- intervals -->
                 <td style="border: none; display: initial;">
-                    <a href="https://github.com/gist-ailab/uop-net" style="color: #ffffff">
-                        <div class="link_button">
+                    <!-- <a href="https://github.com/gist-ailab/uop-net" style="color: #ffffff"> -->
+                        <!-- <div class="link_button"> -->
                             <!-- <center> -->
                             <!-- <i class="bi bi-github"></i> Code / Dataset -->
                             <!-- </center> -->
-                        </div>
-                    </a>
+                        <!-- </div> -->
+                    <!-- </a> -->
                 </td>
             </tr>
         </tbody>
