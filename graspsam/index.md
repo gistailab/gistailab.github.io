@@ -254,7 +254,9 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 
 <br>
 
-## Prompt: 10point
+<!-- ## Prompt: 10point -->
+- **Prompt: 10point**
+
 
 <!-- <center>
     <video width="75%" autoplay muted loop>
