@@ -32,8 +32,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 
 <center>
     <h1 style="display: block;">
-        <!-- Learning to Place Unseen Objects Stably<br>
-        using a Large-scale Simulation -->
+        GraspSAM: When Segment Anything Model Meets Grasp Detection
     </h1>
     <br>
     <!-- published in in 24' IEEE RA-L <br> -->
