@@ -34,11 +34,11 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
     <h1 style="display: block;">
         GraspSAM: When Segment Anything Model Meets Grasp Detection<br>
     </h1>
-    <br>
+    <!-- <br> -->
     <!-- published in in 24' IEEE RA-L <br> -->
-    <br>
+    <!-- <br> -->
     <!-- Authors ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ---- -->
-    <table style="border: none; display: initial;">
+    <!-- <table style="border: none; display: initial;"> -->
         <!-- <tbody>
             <tr style="border: none;">
                 <td style="border: none;"><a href="mailto:sangjun7@gm.gist.ac.kr">Sangjun Noh</a><sup>*</sup></td>
@@ -50,7 +50,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
             </tr>
         </tbody>
     </table> -->
-    <br>
+    <!-- <br> -->
     <!-- <table style="border: none; display: initial;">
         <tbody>
             <tr style="border: none;">
@@ -59,8 +59,8 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
                 </td>
             </tr>
         </tbody> -->
-    </table>
-    <br>
+    <!-- </table> -->
+    <!-- <br> -->
     <!-- <table style="border: none; display: initial;">
         <tbody>
             <tr style="border: none;">
@@ -68,22 +68,22 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
             </tr>
         </tbody>
     </table> -->
-    <br>
-    <br>
+    <!-- <br> -->
+    <!-- <br> -->
     <!-- Links ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ---- -->
-    <table style="border: none; display: initial;">
-        <tbody>
-            <tr style="border: none;">
-                <td style="border: none;">
+    <!-- <table style="border: none; display: initial;"> -->
+        <!-- <tbody> -->
+            <!-- <tr style="border: none;"> -->
+                <!-- <td style="border: none;"> -->
                     <!-- <a href="https://ieeexplore.ieee.org/document/10417128" style="color: #ffffff"> -->
                         <!-- <div class="link_button"> -->
                             <!-- <i class="bi bi-file-earmark-richtext"></i> Paper -->
                         <!-- </div> -->
                     <!-- </a> -->
-                </td>
-                <td style="border: none;"></td> <!-- intervals -->
-                <td style="border: none;"></td> <!-- intervals -->
-                <td style="border: none; display: initial;">
+                <!-- </td> -->
+                <!-- <td style="border: none;"></td> intervals -->
+                <!-- <td style="border: none;"></td> intervals -->
+                <!-- <td style="border: none; display: initial;"> -->
                     <!-- <a href="https://github.com/gist-ailab/uop-net" style="color: #ffffff"> -->
                         <!-- <div class="link_button"> -->
                             <!-- <center> -->
@@ -91,10 +91,10 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
                             <!-- </center> -->
                         <!-- </div> -->
                     <!-- </a> -->
-                </td>
-            </tr>
-        </tbody>
-    </table>
+                <!-- </td> -->
+            <!-- </tr> -->
+        <!-- </tbody> -->
+    <!-- </table> -->
     <br>
     <table style="border: none; display: initial;">
         <tbody>
