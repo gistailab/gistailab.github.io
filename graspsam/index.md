@@ -61,13 +61,13 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         </tbody> -->
     </table>
     <br>
-    <table style="border: none; display: initial;">
+    <!-- <table style="border: none; display: initial;">
         <tbody>
             <tr style="border: none;">
                     <sup>1</sup>Gwangju Institute of Science and Technology (GIST)
             </tr>
         </tbody>
-    </table>
+    </table> -->
     <br>
     <br>
     <!-- Links ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ---- -->
@@ -272,7 +272,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
                 <td style="border: none;">
                     <img src="./assets/image/inference_result/1_mustard.gif" alt="Inference Result 1 gif" style="margin: 10px 20px 10px 0px;" width="100%"/>
                 </td> -->
-                <video width="50%" autoplay muted loop>
+                <video width="30%" autoplay muted loop>
                     <source src="./assets/10point_robot_1.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video> 
