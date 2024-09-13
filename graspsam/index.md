@@ -274,7 +274,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
                 <td style="border: none;">
                     <img src="./assets/image/inference_result/1_mustard.gif" alt="Inference Result 1 gif" style="margin: 10px 20px 10px 0px;" width="100%"/>
                 </td> -->
-                <video width="30%" autoplay muted loop>
+                <video width="28.125%" autoplay muted loop>
                     <source src="./assets/10point_robot_1.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video> 
