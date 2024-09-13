@@ -32,7 +32,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 
 <center>
     <h1 style="display: block;">
-        GraspSAM: When Segment Anything Model Meets Grasp Detection
+        GraspSAM: When Segment Anything Model Meets Grasp Detection<br>
     </h1>
     <br>
     <!-- published in in 24' IEEE RA-L <br> -->
