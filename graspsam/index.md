@@ -164,6 +164,21 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 
 <!-- ## Prompt: 10point -->
 - **Prompt: 1point**
+
+
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <video width="80%" autoplay muted loop>
+                    <source src="./assets/1point.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video> 
+            </tr>
+        </tbody>
+    </table>
+</center>
+
 <br>
 
 
@@ -207,9 +222,35 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 
 - **Prompt: Bbox**
 
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <video width="80%" autoplay muted loop>
+                    <source src="./assets/bbox.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video> 
+            </tr>
+        </tbody>
+    </table>
+</center>
+
 <br>
 
 - **Prompt: Eye Gaze**
+
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <video width="80%" autoplay muted loop>
+                    <source src="./assets/gaze.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video> 
+            </tr>
+        </tbody>
+    </table>
+</center>
 
 <br>
 
