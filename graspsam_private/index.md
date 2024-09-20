@@ -170,7 +170,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
     <table style="border: none; display: initial;">
         <tbody>
             <tr style="border: none;">
-                <video width="80%"  muted loop>
+                <video width="80%" play muted loop>
                     <source src="./assets/1point.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video> 
