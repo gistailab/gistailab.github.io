@@ -195,21 +195,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
     <table style="border: none; display: initial;">
         <tbody>
             <tr style="border: none;">
-                <!-- <td style="border: none;">
-                    <img src="./assets/image/inference_result/1_mustard.png" alt="Inference Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
-                </td>
-                <td style="border: none;">
-                    <img src="./assets/image/inference_result/1_mustard.gif" alt="Inference Result 1 gif" style="margin: 10px 20px 10px 0px;" width="100%"/>
-                </td> -->
-                <!-- <video width="28.125%" autoplay muted loop>
-                    <source src="./assets/10point_robot_1.mp4" type="video/mp4">
-                    Your browser does not support the video tag.
-                </video> 
-                <video width="50%" autoplay muted loop>
-                    <source src="./assets/10point_screen.mp4" type="video/mp4">
-                    Your browser does not support the video tag.
-                </video>  -->
-                <video width="80%" autoplay muted loop>
+                <video width="80%" controls>
                     <source src="./assets/10point_1.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video> 
@@ -226,7 +212,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
     <table style="border: none; display: initial;">
         <tbody>
             <tr style="border: none;">
-                <video width="80%" autoplay muted loop>
+                <video width="80%" controls>
                     <source src="./assets/bbox.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video> 
@@ -243,7 +229,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
     <table style="border: none; display: initial;">
         <tbody>
             <tr style="border: none;">
-                <video width="80%" autoplay muted loop>
+                <video width="80%" controls>
                     <source src="./assets/gaze.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video> 
