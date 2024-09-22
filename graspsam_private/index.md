@@ -158,12 +158,12 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <br>
 <br>
 
-# Inference GrapSAM in Real World
+# Inference GrapSAM in Real World Video
 
 <!-- <br> -->
 
 <!-- ## Prompt: 10point -->
-- **Prompt: 1point**
+- **Prompt: Prompt-driven Grasp Detection (Prompt: 1point)**
 
 
 <center>
@@ -171,7 +171,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         <tbody>
             <tr style="border: none;">
                 <video width="80%" controls>
-                    <source src="./assets/1point.mp4" type="video/mp4">
+                    <source src="./assets/videos/real_1point.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video> 
             </tr>
@@ -182,7 +182,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <br>
 
 
-- **Prompt: 10point**
+- **Prompt: Prompt-driven Grasp Detection (Prompt: 10point)**
 
 
 <!-- <center>
@@ -196,7 +196,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         <tbody>
             <tr style="border: none;">
                 <video width="80%" controls>
-                    <source src="./assets/10point_1.mp4" type="video/mp4">
+                    <source src="./assets/videos/real_10point.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video> 
             </tr>
@@ -206,14 +206,14 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <br>
 
 
-- **Prompt: Bbox**
+- **Prompt: Prompt-driven Grasp Detection (Prompt: Box)**
 
 <center>
     <table style="border: none; display: initial;">
         <tbody>
             <tr style="border: none;">
                 <video width="80%" controls>
-                    <source src="./assets/bbox.mp4" type="video/mp4">
+                    <source src="./assets/videos/real_bbox.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video> 
             </tr>
@@ -223,14 +223,14 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 
 <br>
 
-- **Prompt: Eye Gaze**
+- **Prompt: Prompt-driven Grasp Detection (Prompt: Language)**
 
 <center>
     <table style="border: none; display: initial;">
         <tbody>
             <tr style="border: none;">
                 <video width="80%" controls>
-                    <source src="./assets/gaze.mp4" type="video/mp4">
+                    <source src="./assets/videos/real_grounding.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video> 
             </tr>
@@ -240,16 +240,40 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 
 <br>
 
-<!-- ## Additional Inference Results
+- **Prompt: Prompt-driven Grasp Detection with Eye Gaze**
 
-- **Chips can (YCB Object)**
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <video width="80%" controls>
+                    <source src="./assets/videos/real_gaze.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video> 
+            </tr>
+        </tbody>
+    </table>
+</center>
+
+<br>
+
+
+## Additional Inference Results
+
+- **Grasp-Anything(Seen)**
 
 <center>
 <img src="./assets/image/additional_result/1_Chips can (YCB Object).png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
 </center>
 <br>
 
-- **Soap tray (Novel Household Object)**
+- **Grasp-Anything(Unseen)**
+
+
+
+
+
+<!-- - **Soap tray (Novel Household Object)**
 
 <center>
 <img src="./assets/image/additional_result/2_Soap tray (Novel Household Object).png" alt="Additional Result 2" style="margin: 10px 20px 10px 0px;" width="75%"/>
