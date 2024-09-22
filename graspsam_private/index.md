@@ -315,7 +315,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 
 <br>
 
-- **Grasp-Anything(Unseen)**
+- **Armbench**
 
 <center>
 <img src="./assets/images/armbench/1/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
@@ -339,12 +339,12 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <br>
 
 
-- **Grasp-Anything(Unseen)**
+- **GraspNet**
 
 <br>
 
 
-- **Grasp-Anything(Unseen)**
+- **OCID**
 
 <br>
 
