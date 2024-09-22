@@ -263,15 +263,90 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 - **Grasp-Anything(Seen)**
 
 <center>
-<img src="./assets/image/additional_result/1_Chips can (YCB Object).png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+<img src="./assets/images/graspanything/seen/5/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
 </center>
+<center>
+<img src="./assets/images/graspanything/seen/7/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+</center>
+<center>
+<img src="./assets/images/graspanything/seen/15/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+</center>
+<center>
+<img src="./assets/images/graspanything/seen/21/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+</center>
+<center>
+<img src="./assets/images/graspanything/seen/38/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+</center>
+<center>
+<img src="./assets/images/graspanything/seen/42/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+</center>
+<center>
+<img src="./assets/images/graspanything/seen/902/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+</center>
+<center>
+<img src="./assets/images/graspanything/seen/903/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+</center>
+
 <br>
 
 - **Grasp-Anything(Unseen)**
 
+<center>
+<img src="./assets/images/graspanything/unseen/7/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+</center>
+<center>
+<img src="./assets/images/graspanything/unseen/8/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+</center>
+<center>
+<img src="./assets/images/graspanything/unseen/10/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+</center>
+<center>
+<img src="./assets/images/graspanything/unseen/14/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+</center>
+<center>
+<img src="./assets/images/graspanything/unseen/17/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+</center>
+<center>
+<img src="./assets/images/graspanything/unseen/1002/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+</center>
+<center>
+<img src="./assets/images/graspanything/unseen/1053/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+</center>
+
+<br>
+
+- **Grasp-Anything(Unseen)**
+
+<center>
+<img src="./assets/images/armbench/1/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+</center>
+<center>
+<img src="./assets/images/armbench/11/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+</center>
+<center>
+<img src="./assets/images/armbench/21/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+</center>
+<center>
+<img src="./assets/images/armbench/34/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+</center>
+<center>
+<img src="./assets/images/armbench/86/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+</center>
+<center>
+<img src="./assets/images/armbench/99/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+</center>
+
+<br>
 
 
+- **Grasp-Anything(Unseen)**
 
+<br>
+
+
+- **Grasp-Anything(Unseen)**
+
+<br>
 
 <!-- - **Soap tray (Novel Household Object)**
 
