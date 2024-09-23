@@ -142,12 +142,6 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
                 <td style="border: none;">
                     <img src="./assets/model.png" alt="GraspSAM Pipeline abs" style="margin: 10px 20px 10px 0px;" width="100%"/>
                 </td>
-                <!-- <td style="border: none;">
-                    <img src="./assets/image/uop_pipeline_1.png" alt="UOP Pipeline 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
-                </td> -->
-                <!-- <td style="border: none;">
-                    <img src="./assets/image/uop_pipeline_2.png" alt="UOP Pipeline 2" style="margin: 10px 20px 10px 0px;" width="100%"/>
-                </td> -->
             </tr>
         </tbody>
     </table>
@@ -160,11 +154,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 
 # Inference GrapSAM in Real World Video
 
-<!-- <br> -->
-
-<!-- ## Prompt: 10point -->
 - **Prompt: Prompt-driven Grasp Detection (Prompt: 1point)**
-
 
 <center>
     <table style="border: none; display: initial;">
@@ -184,13 +174,6 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 
 - **Prompt: Prompt-driven Grasp Detection (Prompt: 10point)**
 
-
-<!-- <center>
-    <video width="75%" autoplay muted loop>
-        <source src="./assets/20230901_Home-DataGeneration_02.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video> 
-</center> -->
 <center>
     <table style="border: none; display: initial;">
         <tbody>
@@ -341,10 +324,48 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 
 - **GraspNet**
 
+<center>
+<img src="./assets/images/graspnet/5/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+</center>
+<center>
+<img src="./assets/images/graspnet/21/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+</center>
+<center>
+<img src="./assets/images/graspnet/89/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+</center>
+<center>
+<img src="./assets/images/graspnet/92/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+</center>
+<center>
+<img src="./assets/images/graspnet/98/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+</center>
+
 <br>
 
 
 - **OCID**
+
+<center>
+<img src="./assets/images/ocid/2/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+</center>
+<center>
+<img src="./assets/images/ocid/9/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+</center>
+<center>
+<img src="./assets/images/ocid/28/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+</center>
+<center>
+<img src="./assets/images/ocid/34/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+</center>
+<center>
+<img src="./assets/images/ocid/38/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+</center>
+<center>
+<img src="./assets/images/ocid/53/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+</center>
+<center>
+<img src="./assets/images/ocid/64/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+</center>
 
 <br>
 
