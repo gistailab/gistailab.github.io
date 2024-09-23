@@ -154,7 +154,11 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 
 # Inference GrapSAM in Real World Video
 
-- **Prompt: Prompt-driven Grasp Detection (Prompt: 1point)**
+<details>
+<summary>Prompt: Prompt-driven Grasp Detection (Prompt: 1point)</summary>
+<div markdown="1">
+
+<!-- - **Prompt: Prompt-driven Grasp Detection (Prompt: 1point)** -->
 
 <center>
     <table style="border: none; display: initial;">
@@ -168,6 +172,9 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         </tbody>
     </table>
 </center>
+
+</div>
+</details>
 
 <br>
 
