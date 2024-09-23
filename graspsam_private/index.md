@@ -179,7 +179,10 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <br>
 
 
-- **Prompt: Prompt-driven Grasp Detection (Prompt: 10point)**
+<details>
+<summary>Prompt: Prompt-driven Grasp Detection (Prompt: 10point)</summary>
+<div markdown="1">
+<!-- - **Prompt: Prompt-driven Grasp Detection (Prompt: 10point)** -->
 
 <center>
     <table style="border: none; display: initial;">
@@ -193,10 +196,17 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         </tbody>
     </table>
 </center>
+
+</div>
+</details>
+
 <br>
 
 
-- **Prompt: Prompt-driven Grasp Detection (Prompt: Box)**
+<details>
+<summary>Prompt: Prompt-driven Grasp Detection (Prompt: Box)</summary>
+<div markdown="1">
+<!-- - **Prompt: Prompt-driven Grasp Detection (Prompt: Box)** -->
 
 <center>
     <table style="border: none; display: initial;">
@@ -211,9 +221,15 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
     </table>
 </center>
 
+</div>
+</details>
+
 <br>
 
-- **Prompt: Prompt-driven Grasp Detection (Prompt: Language)**
+<details>
+<summary>Prompt: Prompt-driven Grasp Detection (Prompt: Language)</summary>
+<div markdown="1">
+<!-- - **Prompt: Prompt-driven Grasp Detection (Prompt: Language)** -->
 
 <center>
     <table style="border: none; display: initial;">
@@ -228,9 +244,16 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
     </table>
 </center>
 
+</div>
+</details>
+
 <br>
 
-- **Prompt: Prompt-driven Grasp Detection with Eye Gaze**
+
+<details>
+<summary>Prompt: Prompt-driven Grasp Detection with Eye Gaze</summary>
+<div markdown="1">
+<!-- - **Prompt: Prompt-driven Grasp Detection with Eye Gaze** -->
 
 <center>
     <table style="border: none; display: initial;">
@@ -244,6 +267,9 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         </tbody>
     </table>
 </center>
+
+</div>
+</details>
 
 <br>
 
