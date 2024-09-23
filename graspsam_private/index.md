@@ -279,7 +279,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 - **Grasp-Anything(Seen)**
 
 <center>
-<figcaption>RGB      Prompt      Pred Mask      Pred Grasp      Grasp Quality Map</figcaption>
+<figcaption>"RGB      Prompt      Pred Mask      Pred Grasp      Grasp Quality Map"</figcaption>
 <img src="./assets/images/graspanything/seen/5/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
 </center>
 <center>
