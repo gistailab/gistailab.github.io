@@ -59,7 +59,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
                 </td>
             </tr>
         </tbody>
-    <!-- </table> -->
+    </table>
     <br>
     <table style="border: none; display: initial;">
         <tbody>
