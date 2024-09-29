@@ -34,18 +34,18 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
     <h1 style="display: block;">
         GraspSAM: When Segment Anything Model Meets Grasp Detection<br>
     </h1>
-    <!-- <br> -->
+    <br>
     <!-- published in in 24' IEEE RA-L <br> -->
     <!-- <br> -->
     <!-- Authors ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ---- -->
     <table style="border: none; display: initial;">
         <tbody>
             <tr style="border: none;">
-                <td style="border: none;"><a href="mailto:sangjun7@gm.gist.ac.kr">Sangjun Noh</a><sup></sup></td>
+                <td style="border: none;"><a href="mailto:sangjun7@gm.gist.ac.kr">Sangjun Noh</a></td>
                 <td style="border: none;"><a href="mailto:jongwonkim@gm.gist.ac.kr">Jongwon Kim</a></td>
                 <td style="border: none;"><a href="mailto:namdongwoo@gm.gist.ac.kr">Dongwoo Nam</a></td>
                 <td style="border: none;"><a href="mailto:shback@gm.gist.ac.kr">Seunghyeok Back</a></td>
-                <td style="border: none;"><a href="mailto:raeyo@gm.gist.ac.kr">Raeyoung Kang</a><sup></td>
+                <td style="border: none;"><a href="mailto:raeyo@gm.gist.ac.kr">Raeyoung Kang</a></td>
                 <td style="border: none;"><a href="mailto:kyoobinlee@gist.ac.kr">Kyoobin Lee</a><sup>†</sup></td>
             </tr>
         </tbody>
@@ -77,9 +77,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
                 <td style="border: none;">
                     <a href="https://arxiv.org/abs/2409.12521" style="color: #ffffff">
                         <div class="link_button">
-                            <!-- <center> -->
                             <i class="bi bi-file-earmark-richtext"></i> Paper
-                            <!-- </center> -->
                         </div>
                     </a>
                 </td>
@@ -87,20 +85,10 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
                 <td style="border: none; display: initial;">
                     <a href="https://github.com/gist-ailab/GraspSAM.git" style="color: #ffffff">
                         <div class="link_button">
-                            <!-- <center> -->
                             <i class="bi bi-github"></i> Code
-                            <!-- </center> -->
                         </div>
                     </a>
                 </td>
-                <!-- <td style="border: none;"></td>
-                <td style="border: none; display: initial;">
-                    <a href="https://github.com/gist-ailab/GraspSAM.git" style="color: #ffffff">
-                        <div class="link_button">
-                            <i class="bi bi-github"></i> Video
-                        </div>
-                    </a>
-                </td> -->
             </tr>
         </tbody>
     </table>
@@ -112,15 +100,6 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
             </tr>
         </tbody>
     </table>
-    <!-- <br> -->
-    <!-- <br> -->
-    <!-- <br> -->
-    <!-- <br> -->
-    <!-- PT video ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ---- -->
-    <!-- <video width="75%" controls autoplay muted loop> -->
-        <!-- <source src="./assets/20230901_Home-DataGeneration_01.mp4" type="video/mp4">            TODO: add presentation video -->
-        <!-- Your browser does not support the video tag. -->
-    <!-- </video>  -->
 </center>
 
 <br>
