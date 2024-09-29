@@ -224,7 +224,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
                 </div>
             </div>
         </div>
-    </div>
+    <!-- </div> -->
 </section>
 
 <br>
