@@ -215,7 +215,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         </div>
         <!-- <br> -->
         <br>
-        <div style="float:center; width:80%; border: 0px solid rgba(5, 130, 255, 0.534);">
+        <div style="float:left; width:49%; border: 0px solid rgba(5, 130, 255, 0.534);">
             <h2 class="title is-5">Prompt: Eye Gaze</h2>
             <div class="column is-five-fifths">
                 <div class="columns is-centered">
