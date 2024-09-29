@@ -194,7 +194,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
             <h2 class="title is-5">Prompt: Box</h2>
             <div class="column is-five-fifths">
                 <div class="columns is-centered">
-                    <video width="80%" controls>
+                    <video width="90%" controls>
                         <source src="./assets/videos/real_bbox.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video> 
@@ -205,7 +205,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
             <h2 class="title is-5">Prompt: Language</h2>
             <div class="column is-five-fifths">
                 <div class="columns is-centered">
-                    <video width="80%" controls>
+                    <video width="90%" controls>
                         <source src="./assets/videos/real_grounding.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video> 
@@ -217,14 +217,15 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
             <h2 class="title is-5">Prompt: Eye Gaze</h2>
             <div class="column is-five-fifths">
                 <div class="columns is-centered">
-                    <video width="80%" controls>
+                    <video width="90%" controls>
                         <source src="./assets/videos/real_gaze.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video> 
                 </div>
             </div>
         </div>
-    <!-- </div> -->
+      </div>
+    </div>
 </section>
 
 <br>
