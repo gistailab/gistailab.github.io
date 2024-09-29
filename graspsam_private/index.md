@@ -157,73 +157,74 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <br>
 <br>
 
+
+<!-- # Inference GrapSAM in Real World Video -->
 <section class="section">
-# Inference GrapSAM in Real World Video
-
-<div style="float:left; width:47.1%; border: 0px solid rgba(5, 130, 255, 0.534);">
-    <h2 class="title is-5">Prompt: 1point</h2>
-    <div class="column is-five-fifths">
-        <div class="columns is-centered">
-            <video width="90%" controls>
-                <source src="./assets/videos/real_1point.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-            </video> 
+  <div class="columns is-centered has-text-centered">
+      <div style="width:90%;">
+        <div class="columns is-centered has-text-centered">
+          <div class="column is-six-fifths">
+            <h2 class="title is-3">Inference GrapSAM in Real World Video</h2> 
+          </div>
+        </div>
+        <div style="float:left; width:47.1%; border: 0px solid rgba(5, 130, 255, 0.534);">
+            <h2 class="title is-5">Prompt: 1point</h2>
+            <div class="column is-five-fifths">
+                <div class="columns is-centered">
+                    <video width="90%" controls>
+                        <source src="./assets/videos/real_1point.mp4" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video> 
+                </div>
+            </div>
+        </div>
+        <div style=" float:right; width:49.8%; border: 0px solid black;">
+            <h2 class="title is-5">Prompt: 10point</h2>
+            <div class="column is-five-fifths">
+                <div class="columns is-centered">
+                    <video width="90%" controls>
+                        <source src="./assets/videos/real_10point.mp4" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video> 
+                </div>
+            </div>
+        </div>
+        <br>
+        <div style="float:left; width:47.1%; border: 0px solid rgba(5, 130, 255, 0.534);">
+            <h2 class="title is-5">Prompt: Box</h2>
+            <div class="column is-five-fifths">
+                <div class="columns is-centered">
+                    <video width="80%" controls>
+                        <source src="./assets/videos/real_bbox.mp4" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video> 
+                </div>
+            </div>
+        </div>
+        <div style=" float:right; width:49.8%; border: 0px solid black;">
+            <h2 class="title is-5">Prompt: Language</h2>
+            <div class="column is-five-fifths">
+                <div class="columns is-centered">
+                    <video width="80%" controls>
+                        <source src="./assets/videos/real_grounding.mp4" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video> 
+                </div>
+            </div>
+        </div>
+        <br>
+        <div style="float:left; width:47.1%; border: 0px solid rgba(5, 130, 255, 0.534);">
+            <h2 class="title is-5">Prompt: Eye Gaze</h2>
+            <div class="column is-five-fifths">
+                <div class="columns is-centered">
+                    <video width="80%" controls>
+                        <source src="./assets/videos/real_gaze.mp4" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video> 
+                </div>
+            </div>
         </div>
     </div>
-</div>
-
-<div style=" float:right; width:49.8%; border: 0px solid black;">
-    <h2 class="title is-5">Prompt: 10point</h2>
-    <div class="column is-five-fifths">
-        <div class="columns is-centered">
-            <video width="90%" controls>
-                <source src="./assets/videos/real_10point.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-            </video> 
-        </div>
-    </div>
-</div>
-
-<br>
-
-<div style="float:left; width:47.1%; border: 0px solid rgba(5, 130, 255, 0.534);">
-    <h2 class="title is-5">Prompt: Box</h2>
-    <div class="column is-five-fifths">
-        <div class="columns is-centered">
-            <video width="80%" controls>
-                <source src="./assets/videos/real_bbox.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-            </video> 
-        </div>
-    </div>
-</div>
-
-<div style=" float:right; width:49.8%; border: 0px solid black;">
-    <h2 class="title is-5">Prompt: Language</h2>
-    <div class="column is-five-fifths">
-        <div class="columns is-centered">
-            <video width="80%" controls>
-                <source src="./assets/videos/real_grounding.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-            </video> 
-        </div>
-    </div>
-</div>
-
-<br>
-
-<div style="float:left; width:47.1%; border: 0px solid rgba(5, 130, 255, 0.534);">
-    <h2 class="title is-5">Prompt: Eye Gaze</h2>
-    <div class="column is-five-fifths">
-        <div class="columns is-centered">
-            <video width="80%" controls>
-                <source src="./assets/videos/real_gaze.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-            </video> 
-        </div>
-    </div>
-</div>
-
 </section>
 
 <br>
