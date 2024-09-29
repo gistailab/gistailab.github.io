@@ -165,30 +165,6 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 # Inference GrapSAM in Real World Video
 
 
-<div style="float:left; width:47.1%; border: 0px solid rgba(5, 130, 255, 0.534);">
-    <h2 class="title is-5">Prompt: 1point</h2>
-    <div class="column is-five-fifths">
-        <div class="columns is-centered">
-            <video width="80%" controls>
-                <source src="./assets/videos/real_1point.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-            </video> 
-        </div>
-    </div>
-</div>
-
-<div style=" float:right; width:49.8%; border: 0px solid black;">
-    <h2 class="title is-5">Prompt: 10point</h2>
-    <div class="column is-five-fifths">
-        <div class="columns is-centered">
-            <video width="80%" controls>
-                <source src="./assets/videos/real_10point.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-            </video> 
-        </div>
-    </div>
-</div>
-
 <!-- <details>
 <summary>Prompt: Prompt-driven Grasp Detection (Prompt: 10point)</summary>
 <div markdown="1"> -->
