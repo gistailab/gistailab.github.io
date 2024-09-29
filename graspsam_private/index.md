@@ -132,7 +132,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 
 # Abstract
 
-  Grasp detection requires flexibility to handle objects of various shapes without relying on prior object knowledge, while also offering intuitive, user-guided control. In this paper, we introduce GraspSAM, an innovative extension of the Segment Anything Model (SAM) designed for prompt-driven and category-agnostic grasp detection. Unlike previous methods, which are often limited by small-scale training data, GraspSAM leverages SAM’s large-scale training and prompt-based segmentation capabilities to efficiently support both target-object and category-agnostic grasping. By utilizing adapters, learnable token embeddings, and a lightweight modified decoder, GraspSAM requires minimal fine-tuning to integrate object segmentation and grasp prediction into a unified framework. Our model achieves state-of-the-art (SOTA) performance across multiple datasets, including Jacquard, Grasp-Anything, and Grasp-Anything++. Extensive experiments demonstrate GraspSAM’s flexibility in handling different types of prompts (such as points, boxes, and language), highlighting its robustness and effectiveness in real-world robotic applications. Robot demonstrations, additional results, and code can be found at https://gistailab.github.io/GraspSAM/.
+  Grasp detection requires flexibility to handle objects of various shapes without relying on prior object knowledge, while also offering intuitive, user-guided control. In this paper, we introduce GraspSAM, an innovative extension of the Segment Anything Model (SAM) designed for prompt-driven and category-agnostic grasp detection. Unlike previous methods, which are often limited by small-scale training data, GraspSAM leverages SAM’s large-scale training and prompt-based segmentation capabilities to efficiently support both target-object and category-agnostic grasping. By utilizing adapters, learnable token embeddings, and a lightweight modified decoder, GraspSAM requires minimal fine-tuning to integrate object segmentation and grasp prediction into a unified framework. Our model achieves state-of-the-art (SOTA) performance across multiple datasets, including Jacquard, Grasp-Anything, and Grasp-Anything++. Extensive experiments demonstrate GraspSAM’s flexibility in handling different types of prompts (such as points, boxes, and language), highlighting its robustness and effectiveness in real-world robotic applications.
 
 
 <br>
@@ -178,7 +178,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
     <h2 class="title is-5">Prompt: 1point</h2>
     <div class="column is-five-fifths">
         <div class="columns is-centered">
-            <video width="80%" controls>
+            <video width="90%" controls>
                 <source src="./assets/videos/real_1point.mp4" type="video/mp4">
                 Your browser does not support the video tag.
             </video> 
@@ -190,7 +190,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
     <h2 class="title is-5">Prompt: 10point</h2>
     <div class="column is-five-fifths">
         <div class="columns is-centered">
-            <video width="80%" controls>
+            <video width="90%" controls>
                 <source src="./assets/videos/real_10point.mp4" type="video/mp4">
                 Your browser does not support the video tag.
             </video> 
@@ -198,125 +198,45 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
     </div>
 </div>
 
-<!-- <details>
-<summary>Prompt: Prompt-driven Grasp Detection (Prompt: 10point)</summary>
-<div markdown="1"> -->
-- **Prompt: 10point**
+<br>
 
-<center>
-    <table style="border: none; display: initial;">
-        <tbody>
-            <tr style="border: none;">
-                <video width="80%" controls>
-                    <source src="./assets/videos/real_10point.mp4" type="video/mp4">
-                    Your browser does not support the video tag.
-                </video> 
-            </tr>
-        </tbody>
-    </table>
-</center>
+<div style="float:left; width:47.1%; border: 0px solid rgba(5, 130, 255, 0.534);">
+    <h2 class="title is-5">Prompt: Box</h2>
+    <div class="column is-five-fifths">
+        <div class="columns is-centered">
+            <video width="80%" controls>
+                <source src="./assets/videos/real_bbox.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video> 
+        </div>
+    </div>
+</div>
 
-<!-- </div>
-</details> -->
+<div style=" float:right; width:49.8%; border: 0px solid black;">
+    <h2 class="title is-5">Prompt: Language</h2>
+    <div class="column is-five-fifths">
+        <div class="columns is-centered">
+            <video width="80%" controls>
+                <source src="./assets/videos/real_grounding.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video> 
+        </div>
+    </div>
+</div>
 
 <br>
 
-
-
-<details>
-<summary>Prompt: 1point</summary>
-<div markdown="1">
-
-<!-- - **Prompt: Prompt-driven Grasp Detection (Prompt: 1point)** -->
-
-<center>
-    <table style="border: none; display: initial;">
-        <tbody>
-            <tr style="border: none;">
-                <video width="80%" controls>
-                    <source src="./assets/videos/real_1point.mp4" type="video/mp4">
-                    Your browser does not support the video tag.
-                </video> 
-            </tr>
-        </tbody>
-    </table>
-</center>
-
+<div style="float:left; width:47.1%; border: 0px solid rgba(5, 130, 255, 0.534);">
+    <h2 class="title is-5">Prompt: Eye Gaze</h2>
+    <div class="column is-five-fifths">
+        <div class="columns is-centered">
+            <video width="80%" controls>
+                <source src="./assets/videos/real_gaze.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video> 
+        </div>
+    </div>
 </div>
-</details>
-
-<!-- <br> -->
-
-
-<details>
-<summary>Prompt: Box</summary>
-<div markdown="1">
-<!-- - **Prompt: Prompt-driven Grasp Detection (Prompt: Box)** -->
-
-<center>
-    <table style="border: none; display: initial;">
-        <tbody>
-            <tr style="border: none;">
-                <video width="80%" controls>
-                    <source src="./assets/videos/real_bbox.mp4" type="video/mp4">
-                    Your browser does not support the video tag.
-                </video> 
-            </tr>
-        </tbody>
-    </table>
-</center>
-
-</div>
-</details>
-
-<!-- <br> -->
-
-<details>
-<summary>Prompt: Language</summary>
-<div markdown="1">
-<!-- - **Prompt: Prompt-driven Grasp Detection (Prompt: Language)** -->
-
-<center>
-    <table style="border: none; display: initial;">
-        <tbody>
-            <tr style="border: none;">
-                <video width="80%" controls>
-                    <source src="./assets/videos/real_grounding.mp4" type="video/mp4">
-                    Your browser does not support the video tag.
-                </video> 
-            </tr>
-        </tbody>
-    </table>
-</center>
-
-</div>
-</details>
-
-<!-- <br> -->
-
-
-<details>
-<summary>Prompt: Eye Gaze</summary>
-<div markdown="1">
-<!-- - **Prompt: Prompt-driven Grasp Detection with Eye Gaze** -->
-
-<center>
-    <table style="border: none; display: initial;">
-        <tbody>
-            <tr style="border: none;">
-                <video width="80%" controls>
-                    <source src="./assets/videos/real_gaze.mp4" type="video/mp4">
-                    Your browser does not support the video tag.
-                </video> 
-            </tr>
-        </tbody>
-    </table>
-</center>
-
-</div>
-</details>
-
-<br>
 
 
 ## Additional Inference Results
