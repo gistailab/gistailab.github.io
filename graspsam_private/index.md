@@ -38,63 +38,72 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
     <!-- published in in 24' IEEE RA-L <br> -->
     <!-- <br> -->
     <!-- Authors ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ---- -->
-    <!-- <table style="border: none; display: initial;"> -->
-        <!-- <tbody>
+    <table style="border: none; display: initial;">
+        <tbody>
             <tr style="border: none;">
-                <td style="border: none;"><a href="mailto:sangjun7@gm.gist.ac.kr">Sangjun Noh</a><sup>*</sup></td>
-                <td style="border: none;"><a href="mailto:raeyo@gm.gist.ac.kr">Raeyoung Kang</a><sup>*</sup></td>
-                <td style="border: none;"><a href="mailto:ailab.ktw@gm.gist.ac.kr">Taewon Kim</a><sup>*</sup></td>
+                <td style="border: none;"><a href="mailto:sangjun7@gm.gist.ac.kr">Sangjun Noh</a><sup></sup></td>
+                <td style="border: none;"><a href="mailto:jongwonkim@gm.gist.ac.kr">Jongwon Kim</a></td>
+                <td style="border: none;"><a href="mailto:namdongwoo@gm.gist.ac.kr">Dongwoo Nam</a></td>
                 <td style="border: none;"><a href="mailto:shback@gm.gist.ac.kr">Seunghyeok Back</a></td>
-                <td style="border: none;"><a href="mailto:bakseongho@gm.gist.ac.kr">Seongho Bak</a></td>
+                <td style="border: none;"><a href="mailto:raeyo@gm.gist.ac.kr">Raeyoung Kang</a><sup></td>
                 <td style="border: none;"><a href="mailto:kyoobinlee@gist.ac.kr">Kyoobin Lee</a><sup>†</sup></td>
             </tr>
         </tbody>
-    </table> -->
-    <!-- <br> -->
-    <!-- <table style="border: none; display: initial;">
+    </table>
+    <br>
+    <table style="border: none; display: initial;">
         <tbody>
             <tr style="border: none;">
                 <td style="border: none;">
                     <sup>†</sup>Corresponding author
                 </td>
             </tr>
-        </tbody> -->
+        </tbody>
     <!-- </table> -->
-    <!-- <br> -->
-    <!-- <table style="border: none; display: initial;">
+    <br>
+    <table style="border: none; display: initial;">
         <tbody>
             <tr style="border: none;">
                     <sup>1</sup>Gwangju Institute of Science and Technology (GIST)
             </tr>
         </tbody>
-    </table> -->
-    <!-- <br> -->
-    <!-- <br> -->
+    </table>
+    <br>
+    <br>
     <!-- Links ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ----      ---- ---- ---- ---- -->
-    <!-- <table style="border: none; display: initial;"> -->
-        <!-- <tbody> -->
-            <!-- <tr style="border: none;"> -->
-                <!-- <td style="border: none;"> -->
-                    <!-- <a href="https://ieeexplore.ieee.org/document/10417128" style="color: #ffffff"> -->
-                        <!-- <div class="link_button"> -->
-                            <!-- <i class="bi bi-file-earmark-richtext"></i> Paper -->
-                        <!-- </div> -->
-                    <!-- </a> -->
-                <!-- </td> -->
-                <!-- <td style="border: none;"></td> intervals -->
-                <!-- <td style="border: none;"></td> intervals -->
-                <!-- <td style="border: none; display: initial;"> -->
-                    <!-- <a href="https://github.com/gist-ailab/uop-net" style="color: #ffffff"> -->
-                        <!-- <div class="link_button"> -->
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <a href="https://arxiv.org/abs/2409.12521" style="color: #ffffff">
+                        <div class="link_button">
                             <!-- <center> -->
-                            <!-- <i class="bi bi-github"></i> Code / Dataset -->
+                            <i class="bi bi-file-earmark-richtext"></i> Paper
                             <!-- </center> -->
-                        <!-- </div> -->
-                    <!-- </a> -->
-                <!-- </td> -->
-            <!-- </tr> -->
-        <!-- </tbody> -->
-    <!-- </table> -->
+                        </div>
+                    </a>
+                </td>
+                <td style="border: none;"></td> <!-- intervals -->
+                <td style="border: none; display: initial;">
+                    <a href="https://github.com/gist-ailab/GraspSAM.git" style="color: #ffffff">
+                        <div class="link_button">
+                            <!-- <center> -->
+                            <i class="bi bi-github"></i> Code
+                            <!-- </center> -->
+                        </div>
+                    </a>
+                </td>
+                <!-- <td style="border: none;"></td>
+                <td style="border: none; display: initial;">
+                    <a href="https://github.com/gist-ailab/GraspSAM.git" style="color: #ffffff">
+                        <div class="link_button">
+                            <i class="bi bi-github"></i> Video
+                        </div>
+                    </a>
+                </td> -->
+            </tr>
+        </tbody>
+    </table>
     <br>
     <table style="border: none; display: initial;">
         <tbody>
@@ -478,16 +487,16 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <br>
 <br>
 
-<!-- # Citation
+# Citation
 
 ```
-@article{noh2023learning,
-  title={Learning to Place Unseen Objects Stably using a Large-scale Simulation},
-  author={Noh, Sangjun and Kang, Raeyoung and Kim, Taewon and Back, Seunghyeok and Bak, Seongho and Lee, Kyoobin},
-  journal={arXiv preprint arXiv:2303.08387},
-  year={2023}
+@article{noh2024graspsam,
+  title={GraspSAM: When Segment Anything Model Meets Grasp Detection},
+  author={Noh, Sangjun and Kim, Jongwon and Nam, Dongwoo and Back, Seunghyeok and Kang, Raeyoung and Lee, Kyoobin},
+  journal={arXiv preprint arXiv:2409.12521},
+  year={2024}
 }
-``` -->
+```
 
 <br>
 <br>
