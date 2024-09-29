@@ -143,15 +143,22 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 
 # GraspSAM Result
 
+<!-- | Feature            | Start Speed      | Incremental Speed | Constant RAM Overhead | Cumulative CPU Costs | Battery Implications |
+|--------------------|------------------|-------------------|-----------------------|----------------------|----------------------|
+| Compile this file  | ~1s per 100k LOC | <500ms            | 0                     | on keyboad shortcut  | minimal              |
+| Format this file   | <1s              | <1s               | 0                     | on keyboad shortcut  | minimal              |
+| Format on Save     | <1s              | <1s               | 0                     | on save              | notable              |
+| Jump to Definition | ~2s per 100k LOC | <100ms            | 100MB                 | on key stroke        | significant          |
+| Find Usages        | ↑                | ↑                 | ↑                     | ↑                    | ↑                    |
+| Bulk Rename        | ↑                | ↑                 | ↑                     | ↑                    | ↑                    | -->
 
 <br>
 <br>
 <br>
 <br>
 
-
+<section class="section">
 # Inference GrapSAM in Real World Video
-
 
 <div style="float:left; width:47.1%; border: 0px solid rgba(5, 130, 255, 0.534);">
     <h2 class="title is-5">Prompt: 1point</h2>
@@ -216,6 +223,8 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         </div>
     </div>
 </div>
+
+</section>
 
 <br>
 <br>
