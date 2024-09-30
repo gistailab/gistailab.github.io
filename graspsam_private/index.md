@@ -466,7 +466,13 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         </tbody>
     </table>
 </center>
-<!-- <br> -->
+
+<br>
+<br>
+<br>
+<br>
+
+## In the Wild Inference Results
 
 - **Armbench**
 
