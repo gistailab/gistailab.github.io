@@ -263,27 +263,27 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 </tr>
 <tr>
     <td style="width: 40%; border: 2px solid black;">CLIPORT</td>
-    <td style="width: 20%; border: 0px solid black;">0.36</td>
-    <td style="width: 20%; border: 0px solid black;">0.26</td>
-    <td style="width: 20%; border: 0px solid black;">0.29</td>
+    <td style="width: 20%; border: 2px solid black;">0.36</td>
+    <td style="width: 20%; border: 2px solid black;">0.26</td>
+    <td style="width: 20%; border: 2px solid black;">0.29</td>
 </tr>
 <tr>
     <td style="width: 40%; border: 2px solid black;">CLIPGrasp</td>
-    <td style="width: 20%; border: 0px solid black;">0.40</td>
-    <td style="width: 20%; border: 0px solid black;">0.29</td>
-    <td style="width: 20%; border: 0px solid black;">0.33</td>
+    <td style="width: 20%; border: 2px solid black;">0.40</td>
+    <td style="width: 20%; border: 2px solid black;">0.29</td>
+    <td style="width: 20%; border: 2px solid black;">0.33</td>
 </tr>
 <tr>
     <td style="width: 40%; border: 2px solid black;">LGD</td>
-    <td style="width: 20%; border: 0px solid black;">0.48</td>
-    <td style="width: 20%; border: 0px solid black;">0.42</td>
-    <td style="width: 20%; border: 0px solid black;">0.45</td>
+    <td style="width: 20%; border: 2px solid black;">0.48</td>
+    <td style="width: 20%; border: 2px solid black;">0.42</td>
+    <td style="width: 20%; border: 2px solid black;">0.45</td>
 </tr>
 <tr>
     <td style="width: 40%; border: 2px solid black;"><strong>GraspSAM w/ G.D (Ours)</strong></td>
-    <td style="width: 20%; border: 0px solid black;"><strong>0.64</strong></td>
-    <td style="width: 20%; border: 0px solid black;"><strong>0.62</strong></td>
-    <td style="width: 20%; border: 0px solid black;"><strong>0.63</strong></td>
+    <td style="width: 20%; border: 2px solid black;"><strong>0.64</strong></td>
+    <td style="width: 20%; border: 2px solid black;"><strong>0.62</strong></td>
+    <td style="width: 20%; border: 2px solid black;"><strong>0.63</strong></td>
 </tr>
 </table>
 <!-- </div> -->
