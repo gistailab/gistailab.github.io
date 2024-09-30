@@ -241,7 +241,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 | LGD                     | 0.48                 | 0.42                  | 0.45                  |
 | GraspSAM w/ G.D (Ours)  | **0.64**             | **0.62**              | **0.63**              | -->
 <div style="text-align: center;">
-  <table border="1" style="width: 60%; text-align: center; margin: 0 auto;">
+  <table border="1" style="width: 100%; text-align: center; margin: 0 auto;">
     <tr>
       <th style="width: 40%;">Methods</th>
       <th colspan="3" style="width: 60%;">Grasp-anthing ++ [8]</th>
