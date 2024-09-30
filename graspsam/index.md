@@ -198,7 +198,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
             </div>
         </div>
         <div style=" float:right; width:49%; border: 0px solid black;">
-            <h2 class="title is-5">Prompt: 10point</h2>
+            <h2 class="title is-5">Prompt: 10points</h2>
             <div class="column is-five-fifths">
                 <div class="columns is-centered">
                     <video width="90%" controls>
