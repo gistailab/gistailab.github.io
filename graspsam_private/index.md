@@ -249,7 +249,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 ### **Grasp dection performance comparison when using language as a prompt**
 <center>
 <!-- <div style="center; margin: 0 auto;"> -->
-<table style="width: 80%; center;">
+<table style="width: 150%; center;">
 <!-- <caption style="font-size: 1.5em;"><strong>Grasp dection performance comparison when using language as a prompt</strong></caption> -->
 <tr>
     <th rowspan="2" style="width: 40%; border: 2px solid black;">Methods</th>
@@ -262,28 +262,28 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
     <td style="width: 20%; border: 2px solid black;">H</td>
 </tr>
 <tr>
-    <td style="width: 40%;">CLIPORT</td>
-    <td style="width: 20%;">0.36</td>
-    <td style="width: 20%;">0.26</td>
-    <td style="width: 20%;">0.29</td>
+    <td style="width: 40%; border: 2px solid black;">CLIPORT</td>
+    <td style="width: 20%; border: 2px solid black;">0.36</td>
+    <td style="width: 20%; border: 2px solid black;">0.26</td>
+    <td style="width: 20%; border: 2px solid black;">0.29</td>
 </tr>
 <tr>
-    <td style="width: 40%;">CLIPGrasp</td>
-    <td style="width: 20%;">0.40</td>
-    <td style="width: 20%;">0.29</td>
-    <td style="width: 20%;">0.33</td>
+    <td style="width: 40%; border: 2px solid black;">CLIPGrasp</td>
+    <td style="width: 20%; border: 2px solid black;">0.40</td>
+    <td style="width: 20%; border: 2px solid black;">0.29</td>
+    <td style="width: 20%; border: 2px solid black;">0.33</td>
 </tr>
 <tr>
-    <td style="width: 40%;">LGD</td>
-    <td style="width: 20%;">0.48</td>
-    <td style="width: 20%;">0.42</td>
-    <td style="width: 20%;">0.45</td>
+    <td style="width: 40%; border: 2px solid black;">LGD</td>
+    <td style="width: 20%; border: 2px solid black;">0.48</td>
+    <td style="width: 20%; border: 2px solid black;">0.42</td>
+    <td style="width: 20%; border: 2px solid black;">0.45</td>
 </tr>
 <tr>
-    <td style="width: 40%;"><strong>GraspSAM w/ G.D (Ours)</strong></td>
-    <td style="width: 20%;"><strong>0.64</strong></td>
-    <td style="width: 20%;"><strong>0.62</strong></td>
-    <td style="width: 20%;"><strong>0.63</strong></td>
+    <td style="width: 40%; border: 2px solid black;"><strong>GraspSAM w/ G.D (Ours)</strong></td>
+    <td style="width: 20%; border: 2px solid black;"><strong>0.64</strong></td>
+    <td style="width: 20%; border: 2px solid black;"><strong>0.62</strong></td>
+    <td style="width: 20%; border: 2px solid black;"><strong>0.63</strong></td>
 </tr>
 </table>
 <!-- </div> -->
