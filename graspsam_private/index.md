@@ -249,7 +249,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
       <th colspan="3" style="width: 60%;">Grasp-anthing ++</th>
     </tr>
     <tr>
-      <th></th>
+      <!-- <th></th> -->
       <th style="width: 20%;">Base</th>
       <th style="width: 20%;">New</th>
       <th style="width: 20%;">H</th>
