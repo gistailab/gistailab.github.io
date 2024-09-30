@@ -247,7 +247,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 | GraspSAM w/ G.D (Ours)  | **0.64**             | **0.62**              | **0.63**              | -->
 
 ### **Grasp dection performance comparison when using language as a prompt**
-<!-- <center> -->
+<center>
 <!-- <div style="center; margin: 0 auto;"> -->
 <table style="width: 60%; center;">
 <!-- <caption style="font-size: 1.5em;"><strong>Grasp dection performance comparison when using language as a prompt</strong></caption> -->
@@ -287,7 +287,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 </tr>
 </table>
 <!-- </div> -->
-<!-- </center> -->
+</center>
 
 
 <br>
