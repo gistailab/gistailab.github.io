@@ -144,7 +144,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 # GraspSAM Result
 
 
--  **Grasp detection performance of each model given 10 points as prompt.**
+<!-- -  **Grasp detection performance of each model given 10 points as prompt.** -->
 <!-- | Methods            | Grasp-Anything        |             Grasp-Anything            |        Grasp-Anything                 | Jacquard            |              Jacquard           |         Jacquard                |
 | :------------------ | :--------------------- | :----------------------- | :----------------------- | :---------------------- | :----------------------- | :----------------------- |
 |          Methods          | Base                  | New                     | H                       | Base                   | New                     | H                       |
@@ -156,6 +156,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 | GraspSAM-t (ours)   | **0.83**              | **0.81**                | **0.82**                | 0.87                   | 0.75                    | 0.81                    | -->
 <div style="text-align: center;">
   <table border="1" style="width: 100%; text-align: center; margin: 0 auto;">
+    <caption><strong>Grasp detection performance of each model given 10 points as prompt</strong></caption>
     <tr>
       <th rowspan="2" style="width: 16.66%;">Methods</th>
       <th colspan="3" style="width: 25%;">Grasp-Anything</th>
@@ -232,7 +233,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <br>
 
 
--  **Grasp detection performance of each model given 10 points as prompt.**
+<!-- -  **Grasp detection performance of each model given 10 points as prompt.** -->
 <!-- | Methods                 | Grasp-anthing ++     |                       |                       |
 | ----------------------- | ---------------------| --------------------- | --------------------- |
 |                         | Base                 | New                   | H                     |
@@ -242,6 +243,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 | GraspSAM w/ G.D (Ours)  | **0.64**             | **0.62**              | **0.63**              | -->
 <div style="text-align: center;">
   <table border="1" style="width: 60%; text-align: center; margin: 0 auto;">
+    <caption><strong>Grasp dection performance comparison when using language as a prompt.</strong></caption>
     <tr>
       <th style="width: 40%;">Methods</th>
       <th colspan="3" style="width: 60%;">Grasp-anthing ++</th>
