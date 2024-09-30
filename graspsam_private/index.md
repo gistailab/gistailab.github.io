@@ -158,15 +158,15 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <br>
 
 
-<!-- # Inference GrapSAM in Real World Video -->
+# Inference GrapSAM in Real World Video
 <section class="section">
   <div class="columns is-centered has-text-centered">
-      <div style="width:90%;">
-        <div class="columns is-centered has-text-centered">
+      <div style="width:100%;">
+        <!-- <div class="columns is-centered has-text-centered">
           <div class="column is-six-fifths">
             <h2 class="title is-3">Inference GrapSAM in Real World Video</h2> 
           </div>
-        </div>
+        </div> -->
         <div style="float:left; width:49%; border: 0px solid rgba(5, 130, 255, 0.534);">
             <h2 class="title is-5">Prompt: 1point</h2>
             <div class="column is-five-fifths">
