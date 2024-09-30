@@ -236,7 +236,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
             <div class="column is-five-fifths">
                 <div class="columns is-centered">
                     <video width="90%" controls>
-                        <source src="./assets/videos/real_gaze.mp4" type="video/mp4">
+                        <source src="./assets/videos/real_gaze1.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video> 
                 </div>
