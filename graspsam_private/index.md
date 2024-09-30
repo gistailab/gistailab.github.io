@@ -249,7 +249,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 ### **Grasp dection performance comparison when using language as a prompt**
 <center>
 <!-- <div style="center; margin: 0 auto;"> -->
-<table style="width: 80%; margin: 0 auto; center;">
+<table style="width: 80%; center;">
 <!-- <caption style="font-size: 1.5em;"><strong>Grasp dection performance comparison when using language as a prompt</strong></caption> -->
 <tr>
     <th rowspan="2" style="width: 40%;">Methods</th>
@@ -317,7 +317,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
             </div>
         </div>
         <div style=" float:right; width:49%; border: 0px solid black;">
-            <h2 class="title is-5">Prompt: 10point</h2>
+            <h2 class="title is-5">Prompt: 10points</h2>
             <div class="column is-five-fifths">
                 <div class="columns is-centered">
                     <video width="90%" controls>
