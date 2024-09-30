@@ -252,38 +252,38 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <table style="width: 80%; center;">
 <!-- <caption style="font-size: 1.5em;"><strong>Grasp dection performance comparison when using language as a prompt</strong></caption> -->
 <tr>
-    <th rowspan="2" style="width: 40%;">Methods</th>
-    <th colspan="3" style="width: 60%;">Grasp-anthing ++</th>
+    <th rowspan="2" style="width: 40%; border: 3px solid black;">Methods</th>
+    <th colspan="3" style="width: 60%; border: 3px solid black;">Grasp-anthing ++</th>
 </tr>
 <tr>
     <!-- <th></th> -->
-    <th style="width: 20%;">Base</th>
-    <th style="width: 20%;">New</th>
-    <th style="width: 20%;">H</th>
+    <th style="width: 20%; border: 2px solid black;">Base</th>
+    <th style="width: 20%; border: 3px solid black;">New</th>
+    <th style="width: 20%; border: 3px solid black;">H</th>
 </tr>
 <tr>
-    <td>CLIPORT</td>
-    <td>0.36</td>
-    <td>0.26</td>
-    <td>0.29</td>
+    <th style="width: 40%;">CLIPORT</td>
+    <th style="width: 20%;">0.36</td>
+    <th style="width: 20%;">0.26</td>
+    <th style="width: 20%;">0.29</td>
 </tr>
 <tr>
-    <td>CLIPGrasp</td>
-    <td>0.40</td>
-    <td>0.29</td>
-    <td>0.33</td>
+    <th style="width: 40%;">CLIPGrasp</td>
+    <th style="width: 20%;">0.40</td>
+    <th style="width: 20%;">0.29</td>
+    <th style="width: 20%;">0.33</td>
 </tr>
 <tr>
-    <td>LGD</td>
-    <td>0.48</td>
-    <td>0.42</td>
-    <td>0.45</td>
+    <th style="width: 40%;">LGD</td>
+    <th style="width: 20%;">0.48</td>
+    <th style="width: 20%;">0.42</td>
+    <th style="width: 20%;">0.45</td>
 </tr>
 <tr>
-    <td><strong>GraspSAM w/ G.D (Ours)</strong></td>
-    <td><strong>0.64</strong></td>
-    <td><strong>0.62</strong></td>
-    <td><strong>0.63</strong></td>
+    <th style="width: 40%;"><strong>GraspSAM w/ G.D (Ours)</strong></td>
+    <th style="width: 20%;"><strong>0.64</strong></td>
+    <th style="width: 20%;"><strong>0.62</strong></td>
+    <th style="width: 20%;"><strong>0.63</strong></td>
 </tr>
 </table>
 <!-- </div> -->
