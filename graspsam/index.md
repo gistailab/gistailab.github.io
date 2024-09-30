@@ -363,9 +363,10 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <br>
 
 
-## Additional Inference Results
+# Additional Image Inference
 
-- **Will be released**
+<!-- - **Will be released** -->
+<h3 class="title is-3">Will be released</h3>
 <br>
 
 
