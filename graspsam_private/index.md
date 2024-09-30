@@ -420,7 +420,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         </tbody>
     </table>
 </center>
-<br>
+<!-- <br> -->
 
 - **Grasp-Anything(Unseen)**
 
@@ -466,7 +466,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         </tbody>
     </table>
 </center>
-<br>
+<!-- <br> -->
 
 - **Armbench**
 
@@ -513,7 +513,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
     </table>
 </center>
 
-<br>
+<!-- <br> -->
 
 - **GraspNet**
 
@@ -560,7 +560,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
     </table>
 </center>
 
-<br>
+<!-- <br> -->
 
 
 - **OCID**
@@ -609,6 +609,9 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 </center>
 
 <br>
+<br>
+<br>
+<br>
 
 ## Real Inference Results
 
@@ -655,7 +658,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         </tbody>
     </table>
 </center>
-<br>
+<!-- <br> -->
 
 
 
@@ -703,7 +706,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         </tbody>
     </table>
 </center>
-<br>
+<!-- <br> -->
 
 
 
@@ -751,7 +754,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         </tbody>
     </table>
 </center>
-<br>
+<!-- <br> -->
 
 
 
@@ -762,24 +765,10 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         <tbody>
             <tr style="border: none;">
                 <td style="border: none;">
-                    <img src="./assets/images/real_images/5points/real_img_12.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                    <img src="./assets/images/real_images/10points/real_img_12.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
                 </td>
                 <td style="border: none;">
-                    <img src="./assets/images/real_images/5points/real_img_30.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</center>
-<center>
-    <table style="border: none; display: initial;">
-        <tbody>
-            <tr style="border: none;">
-                <td style="border: none;">
-                    <img src="./assets/images/real_images/5points/real_img_60.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
-                </td>
-                <td style="border: none;">
-                    <img src="./assets/images/real_images/5points/real_img_68.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                    <img src="./assets/images/real_images/10points/real_img_30.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
                 </td>
             </tr>
         </tbody>
@@ -790,10 +779,24 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         <tbody>
             <tr style="border: none;">
                 <td style="border: none;">
-                    <img src="./assets/images/real_images/5points/real_img_92.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                    <img src="./assets/images/real_images/10points/real_img_60.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
                 </td>
                 <td style="border: none;">
-                    <img src="./assets/images/real_images/5points/real_img_98.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                    <img src="./assets/images/real_images/10points/real_img_68.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/10points/real_img_92.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/10points/real_img_98.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
                 </td>
             </tr>
         </tbody>
