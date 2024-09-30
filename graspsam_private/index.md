@@ -155,9 +155,11 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 | GraspSAM-tiny (ours)| 0.78                  | 0.75                    | 0.77                    | **0.90**               | 0.81                    | **0.85**                |
 | GraspSAM-t (ours)   | **0.83**              | **0.81**                | **0.82**                | 0.87                   | 0.75                    | 0.81                    | -->
 
+### **Grasp detection performance of each model given 10 points as prompt**
+<center>
 <div style="text-align: center; margin: 0 auto;">
   <table style="width: 100%; margin: 0 auto; text-align: center;">
-    <caption style="font-size: 1.5em;"><strong>Grasp detection performance of each model given 10 points as prompt</strong></caption>
+    <!-- <caption style="font-size: 1.5em;"><strong>Grasp detection performance of each model given 10 points as prompt</strong></caption> -->
     <tr>
       <th rowspan="2" style="width: 16.66%;">Methods</th>
       <th colspan="3" style="width: 25%;">Grasp-Anything</th>
@@ -228,6 +230,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
     </tr>
   </table>
 </div>
+</center>
 
 
 
@@ -243,8 +246,8 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 | LGD                     | 0.48                 | 0.42                  | 0.45                  |
 | GraspSAM w/ G.D (Ours)  | **0.64**             | **0.62**              | **0.63**              | -->
 
-<center>
 ### **Grasp dection performance comparison when using language as a prompt**
+<center>
 <div style="text-align: center; margin: 0 auto;">
   <table style="width: 120%; margin: 0 auto; text-align: center;">
     <!-- <caption style="font-size: 1.5em;"><strong>Grasp dection performance comparison when using language as a prompt</strong></caption> -->
