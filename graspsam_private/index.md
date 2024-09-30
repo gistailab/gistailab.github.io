@@ -305,7 +305,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
             <h2 class="title is-3">Inference GrapSAM in Real World Video</h2> 
           </div>
         </div> -->
-        <div style="float:left; width:49%; border: 0px solid rgba(5, 130, 255, 0.534);">
+        <div style="float:center; width:49%; border: 0px solid rgba(5, 130, 255, 0.534);">
             <h2 class="title is-5">Prompt: 1point</h2>
             <div class="column is-five-fifths">
                 <div class="columns is-centered">
@@ -316,7 +316,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
                 </div>
             </div>
         </div>
-        <div style=" float:right; width:49%; border: 0px solid black;">
+        <div style=" float:center; width:49%; border: 0px solid black;">
             <h2 class="title is-5">Prompt: 10points</h2>
             <div class="column is-five-fifths">
                 <div class="columns is-centered">
