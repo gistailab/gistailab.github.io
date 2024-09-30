@@ -830,7 +830,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 
 # Real Image Inference with Grounding Dino
 
-<h3 class="title is-3">Prompt: Language</h3>
+<h3 class="title is-3">Prompt: User Language</h3>
 <center>
     <table style="border: none; display: initial;">
         <tbody>
@@ -846,6 +846,109 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
                 </td>
                 <td style="border: none;">
                     <img src="./assets/images/real_images/dino/language/prompt_grasp_16.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/prompt_28.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/prompt_grasp_28.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/prompt_42.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/prompt_grasp_42.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/prompt_74.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/prompt_grasp_74.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/prompt_77.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/prompt_grasp_77.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+
+
+<h3 class="title is-3">Prompt: Rigid </h3>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/rigid_0.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/rigid_grasp_0.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/rigid_9.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/rigid_grasp_9.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/rigid_28.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/rigid_grasp_28.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/rigid_47.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/rigid_grasp_47.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/rigid_80.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/rigid_grasp_80.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/rigid_97.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/rigid_grasp_97.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
                 </td>
             </tr>
         </tbody>
