@@ -143,14 +143,30 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 
 # GraspSAM Result
 
-<!-- | Feature            | Start Speed      | Incremental Speed | Constant RAM Overhead | Cumulative CPU Costs | Battery Implications |
-|--------------------|------------------|-------------------|-----------------------|----------------------|----------------------|
-| Compile this file  | ~1s per 100k LOC | <500ms            | 0                     | on keyboad shortcut  | minimal              |
-| Format this file   | <1s              | <1s               | 0                     | on keyboad shortcut  | minimal              |
-| Format on Save     | <1s              | <1s               | 0                     | on save              | notable              |
-| Jump to Definition | ~2s per 100k LOC | <100ms            | 100MB                 | on key stroke        | significant          |
-| Find Usages        | ↑                | ↑                 | ↑                     | ↑                    | ↑                    |
-| Bulk Rename        | ↑                | ↑                 | ↑                     | ↑                    | ↑                    | -->
+
+- **Grasp detection performance of each model given 10 points as prompt.**
+| Methods            | Grasp-Anything [7]    |                         |                         | Jacquard [6]           |                         |                         |
+|--------------------|-----------------------|-------------------------|-------------------------|------------------------|-------------------------|-------------------------|
+|                    | Base                  | New                     | H                       | Base                   | New                     | H                       |
+| GR-ConvNet* [3]     | 0.68                  | 0.55                    | 0.61                    | 0.82                   | 0.61                    | 0.70                    |
+| Det-Seg-Refine* [4] | 0.58                  | 0.53                    | 0.55                    | 0.79                   | 0.55                    | 0.65                    |
+| GG-CNN* [2]         | 0.65                  | 0.53                    | 0.58                    | 0.73                   | 0.52                    | 0.61                    |
+| LGD* [8]            | 0.69                  | 0.57                    | 0.62                    | 0.83                   | 0.64                    | 0.72                    |
+| GraspSAM-tiny (ours)| 0.78                  | 0.75                    | 0.77                    | **0.90**               | 0.81                    | **0.85**                |
+| GraspSAM-t (ours)   | **0.83**              | **0.81**                | **0.82**                | 0.87                   | 0.75                    | 0.81                    |
+
+
+<br>
+
+
+- **Grasp detection performance of each model given 10 points as prompt.**
+| Methods                 | Grasp-anthing ++ [8] |                       |                       |
+|-------------------------|----------------------|-----------------------|-----------------------|
+|                         | Base                 | New                   | H                     |
+| CLIPORT [24]            | 0.36                 | 0.26                  | 0.29                  |
+| CLIPGrasp [25]          | 0.40                 | 0.29                  | 0.33                  |
+| LGD [8]                 | 0.48                 | 0.42                  | 0.45                  |
+| GraspSAM w/ G.D (Ours)  | **0.64**             | **0.62**              | **0.63**              |
 
 <br>
 <br>
