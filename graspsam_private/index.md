@@ -374,9 +374,10 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <br>
 
 
-## Additional Dataset Image Inference
+# Additional Dataset Image Inference
 
-- **Grasp-Anything(Seen)**
+<!-- - **Grasp-Anything(Seen)** -->
+<h3 class="title is-3">Grasp-Anything(Seen)</h3>
 
 <center>
     <table style="border: none; display: initial;">
@@ -422,7 +423,8 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 </center>
 <!-- <br> -->
 
-- **Grasp-Anything(Unseen)**
+<!-- - **Grasp-Anything(Unseen)** -->
+<h3 class="title is-3">Grasp-Anything(Unseen)</h3>
 
 <center>
     <table style="border: none; display: initial;">
@@ -472,9 +474,10 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <br>
 <br>
 
-## In the Wild Image Inference
+# In the Wild Image Inference
 
-- **Armbench**
+<!-- - **Armbench** -->
+<h3 class="title is-3">Armbench</h3>
 
 <center>
     <table style="border: none; display: initial;">
@@ -521,7 +524,8 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 
 <!-- <br> -->
 
-- **GraspNet**
+<!-- - **GraspNet** -->
+<h3 class="title is-3">GraspNet</h3>
 
 <center>
     <table style="border: none; display: initial;">
@@ -569,7 +573,8 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <!-- <br> -->
 
 
-- **OCID**
+<!-- - **OCID** -->
+<h3 class="title is-3">OCID</h3>
 
 <center>
     <table style="border: none; display: initial;">
@@ -619,9 +624,11 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <br>
 <br>
 
-## Real Image Inference
+# Real Image Inference
 
-- **1Point**
+<!-- - **1Point** -->
+<h3 class="title is-3">Prompt: 1Point</h3>
+
 <center>
     <table style="border: none; display: initial;">
         <tbody>
@@ -669,7 +676,8 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 
 
 
-- **3Points**
+<!-- - **3Points** -->
+<h3 class="title is-3">Prompt: 3Points</h3>
 <center>
     <table style="border: none; display: initial;">
         <tbody>
@@ -717,7 +725,8 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 
 
 
-- **5Points**
+<!-- - **5Points** -->
+<h3 class="title is-3">Prompt: 5Points</h3>
 <center>
     <table style="border: none; display: initial;">
         <tbody>
@@ -765,7 +774,8 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 
 
 
-- **10Points**
+<!-- - **10Points** -->
+<h3 class="title is-3">Prompt: 10Points</h3>
 <center>
     <table style="border: none; display: initial;">
         <tbody>
