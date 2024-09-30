@@ -243,8 +243,8 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 | LGD                     | 0.48                 | 0.42                  | 0.45                  |
 | GraspSAM w/ G.D (Ours)  | **0.64**             | **0.62**              | **0.63**              | -->
 
-### Grasp dection performance comparison when using language as a prompt
-
+<center>
+### **Grasp dection performance comparison when using language as a prompt**
 <div style="text-align: center; margin: 0 auto;">
   <table style="width: 120%; margin: 0 auto; text-align: center;">
     <!-- <caption style="font-size: 1.5em;"><strong>Grasp dection performance comparison when using language as a prompt</strong></caption> -->
@@ -284,6 +284,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
     </tr>
   </table>
 </div>
+</center>
 
 
 <br>
