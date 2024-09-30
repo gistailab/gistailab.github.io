@@ -266,7 +266,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <!-- <br> -->
 <!-- <br> -->
 <!-- <hr style="border: solid 1px #c80000;"> -->
-<hr style="#c80000;">
+<!-- <hr style="#c80000;"> -->
 <br>
 <br>
 <br>
