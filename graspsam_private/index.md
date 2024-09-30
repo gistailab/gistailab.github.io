@@ -374,7 +374,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <br>
 
 
-## Additional Inference Results
+## Additional Dataset Image Inference
 
 - **Grasp-Anything(Seen)**
 
@@ -472,7 +472,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <br>
 <br>
 
-## In the Wild Inference Results
+## In the Wild Image Inference
 
 - **Armbench**
 
@@ -619,7 +619,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <br>
 <br>
 
-## Real Inference Results
+## Real Image Inference
 
 - **1Point**
 <center>
