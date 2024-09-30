@@ -306,7 +306,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
           </div>
         </div> -->
         <div style="float:left; width:49%; border: 0px solid rgba(5, 130, 255, 0.534);">
-            <h2 class="title is-5">Prompt: 1point</h2>
+            <h3 class="title is-3">Prompt: 1point</h3>
             <div class="column is-five-fifths">
                 <div class="columns is-centered">
                     <video width="90%" controls>
@@ -317,7 +317,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
             </div>
         </div>
         <div style=" float:right; width:49%; border: 0px solid black;">
-            <h2 class="title is-5">Prompt: 10points</h2>
+            <h3 class="title is-3">Prompt: 10points</h3>
             <div class="column is-five-fifths">
                 <div class="columns is-centered">
                     <video width="90%" controls>
@@ -330,7 +330,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         <!-- <br> -->
         <br>
         <div style="float:left; width:49%; border: 0px solid rgba(5, 130, 255, 0.534);">
-            <h2 class="title is-5">Prompt: Box</h2>
+            <h3 class="title is-3">Prompt: Box</h3>
             <div class="column is-five-fifths">
                 <div class="columns is-centered">
                     <video width="90%" controls>
@@ -341,7 +341,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
             </div>
         </div>
         <div style=" float:right; width:49%; border: 0px solid black;">
-            <h2 class="title is-5">Prompt: Language</h2>
+            <h3 class="title is-3">Prompt: Language</h3>
             <div class="column is-five-fifths">
                 <div class="columns is-centered">
                     <video width="90%" controls>
@@ -354,7 +354,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         <!-- <br> -->
         <br>
         <div style="float:left; width:49%; border: 0px solid rgba(5, 130, 255, 0.534);">
-            <h2 class="title is-5">Prompt: Eye Gaze</h2>
+            <h3 class="title is-3">Prompt: Eye Gaze</h3>
             <div class="column is-five-fifths">
                 <div class="columns is-centered">
                     <video width="90%" controls>
