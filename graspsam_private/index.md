@@ -333,22 +333,46 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 - **Armbench**
 
 <center>
-<img src="./assets/images/armbench/1/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/armbench/1/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/armbench/11/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 </center>
 <center>
-<img src="./assets/images/armbench/11/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/armbench/21/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/armbench/34/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 </center>
 <center>
-<img src="./assets/images/armbench/21/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
-</center>
-<center>
-<img src="./assets/images/armbench/34/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
-</center>
-<center>
-<img src="./assets/images/armbench/86/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
-</center>
-<center>
-<img src="./assets/images/armbench/99/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/armbench/86/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/armbench/99/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 </center>
 
 <br>
@@ -356,19 +380,46 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 - **GraspNet**
 
 <center>
-<img src="./assets/images/graspnet/5/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/graspnet/5/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/graspnet/21/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 </center>
 <center>
-<img src="./assets/images/graspnet/21/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/graspnet/89/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/graspnet/92/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 </center>
 <center>
-<img src="./assets/images/graspnet/89/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
-</center>
-<center>
-<img src="./assets/images/graspnet/92/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
-</center>
-<center>
-<img src="./assets/images/graspnet/98/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/graspnet/98/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/graspnet/45/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 </center>
 
 <br>
@@ -377,25 +428,46 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 - **OCID**
 
 <center>
-<img src="./assets/images/ocid/2/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/ocid/2/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/ocid/9/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 </center>
 <center>
-<img src="./assets/images/ocid/9/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/ocid/28/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/ocid/34/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 </center>
 <center>
-<img src="./assets/images/ocid/28/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
-</center>
-<center>
-<img src="./assets/images/ocid/34/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
-</center>
-<center>
-<img src="./assets/images/ocid/38/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
-</center>
-<center>
-<img src="./assets/images/ocid/53/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
-</center>
-<center>
-<img src="./assets/images/ocid/64/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/ocid/38/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/ocid/53/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="75%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 </center>
 
 <br>
