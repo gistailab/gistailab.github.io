@@ -145,6 +145,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 
 
 - **Grasp detection performance of each model given 10 points as prompt.**
+<table>
 | Methods            | Grasp-Anything [7]    |                         |                         | Jacquard [6]           |                         |                         |
 |--------------------|-----------------------|-------------------------|-------------------------|------------------------|-------------------------|-------------------------|
 |                    | Base                  | New                     | H                       | Base                   | New                     | H                       |
@@ -154,12 +155,13 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 | LGD* [8]            | 0.69                  | 0.57                    | 0.62                    | 0.83                   | 0.64                    | 0.72                    |
 | GraspSAM-tiny (ours)| 0.78                  | 0.75                    | 0.77                    | **0.90**               | 0.81                    | **0.85**                |
 | GraspSAM-t (ours)   | **0.83**              | **0.81**                | **0.82**                | 0.87                   | 0.75                    | 0.81                    |
-
+</table>
 
 <br>
 
 
 - **Grasp detection performance of each model given 10 points as prompt.**
+<table>
 | Methods                 | Grasp-anthing ++ [8] |                       |                       |
 |-------------------------|----------------------|-----------------------|-----------------------|
 |                         | Base                 | New                   | H                     |
@@ -167,6 +169,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 | CLIPGrasp [25]          | 0.40                 | 0.29                  | 0.33                  |
 | LGD [8]                 | 0.48                 | 0.42                  | 0.45                  |
 | GraspSAM w/ G.D (Ours)  | **0.64**             | **0.62**              | **0.63**              |
+</table>
 
 <br>
 <br>
