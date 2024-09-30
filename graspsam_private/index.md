@@ -252,14 +252,14 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <table style="width: 80%; center;">
 <!-- <caption style="font-size: 1.5em;"><strong>Grasp dection performance comparison when using language as a prompt</strong></caption> -->
 <tr>
-    <th rowspan="2" style="width: 40%; border: 3px solid black;">Methods</th>
-    <th colspan="3" style="width: 60%; border: 3px solid black;">Grasp-anthing ++</th>
+    <th rowspan="2" style="width: 40%; border: 2px solid black;">Methods</th>
+    <th colspan="3" style="width: 60%; border: 2px solid black;">Grasp-anthing ++</th>
 </tr>
 <tr>
     <!-- <th></th> -->
     <th style="width: 20%; border: 2px solid black;">Base</th>
-    <th style="width: 20%; border: 3px solid black;">New</th>
-    <th style="width: 20%; border: 3px solid black;">H</th>
+    <th style="width: 20%; border: 2px solid black;">New</th>
+    <th style="width: 20%; border: 2px solid black;">H</th>
 </tr>
 <tr>
     <th style="width: 40%;">CLIPORT</td>
