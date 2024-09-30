@@ -141,35 +141,139 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <br>
 
 
-<!-- # GraspSAM Result
+### **Grasp detection performance of each model given 10 points as prompt**
+<center>
+<div style="text-align: center; margin: 0 auto;">
+  <table style="width: 100%; margin: 0 auto; text-align: center;">
+    <!-- <caption style="font-size: 1.5em;"><strong>Grasp detection performance of each model given 10 points as prompt</strong></caption> -->
+    <tr>
+      <th rowspan="2" style="width: 16.66%; border: 2px solid black;">Methods</th>
+      <th colspan="3" style="width: 25%; border: 2px solid black;">Grasp-Anything</th>
+      <th colspan="3" style="width: 25%; border: 2px solid black;">Jacquard</th>
+    </tr>
+    <tr>
+      <!-- <th style="width: 16.66%;"></th> -->
+      <th style="width: 8.33%; border: 2px solid black;">Base</th>
+      <th style="width: 8.33%; border: 2px solid black;">New</th>
+      <th style="width: 8.33%; border: 2px solid black;">H</th>
+      <th style="width: 8.33%; border: 2px solid black;">Base</th>
+      <th style="width: 8.33%; border: 2px solid black;">New</th>
+      <th style="width: 8.33%; border: 2px solid black;">H</th>
+    </tr>
+    <tr>
+      <td style="width: 16.66%; border: 2px solid black;">GR-ConvNet*</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.68</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.55</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.61</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.82</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.61</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.70</td>
+    </tr>
+    <tr>
+      <td style="width: 16.66%; border: 2px solid black;">Det-Seg-Refine*</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.58</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.53</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.55</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.79</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.55</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.65</td>
+    </tr>
+    <tr>
+      <td style="width: 16.66%; border: 2px solid black;">GG-CNN*</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.65</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.53</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.58</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.73</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.52</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.61</td>
+    </tr>
+    <tr>
+      <td style="width: 16.66%; border: 2px solid black;">LGD*</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.69</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.57</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.62</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.83</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.64</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.72</td>
+    </tr>
+    <tr>
+      <td style="width: 16.66%; border: 2px solid black;">GraspSAM-tiny (ours)</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.78</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.75</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.77</td>
+      <td style="width: 8.33%; border: 2px solid black;"><strong>0.90</strong></td>
+      <td style="width: 8.33%; border: 2px solid black;">0.81</td>
+      <td style="width: 8.33%; border: 2px solid black;"><strong>0.85</strong></td>
+    </tr>
+    <tr>
+      <td style="width: 16.66%; border: 2px solid black;">GraspSAM-t (ours)</td>
+      <td style="width: 8.33%; border: 2px solid black;"><strong>0.83</strong></td>
+      <td style="width: 8.33%; border: 2px solid black;"><strong>0.81</strong></td>
+      <td style="width: 8.33%; border: 2px solid black;"><strong>0.82</strong></td>
+      <td style="width: 8.33%; border: 2px solid black;">0.87</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.75</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.81</td>
+    </tr>
+  </table>
+</div>
+</center>
 
 
-- **Grasp detection performance of each model given 10 points as prompt.**
-<table>
-| Methods            | Grasp-Anything        |                         |                         | Jacquard            |                         |                         |
-|--------------------|-----------------------|-------------------------|-------------------------|------------------------|-------------------------|-------------------------|
-|                    | Base                  | New                     | H                       | Base                   | New                     | H                       |
-| GR-ConvNet*         | 0.68                  | 0.55                    | 0.61                    | 0.82                   | 0.61                    | 0.70                    |
-| Det-Seg-Refine* | 0.58                  | 0.53                    | 0.55                    | 0.79                   | 0.55                    | 0.65                    |
-| GG-CNN*             | 0.65                  | 0.53                    | 0.58                    | 0.73                   | 0.52                    | 0.61                    |
-| LGD*                | 0.69                  | 0.57                    | 0.62                    | 0.83                   | 0.64                    | 0.72                    |
-| GraspSAM-tiny (ours)| 0.78                  | 0.75                    | 0.77                    | **0.90**               | 0.81                    | **0.85**                |
-| GraspSAM-t (ours)   | **0.83**              | **0.81**                | **0.82**                | 0.87                   | 0.75                    | 0.81                    |
-</table>
 
 <br>
 
 
-- **Grasp detection performance of each model given 10 points as prompt.**
-<table>
-| Methods                 | Grasp-anthing ++     |                       |                       |
-|-------------------------|----------------------|-----------------------|-----------------------|
+<!-- -  **Grasp detection performance of each model given 10 points as prompt.** -->
+<!-- | Methods                 | Grasp-anthing ++     |                       |                       |
+| ----------------------- | ---------------------| --------------------- | --------------------- |
 |                         | Base                 | New                   | H                     |
 | CLIPORT                 | 0.36                 | 0.26                  | 0.29                  |
 | CLIPGrasp               | 0.40                 | 0.29                  | 0.33                  |
 | LGD                     | 0.48                 | 0.42                  | 0.45                  |
-| GraspSAM w/ G.D (Ours)  | **0.64**             | **0.62**              | **0.63**              |
-</table> -->
+| GraspSAM w/ G.D (Ours)  | **0.64**             | **0.62**              | **0.63**              | -->
+
+### **Grasp dection performance comparison when using language as a prompt**
+<center>
+<!-- <div style="center; margin: 0 auto;"> -->
+<table style="width: 60%; center;">
+<!-- <caption style="font-size: 1.5em;"><strong>Grasp dection performance comparison when using language as a prompt</strong></caption> -->
+<tr>
+    <th rowspan="2" style="width: 40%; border: 2px solid black;">Methods</th>
+    <th colspan="3" style="width: 60%; border: 2px solid black;">Grasp-anthing ++</th>
+</tr>
+<tr>
+    <!-- <th></th> -->
+    <td style="width: 20%; border: 2px solid black;">Base</td>
+    <td style="width: 20%; border: 2px solid black;">New</td>
+    <td style="width: 20%; border: 2px solid black;">H</td>
+</tr>
+<tr>
+    <td style="width: 40%; border: 2px solid black;">CLIPORT</td>
+    <td style="width: 20%; border: 2px solid black;">0.36</td>
+    <td style="width: 20%; border: 2px solid black;">0.26</td>
+    <td style="width: 20%; border: 2px solid black;">0.29</td>
+</tr>
+<tr>
+    <td style="width: 40%; border: 2px solid black;">CLIPGrasp</td>
+    <td style="width: 20%; border: 2px solid black;">0.40</td>
+    <td style="width: 20%; border: 2px solid black;">0.29</td>
+    <td style="width: 20%; border: 2px solid black;">0.33</td>
+</tr>
+<tr>
+    <td style="width: 40%; border: 2px solid black;">LGD</td>
+    <td style="width: 20%; border: 2px solid black;">0.48</td>
+    <td style="width: 20%; border: 2px solid black;">0.42</td>
+    <td style="width: 20%; border: 2px solid black;">0.45</td>
+</tr>
+<tr>
+    <td style="width: 40%; border: 2px solid black;"><strong>GraspSAM w/ G.D (Ours)</strong></td>
+    <td style="width: 20%; border: 2px solid black;"><strong>0.64</strong></td>
+    <td style="width: 20%; border: 2px solid black;"><strong>0.62</strong></td>
+    <td style="width: 20%; border: 2px solid black;"><strong>0.63</strong></td>
+</tr>
+</table>
+<!-- </div> -->
+</center>
 
 <br>
 <br>
