@@ -141,6 +141,8 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <br>
 
 
+# GraspSAM Result
+
 ### **Grasp detection performance of each model given 10 points as prompt**
 <center>
 <div style="text-align: center; margin: 0 auto;">
