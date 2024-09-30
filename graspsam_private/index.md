@@ -610,6 +610,198 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 
 <br>
 
+## Real Inference Results
+
+- **1Point**
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/1point/real_img_0.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/1point/real_img_72.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/1point/real_img_75.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/1point/real_img_78.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/1point/real_img_88.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/1point/real_img_95.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<br>
+
+
+
+
+- **3Points**
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/3points/real_img_16.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/3points/real_img_20.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/3points/real_img_28.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/3points/real_img_32.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/3points/real_img_44.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/3points/real_img_58.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<br>
+
+
+
+
+- **5Points**
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/5points/real_img_5.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/5points/real_img_10.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/5points/real_img_48.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/5points/real_img_51.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/5points/real_img_65.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/5points/real_img_70.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<br>
+
+
+
+
+- **10Points**
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/5points/real_img_12.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/5points/real_img_30.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/5points/real_img_60.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/5points/real_img_68.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/5points/real_img_92.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/5points/real_img_98.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+
+
+
 
 <!-- <br> -->
 <!-- <br> -->
