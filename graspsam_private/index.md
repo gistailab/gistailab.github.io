@@ -161,72 +161,72 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
   <table style="width: 100%; margin: 0 auto; text-align: center;">
     <!-- <caption style="font-size: 1.5em;"><strong>Grasp detection performance of each model given 10 points as prompt</strong></caption> -->
     <tr>
-      <th rowspan="2" style="width: 16.66%;">Methods</th>
-      <th colspan="3" style="width: 25%;">Grasp-Anything</th>
-      <th colspan="3" style="width: 25%;">Jacquard</th>
+      <th rowspan="2" style="width: 16.66%; border: 2px solid black;">Methods</th>
+      <th colspan="3" style="width: 25%; border: 2px solid black;">Grasp-Anything</th>
+      <th colspan="3" style="width: 25%; border: 2px solid black;">Jacquard</th>
     </tr>
     <tr>
       <!-- <th style="width: 16.66%;"></th> -->
-      <th style="width: 8.33%;">Base</th>
-      <th style="width: 8.33%;">New</th>
-      <th style="width: 8.33%;">H</th>
-      <th style="width: 8.33%;">Base</th>
-      <th style="width: 8.33%;">New</th>
-      <th style="width: 8.33%;">H</th>
+      <th style="width: 8.33%; border: 2px solid black;">Base</th>
+      <th style="width: 8.33%; border: 2px solid black;">New</th>
+      <th style="width: 8.33%; border: 2px solid black;">H</th>
+      <th style="width: 8.33%; border: 2px solid black;">Base</th>
+      <th style="width: 8.33%; border: 2px solid black;">New</th>
+      <th style="width: 8.33%; border: 2px solid black;">H</th>
     </tr>
     <tr>
-      <td style="width: 16.66%;">GR-ConvNet*</td>
-      <td style="width: 8.33%;">0.68</td>
-      <td style="width: 8.33%;">0.55</td>
-      <td style="width: 8.33%;">0.61</td>
-      <td style="width: 8.33%;">0.82</td>
-      <td style="width: 8.33%;">0.61</td>
-      <td style="width: 8.33%;">0.70</td>
+      <td style="width: 16.66%; border: 2px solid black;">GR-ConvNet*</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.68</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.55</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.61</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.82</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.61</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.70</td>
     </tr>
     <tr>
-      <td style="width: 16.66%;">Det-Seg-Refine*</td>
-      <td style="width: 8.33%;">0.58</td>
-      <td style="width: 8.33%;">0.53</td>
-      <td style="width: 8.33%;">0.55</td>
-      <td style="width: 8.33%;">0.79</td>
-      <td style="width: 8.33%;">0.55</td>
-      <td style="width: 8.33%;">0.65</td>
+      <td style="width: 16.66%; border: 2px solid black;">Det-Seg-Refine*</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.58</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.53</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.55</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.79</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.55</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.65</td>
     </tr>
     <tr>
-      <td style="width: 16.66%;">GG-CNN*</td>
-      <td style="width: 8.33%;">0.65</td>
-      <td style="width: 8.33%;">0.53</td>
-      <td style="width: 8.33%;">0.58</td>
-      <td style="width: 8.33%;">0.73</td>
-      <td style="width: 8.33%;">0.52</td>
-      <td style="width: 8.33%;">0.61</td>
+      <td style="width: 16.66%; border: 2px solid black;">GG-CNN*</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.65</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.53</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.58</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.73</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.52</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.61</td>
     </tr>
     <tr>
-      <td style="width: 16.66%;">LGD*</td>
-      <td style="width: 8.33%;">0.69</td>
-      <td style="width: 8.33%;">0.57</td>
-      <td style="width: 8.33%;">0.62</td>
-      <td style="width: 8.33%;">0.83</td>
-      <td style="width: 8.33%;">0.64</td>
-      <td style="width: 8.33%;">0.72</td>
+      <td style="width: 16.66%; border: 2px solid black;">LGD*</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.69</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.57</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.62</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.83</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.64</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.72</td>
     </tr>
     <tr>
-      <td style="width: 16.66%;">GraspSAM-tiny (ours)</td>
-      <td style="width: 8.33%;">0.78</td>
-      <td style="width: 8.33%;">0.75</td>
-      <td style="width: 8.33%;">0.77</td>
-      <td style="width: 8.33%;"><strong>0.90</strong></td>
-      <td style="width: 8.33%;">0.81</td>
-      <td style="width: 8.33%;"><strong>0.85</strong></td>
+      <td style="width: 16.66%; border: 2px solid black;">GraspSAM-tiny (ours)</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.78</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.75</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.77</td>
+      <td style="width: 8.33%; border: 2px solid black;"><strong>0.90</strong></td>
+      <td style="width: 8.33%; border: 2px solid black;">0.81</td>
+      <td style="width: 8.33%; border: 2px solid black;"><strong>0.85</strong></td>
     </tr>
     <tr>
-      <td style="width: 16.66%;">GraspSAM-t (ours)</td>
-      <td style="width: 8.33%;"><strong>0.83</strong></td>
-      <td style="width: 8.33%;"><strong>0.81</strong></td>
-      <td style="width: 8.33%;"><strong>0.82</strong></td>
-      <td style="width: 8.33%;">0.87</td>
-      <td style="width: 8.33%;">0.75</td>
-      <td style="width: 8.33%;">0.81</td>
+      <td style="width: 16.66%; border: 2px solid black;">GraspSAM-t (ours)</td>
+      <td style="width: 8.33%; border: 2px solid black;"><strong>0.83</strong></td>
+      <td style="width: 8.33%; border: 2px solid black;"><strong>0.81</strong></td>
+      <td style="width: 8.33%; border: 2px solid black;"><strong>0.82</strong></td>
+      <td style="width: 8.33%; border: 2px solid black;">0.87</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.75</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.81</td>
     </tr>
   </table>
 </div>
