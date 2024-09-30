@@ -146,7 +146,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 
 ## **Table: Grasp detection performance of each model given 10 points as prompt.**
 | Methods            | Grasp-Anything        |             Grasp-Anything            |        Grasp-Anything                 | Jacquard            |              Jacquard           |         Jacquard                |
-| :------------------ | :--------------------- | :------------------------| :----------------------- | :---------------------- | :----------------------- | :----------------------- |
+| :------------------ | :--------------------- | :----------------------- | :----------------------- | :---------------------- | :----------------------- | :----------------------- |
 |          Methods          | Base                  | New                     | H                       | Base                   | New                     | H                       |
 | GR-ConvNet*         | 0.68                  | 0.55                    | 0.61                    | 0.82                   | 0.61                    | 0.70                    |
 | Det-Seg-Refine* | 0.58                  | 0.53                    | 0.55                    | 0.79                   | 0.55                    | 0.65                    |
@@ -160,7 +160,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 
 ## **Table: Grasp detection performance of each model given 10 points as prompt.**
 | Methods                 | Grasp-anthing ++     |                       |                       |
-|-------------------------|----------------------|-----------------------|-----------------------|
+| ----------------------- | ---------------------| --------------------- | --------------------- |
 |                         | Base                 | New                   | H                     |
 | CLIPORT                 | 0.36                 | 0.26                  | 0.29                  |
 | CLIPGrasp               | 0.40                 | 0.29                  | 0.33                  |
