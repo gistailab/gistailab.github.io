@@ -144,7 +144,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 # GraspSAM Result
 
 
-## **Table: Grasp detection performance of each model given 10 points as prompt.**
+-  **Grasp detection performance of each model given 10 points as prompt.**
 | Methods            | Grasp-Anything        |             Grasp-Anything            |        Grasp-Anything                 | Jacquard            |              Jacquard           |         Jacquard                |
 | :------------------ | :--------------------- | :----------------------- | :----------------------- | :---------------------- | :----------------------- | :----------------------- |
 |          Methods          | Base                  | New                     | H                       | Base                   | New                     | H                       |
@@ -158,7 +158,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <br>
 
 
-## **Table: Grasp detection performance of each model given 10 points as prompt.**
+-  **Grasp detection performance of each model given 10 points as prompt.**
 | Methods                 | Grasp-anthing ++     |                       |                       |
 | ----------------------- | ---------------------| --------------------- | --------------------- |
 |                         | Base                 | New                   | H                     |
