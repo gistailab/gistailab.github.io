@@ -248,45 +248,45 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 
 ### **Grasp dection performance comparison when using language as a prompt**
 <center>
-<div style="center; margin: 0 auto;">
-  <table style="width: 80%; margin: 0 auto; text-align: center;">
-    <!-- <caption style="font-size: 1.5em;"><strong>Grasp dection performance comparison when using language as a prompt</strong></caption> -->
-    <tr>
-      <th rowspan="2" style="width: 40%;">Methods</th>
-      <th colspan="3" style="width: 60%;">Grasp-anthing ++</th>
-    </tr>
-    <tr>
-      <!-- <th></th> -->
-      <th style="width: 20%;">Base</th>
-      <th style="width: 20%;">New</th>
-      <th style="width: 20%;">H</th>
-    </tr>
-    <tr>
-      <td>CLIPORT</td>
-      <td>0.36</td>
-      <td>0.26</td>
-      <td>0.29</td>
-    </tr>
-    <tr>
-      <td>CLIPGrasp</td>
-      <td>0.40</td>
-      <td>0.29</td>
-      <td>0.33</td>
-    </tr>
-    <tr>
-      <td>LGD</td>
-      <td>0.48</td>
-      <td>0.42</td>
-      <td>0.45</td>
-    </tr>
-    <tr>
-      <td><strong>GraspSAM w/ G.D (Ours)</strong></td>
-      <td><strong>0.64</strong></td>
-      <td><strong>0.62</strong></td>
-      <td><strong>0.63</strong></td>
-    </tr>
-  </table>
-</div>
+<!-- <div style="center; margin: 0 auto;"> -->
+<table style="width: 80%; margin: 0 auto; center;">
+<!-- <caption style="font-size: 1.5em;"><strong>Grasp dection performance comparison when using language as a prompt</strong></caption> -->
+<tr>
+    <th rowspan="2" style="width: 40%;">Methods</th>
+    <th colspan="3" style="width: 60%;">Grasp-anthing ++</th>
+</tr>
+<tr>
+    <!-- <th></th> -->
+    <th style="width: 20%;">Base</th>
+    <th style="width: 20%;">New</th>
+    <th style="width: 20%;">H</th>
+</tr>
+<tr>
+    <td>CLIPORT</td>
+    <td>0.36</td>
+    <td>0.26</td>
+    <td>0.29</td>
+</tr>
+<tr>
+    <td>CLIPGrasp</td>
+    <td>0.40</td>
+    <td>0.29</td>
+    <td>0.33</td>
+</tr>
+<tr>
+    <td>LGD</td>
+    <td>0.48</td>
+    <td>0.42</td>
+    <td>0.45</td>
+</tr>
+<tr>
+    <td><strong>GraspSAM w/ G.D (Ours)</strong></td>
+    <td><strong>0.64</strong></td>
+    <td><strong>0.62</strong></td>
+    <td><strong>0.63</strong></td>
+</tr>
+</table>
+<!-- </div> -->
 </center>
 
 
