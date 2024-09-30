@@ -141,7 +141,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <br>
 
 
-# GraspSAM Result
+<!-- # GraspSAM Result
 
 
 - **Grasp detection performance of each model given 10 points as prompt.**
@@ -169,7 +169,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 | CLIPGrasp               | 0.40                 | 0.29                  | 0.33                  |
 | LGD                     | 0.48                 | 0.42                  | 0.45                  |
 | GraspSAM w/ G.D (Ours)  | **0.64**             | **0.62**              | **0.63**              |
-</table>
+</table> -->
 
 <br>
 <br>
