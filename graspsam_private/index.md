@@ -244,7 +244,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
   <table border="1" style="width: 100%; text-align: center; margin: 0 auto;">
     <tr>
       <th style="width: 40%;">Methods</th>
-      <th colspan="3" style="width: 60%;">Grasp-anthing ++ [8]</th>
+      <th colspan="3" style="width: 60%;">Grasp-anthing ++</th>
     </tr>
     <tr>
       <th></th>
