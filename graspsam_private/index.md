@@ -145,7 +145,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 
 
 -  **Grasp detection performance of each model given 10 points as prompt.**
-| Methods            | Grasp-Anything        |             Grasp-Anything            |        Grasp-Anything                 | Jacquard            |              Jacquard           |         Jacquard                |
+<!-- | Methods            | Grasp-Anything        |             Grasp-Anything            |        Grasp-Anything                 | Jacquard            |              Jacquard           |         Jacquard                |
 | :------------------ | :--------------------- | :----------------------- | :----------------------- | :---------------------- | :----------------------- | :----------------------- |
 |          Methods          | Base                  | New                     | H                       | Base                   | New                     | H                       |
 | GR-ConvNet*         | 0.68                  | 0.55                    | 0.61                    | 0.82                   | 0.61                    | 0.70                    |
@@ -153,7 +153,78 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 | GG-CNN*             | 0.65                  | 0.53                    | 0.58                    | 0.73                   | 0.52                    | 0.61                    |
 | LGD*                | 0.69                  | 0.57                    | 0.62                    | 0.83                   | 0.64                    | 0.72                    |
 | GraspSAM-tiny (ours)| 0.78                  | 0.75                    | 0.77                    | **0.90**               | 0.81                    | **0.85**                |
-| GraspSAM-t (ours)   | **0.83**              | **0.81**                | **0.82**                | 0.87                   | 0.75                    | 0.81                    |
+| GraspSAM-t (ours)   | **0.83**              | **0.81**                | **0.82**                | 0.87                   | 0.75                    | 0.81                    | -->
+<table>
+  <tr>
+    <th>Methods</th>
+    <th colspan="3">Grasp-Anything</th>
+    <th colspan="3">Jacquard</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th>Base</th>
+    <th>New</th>
+    <th>H</th>
+    <th>Base</th>
+    <th>New</th>
+    <th>H</th>
+  </tr>
+  <tr>
+    <td>GR-ConvNet*</td>
+    <td>0.68</td>
+    <td>0.55</td>
+    <td>0.61</td>
+    <td>0.82</td>
+    <td>0.61</td>
+    <td>0.70</td>
+  </tr>
+  <tr>
+    <td>Det-Seg-Refine*</td>
+    <td>0.58</td>
+    <td>0.53</td>
+    <td>0.55</td>
+    <td>0.79</td>
+    <td>0.55</td>
+    <td>0.65</td>
+  </tr>
+  <tr>
+    <td>GG-CNN*</td>
+    <td>0.65</td>
+    <td>0.53</td>
+    <td>0.58</td>
+    <td>0.73</td>
+    <td>0.52</td>
+    <td>0.61</td>
+  </tr>
+  <tr>
+    <td>LGD*</td>
+    <td>0.69</td>
+    <td>0.57</td>
+    <td>0.62</td>
+    <td>0.83</td>
+    <td>0.64</td>
+    <td>0.72</td>
+  </tr>
+  <tr>
+    <td>GraspSAM-tiny (ours)</td>
+    <td>0.78</td>
+    <td>0.75</td>
+    <td>0.77</td>
+    <td><strong>0.90</strong></td>
+    <td>0.81</td>
+    <td><strong>0.85</strong></td>
+  </tr>
+  <tr>
+    <td>GraspSAM-t (ours)</td>
+    <td><strong>0.83</strong></td>
+    <td><strong>0.81</strong></td>
+    <td><strong>0.82</strong></td>
+    <td>0.87</td>
+    <td>0.75</td>
+    <td>0.81</td>
+  </tr>
+</table>
+
 
 <br>
 
