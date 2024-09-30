@@ -836,13 +836,13 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         <tbody>
             <tr style="border: none;">
                 <td style="border: none;">
-                    <img src="./assets/images/real_images/dino/language/prompt_10.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                    <img src="./assets/images/real_images/dino/language/prompt_10.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
                 </td>
                 <td style="border: none;">
                     <img src="./assets/images/real_images/dino/language/prompt_grasp_10.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
                 </td>
                 <td style="border: none;">
-                    <img src="./assets/images/real_images/dino/language/prompt_16.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                    <img src="./assets/images/real_images/dino/language/prompt_16.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
                 </td>
                 <td style="border: none;">
                     <img src="./assets/images/real_images/dino/language/prompt_grasp_16.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
