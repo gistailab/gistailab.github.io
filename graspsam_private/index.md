@@ -248,7 +248,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 
 ### **Grasp dection performance comparison when using language as a prompt**
 <center>
-<div style="text-align: center; margin: 0 auto;">
+<div style="center; margin: 0 auto;">
   <table style="width: 80%; margin: 0 auto; text-align: center;">
     <!-- <caption style="font-size: 1.5em;"><strong>Grasp dection performance comparison when using language as a prompt</strong></caption> -->
     <tr>
