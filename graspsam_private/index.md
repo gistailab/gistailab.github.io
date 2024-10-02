@@ -242,8 +242,9 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 
 <h3 class="title is-3">Category-agnostic Grasp Dection</h3>
 <div style="text-align: center; margin: 0 auto;">
-  <table style="width: 80%; margin: 0 auto; text-align: center; border-collapse: collapse; border: 3px solid black;">
-    <caption style="font-size: 1.5em;"><strong>Grasp detection performance comparison</strong></caption>
+  <table style="width: 100%; margin: 0 auto; text-align: center;">
+  <!-- <table style="width: 80%; margin: 0 auto; text-align: center; border-collapse: collapse; border: 3px solid black;"> -->
+    <!-- <caption style="font-size: 1.5em;"><strong>Grasp detection performance comparison</strong></caption> -->
     <tr>
       <th rowspan="2" style="width: 40%; border: 2px solid black;">Methods</th>
       <th colspan="3" style="width: 30%; border: 2px solid black;">Grasp-Anything [7]</th>
@@ -298,8 +299,8 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
       <td style="border: 2px solid black;">0.79</td>
       <td style="border: 2px solid black;">0.68</td>
       <td style="border: 2px solid black;">0.73</td>
-      <td style="border: 2px solid black;"><strong>0.88</strong></td>
-      <td style="border: 2px solid black;">0.79</td>
+      <td style="border: 2px solid black;">0.88</td>
+      <td style="border: 2px solid black;"><strong>0.79</strong></td>
       <td style="border: 2px solid black;"><strong>0.83</strong></td>
     </tr>
     <tr>
