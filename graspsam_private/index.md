@@ -441,7 +441,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         <!-- <br> -->
         <br>
         <div style="float:left; width:49%; border: 0px solid rgba(5, 130, 255, 0.534);">
-            <h3 class="title is-3">Prompt: Eye Gaze</h3>
+            <h3 class="title is-3">Prompt: Eye Gaze as Points</h3>
             <div class="column is-five-fifths">
                 <div class="columns is-centered">
                     <video width="90%" controls>
