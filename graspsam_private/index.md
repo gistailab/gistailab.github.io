@@ -1237,10 +1237,9 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <br>
 <br>
 
-<!-- # Acknowledgements
+# Acknowledgements
 
-  This work was fully supported by the Korea Institute for Advancement of Technology (KIAT) grant funded by the Korea Government (MOTIE) (Project Name: Shared autonomy based on deep reinforcement learning for responding intelligently to unfixed environments such as robotic assembly tasks, Project Number: 20008613).
-  This work was also partially supported by the HPC Support project of the Korea Ministry of Science and ICT and NIPA. -->
+  This work was supported by Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korea government(MSIT) No.RS2021-II212068, Artificial Intelligence Innovation Hub.
 
 <br>
 <br>
