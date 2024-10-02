@@ -156,7 +156,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 | GraspSAM-t (ours)   | **0.83**              | **0.81**                | **0.82**                | 0.87                   | 0.75                    | 0.81                    | -->
 
 <!-- ### **Grasp detection performance of each model given 10 points as prompt** -->
-<h3 class="title is-3">Grasp detection performance of each model given 10 points as prompt</h3>
+<h3 class="title is-3">Grasp detection with 10 points</h3>
 <center>
 <div style="text-align: center; margin: 0 auto;">
   <table style="width: 100%; margin: 0 auto; text-align: center;">
