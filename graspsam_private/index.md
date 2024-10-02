@@ -984,36 +984,16 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         <tbody>
             <tr style="border: none;">
                 <td style="border: none;">
-                    <img src="./assets/images/real_images/dino/language/rigid_0.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                    <img src="./assets/images/real_images/dino/grid/rigid_0.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
                 </td>
                 <td style="border: none;">
-                    <img src="./assets/images/real_images/dino/language/rigid_grasp_0.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                    <img src="./assets/images/real_images/dino/grid/rigid_grasp_0.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
                 </td>
                 <td style="border: none;">
-                    <img src="./assets/images/real_images/dino/language/rigid_9.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                    <img src="./assets/images/real_images/dino/grid/rigid_9.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
                 </td>
                 <td style="border: none;">
-                    <img src="./assets/images/real_images/dino/language/rigid_grasp_9.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</center>
-<center>
-    <table style="border: none; display: initial;">
-        <tbody>
-            <tr style="border: none;">
-                <td style="border: none;">
-                    <img src="./assets/images/real_images/dino/language/rigid_28.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
-                </td>
-                <td style="border: none;">
-                    <img src="./assets/images/real_images/dino/language/rigid_grasp_28.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
-                </td>
-                <td style="border: none;">
-                    <img src="./assets/images/real_images/dino/language/rigid_47.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
-                </td>
-                <td style="border: none;">
-                    <img src="./assets/images/real_images/dino/language/rigid_grasp_47.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                    <img src="./assets/images/real_images/dino/grid/rigid_grasp_9.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
                 </td>
             </tr>
         </tbody>
@@ -1024,16 +1004,36 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         <tbody>
             <tr style="border: none;">
                 <td style="border: none;">
-                    <img src="./assets/images/real_images/dino/language/rigid_80.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                    <img src="./assets/images/real_images/dino/grid/rigid_28.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
                 </td>
                 <td style="border: none;">
-                    <img src="./assets/images/real_images/dino/language/rigid_grasp_80.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                    <img src="./assets/images/real_images/dino/grid/rigid_grasp_28.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
                 </td>
                 <td style="border: none;">
-                    <img src="./assets/images/real_images/dino/language/rigid_97.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                    <img src="./assets/images/real_images/dino/grid/rigid_47.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
                 </td>
                 <td style="border: none;">
-                    <img src="./assets/images/real_images/dino/language/rigid_grasp_97.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                    <img src="./assets/images/real_images/dino/grid/rigid_grasp_47.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/grid/rigid_80.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/grid/rigid_grasp_80.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/grid/rigid_97.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/grid/rigid_grasp_97.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
                 </td>
             </tr>
         </tbody>
