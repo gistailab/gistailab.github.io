@@ -41,12 +41,12 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
     <table style="border: none; display: initial;">
         <tbody>
             <tr style="border: none;">
-                <td style="border: none;"><a href="mailto:sangjun7@gm.gist.ac.kr">Sangjun Noh</a></td>
-                <td style="border: none;"><a href="mailto:jongwonkim@gm.gist.ac.kr">Jongwon Kim</a></td>
-                <td style="border: none;"><a href="mailto:namdongwoo@gm.gist.ac.kr">Dongwoo Nam</a></td>
-                <td style="border: none;"><a href="mailto:shback@gm.gist.ac.kr">Seunghyeok Back</a></td>
-                <td style="border: none;"><a href="mailto:raeyo@gm.gist.ac.kr">Raeyoung Kang</a></td>
-                <td style="border: none;"><a href="mailto:kyoobinlee@gist.ac.kr">Kyoobin Lee</a><sup>†</sup></td>
+                <td style="border: none;"><a href="https://scholar.google.co.kr/citations?user=tqylaI8AAAAJ&hl=ko&oi=ao"><sup>1</sup>Sangjun Noh</a></td>
+                <td style="border: none;"><a href="https://scholar.google.co.kr/citations?hl=ko&user=VKULYHAAAAAJ"><sup>1</sup>Jongwon Kim</a></td>
+                <td style="border: none;"><a href="https://scholar.google.com/citations?user=a7iMp8wAAAAJ&hl=ko&oi=sra"><sup>1</sup>Dongwoo Nam</a></td>
+                <td style="border: none;"><a href="https://scholar.google.com/citations?user=N9dLZH4AAAAJ&hl=ko&oi=sra"><sup>1</sup>Seunghyeok Back</a></td>
+                <td style="border: none;"><a href="https://scholar.google.com/citations?user=52DNwMIAAAAJ&hl=ko&oi=sra"><sup>1</sup>Raeyoung Kang</a></td>
+                <td style="border: none;"><a href="https://scholar.google.com/citations?user=QVihy5MAAAAJ&hl=ko&oi=ao"><sup>1</sup>Kyoobin Lee</a><sup>†</sup></td>
             </tr>
         </tbody>
     </table>
