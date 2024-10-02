@@ -247,8 +247,8 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
     <!-- <caption style="font-size: 1.5em;"><strong>Grasp detection performance comparison</strong></caption> -->
     <tr>
       <th rowspan="2" style="width: 40%; border: 2px solid black;">Methods</th>
-      <th colspan="3" style="width: 30%; border: 2px solid black;">Grasp-Anything [7]</th>
-      <th colspan="3" style="width: 30%; border: 2px solid black;">Jacquard [6]</th>
+      <th colspan="3" style="width: 30%; border: 2px solid black;">Grasp-Anything <a href="https://arxiv.org/abs/2309.09818">[7]</a> </th>
+      <th colspan="3" style="width: 30%; border: 2px solid black;">Jacquard <a href="https://ieeexplore.ieee.org/abstract/document/8593950">[6]</a> </th>
     </tr>
     <tr>
       <th style="width: 10%; border: 2px solid black;">Base</th>
@@ -259,7 +259,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
       <th style="width: 10%; border: 2px solid black;">H</th>
     </tr>
     <tr>
-      <td style="border: 2px solid black;">GR-ConvNet [3]</td>
+      <td style="border: 2px solid black;">GR-ConvNet <a href="https://arxiv.org/abs/1909.04810">[3]</a> </td>
       <td style="border: 2px solid black;">0.75</td>
       <td style="border: 2px solid black;">0.61</td>
       <td style="border: 2px solid black;">0.67</td>
@@ -268,7 +268,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
       <td style="border: 2px solid black;">0.75</td>
     </tr>
     <tr>
-      <td style="border: 2px solid black;">Det-Seg-Refine [4]</td>
+      <td style="border: 2px solid black;">Det-Seg-Refine <a href="https://arxiv.org/abs/2107.05287">[4]</a> </td>
       <td style="border: 2px solid black;">0.64</td>
       <td style="border: 2px solid black;">0.59</td>
       <td style="border: 2px solid black;">0.61</td>
@@ -277,7 +277,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
       <td style="border: 2px solid black;">0.70</td>
     </tr>
     <tr>
-      <td style="border: 2px solid black;">GG-CNN [2]</td>
+      <td style="border: 2px solid black;">GG-CNN <a href="https://arxiv.org/abs/1804.05172">[2]</a> </td>
       <td style="border: 2px solid black;">0.72</td>
       <td style="border: 2px solid black;">0.59</td>
       <td style="border: 2px solid black;">0.65</td>
@@ -286,7 +286,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
       <td style="border: 2px solid black;">0.65</td>
     </tr>
     <tr>
-      <td style="border: 2px solid black;">LGD [8]</td>
+      <td style="border: 2px solid black;">LGD <a href="https://arxiv.org/abs/2406.09489">[8]</a> </td>
       <td style="border: 2px solid black;">0.77</td>
       <td style="border: 2px solid black;">0.65</td>
       <td style="border: 2px solid black;">0.70</td>
@@ -338,7 +338,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <!-- <caption style="font-size: 1.5em;"><strong>Grasp dection performance comparison when using language as a prompt</strong></caption> -->
 <tr>
     <th rowspan="2" style="width: 40%; border: 2px solid black;">Methods</th>
-    <th colspan="3" style="width: 60%; border: 2px solid black;">Grasp-anthing ++</th>
+    <th colspan="3" style="width: 60%; border: 2px solid black;">Grasp-anthing ++ <a href="https://arxiv.org/abs/2406.09489">[8]</a> </th>
 </tr>
 <tr>
     <!-- <th></th> -->
@@ -347,19 +347,19 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
     <td style="width: 20%; border: 2px solid black;">H</td>
 </tr>
 <tr>
-    <td style="width: 40%; border: 2px solid black;">CLIPORT</td>
+    <td style="width: 40%; border: 2px solid black;">CLIPORT <a href="https://proceedings.mlr.press/v164/shridhar22a.html">[24]</a> </td>
     <td style="width: 20%; border: 2px solid black;">0.36</td>
     <td style="width: 20%; border: 2px solid black;">0.26</td>
     <td style="width: 20%; border: 2px solid black;">0.29</td>
 </tr>
 <tr>
-    <td style="width: 40%; border: 2px solid black;">CLIPGrasp</td>
+    <td style="width: 40%; border: 2px solid black;">CLIPGrasp <a href="https://ieeexplore.ieee.org/abstract/document/10161041">[25]</a> </td>
     <td style="width: 20%; border: 2px solid black;">0.40</td>
     <td style="width: 20%; border: 2px solid black;">0.29</td>
     <td style="width: 20%; border: 2px solid black;">0.33</td>
 </tr>
 <tr>
-    <td style="width: 40%; border: 2px solid black;">LGD</td>
+    <td style="width: 40%; border: 2px solid black;">LGD <a href="https://arxiv.org/abs/2406.09489">[8]</a> </td>
     <td style="width: 20%; border: 2px solid black;">0.48</td>
     <td style="width: 20%; border: 2px solid black;">0.42</td>
     <td style="width: 20%; border: 2px solid black;">0.45</td>
