@@ -163,8 +163,8 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
     <!-- <caption style="font-size: 1.5em;"><strong>Grasp detection performance of each model given 10 points as prompt</strong></caption> -->
     <tr>
       <th rowspan="2" style="width: 16.66%; border: 2px solid black;">Methods</th>
-      <th colspan="3" style="width: 25%; border: 2px solid black;">Grasp-Anything</th>
-      <th colspan="3" style="width: 25%; border: 2px solid black;">Jacquard</th>
+      <th colspan="3" style="width: 25%; border: 2px solid black;">Grasp-Anything <a href="https://arxiv.org/abs/2309.09818">[7]</a> </th>
+      <th colspan="3" style="width: 25%; border: 2px solid black;">Jacquard <a href="https://ieeexplore.ieee.org/abstract/document/8593950">[6]</a> </th>
     </tr>
     <tr>
       <!-- <th style="width: 16.66%;"></th> -->
@@ -176,7 +176,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
       <th style="width: 8.33%; border: 2px solid black;">H</th>
     </tr>
     <tr>
-      <td style="width: 16.66%; border: 2px solid black;">GR-ConvNet*</td>
+      <td style="width: 16.66%; border: 2px solid black;">GR-ConvNet* <a href="https://arxiv.org/abs/1909.04810">[3]</a> </td>
       <td style="width: 8.33%; border: 2px solid black;">0.68</td>
       <td style="width: 8.33%; border: 2px solid black;">0.55</td>
       <td style="width: 8.33%; border: 2px solid black;">0.61</td>
@@ -185,7 +185,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
       <td style="width: 8.33%; border: 2px solid black;">0.70</td>
     </tr>
     <tr>
-      <td style="width: 16.66%; border: 2px solid black;">Det-Seg-Refine*</td>
+      <td style="width: 16.66%; border: 2px solid black;">Det-Seg-Refine* <a href="https://arxiv.org/abs/2107.05287">[4]</a> </td>
       <td style="width: 8.33%; border: 2px solid black;">0.58</td>
       <td style="width: 8.33%; border: 2px solid black;">0.53</td>
       <td style="width: 8.33%; border: 2px solid black;">0.55</td>
@@ -194,7 +194,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
       <td style="width: 8.33%; border: 2px solid black;">0.65</td>
     </tr>
     <tr>
-      <td style="width: 16.66%; border: 2px solid black;">GG-CNN*</td>
+      <td style="width: 16.66%; border: 2px solid black;">GG-CNN* <a href="https://arxiv.org/abs/1804.05172">[2]</a> </td>
       <td style="width: 8.33%; border: 2px solid black;">0.65</td>
       <td style="width: 8.33%; border: 2px solid black;">0.53</td>
       <td style="width: 8.33%; border: 2px solid black;">0.58</td>
@@ -203,7 +203,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
       <td style="width: 8.33%; border: 2px solid black;">0.61</td>
     </tr>
     <tr>
-      <td style="width: 16.66%; border: 2px solid black;">LGD*</td>
+      <td style="width: 16.66%; border: 2px solid black;">LGD* <a href="https://arxiv.org/abs/2406.09489">[8]</a> </td>
       <td style="width: 8.33%; border: 2px solid black;">0.69</td>
       <td style="width: 8.33%; border: 2px solid black;">0.57</td>
       <td style="width: 8.33%; border: 2px solid black;">0.62</td>
