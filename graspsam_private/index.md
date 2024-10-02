@@ -241,31 +241,32 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 
 
 <h3 class="title is-3">Category-agnostic Grasp Dection</h3>
+<center>
 <div style="text-align: center; margin: 0 auto;">
   <table style="width: 100%; margin: 0 auto; text-align: center;">
   <!-- <table style="width: 80%; margin: 0 auto; text-align: center; border-collapse: collapse; border: 3px solid black;"> -->
     <!-- <caption style="font-size: 1.5em;"><strong>Grasp detection performance comparison</strong></caption> -->
     <tr>
-      <th rowspan="2" style="width: 40%; border: 2px solid black;">Methods</th>
-      <th colspan="3" style="width: 30%; border: 2px solid black;">Grasp-Anything <a href="https://arxiv.org/abs/2309.09818">[7]</a> </th>
-      <th colspan="3" style="width: 30%; border: 2px solid black;">Jacquard <a href="https://ieeexplore.ieee.org/abstract/document/8593950">[6]</a> </th>
+      <th rowspan="2" style="width: 16.66%; border: 2px solid black;">Methods</th>
+      <th colspan="3" style="width: 25%; border: 2px solid black;">Grasp-Anything <a href="https://arxiv.org/abs/2309.09818">[7]</a> </th>
+      <th colspan="3" style="width: 25%; border: 2px solid black;">Jacquard <a href="https://ieeexplore.ieee.org/abstract/document/8593950">[6]</a> </th>
     </tr>
     <tr>
-      <th style="width: 10%; border: 2px solid black;">Base</th>
-      <th style="width: 10%; border: 2px solid black;">New</th>
-      <th style="width: 10%; border: 2px solid black;">H</th>
-      <th style="width: 10%; border: 2px solid black;">Base</th>
-      <th style="width: 10%; border: 2px solid black;">New</th>
-      <th style="width: 10%; border: 2px solid black;">H</th>
+      <th style="width: 8.33%; border: 2px solid black;">Base</th>
+      <th style="width: 8.33%; border: 2px solid black;">New</th>
+      <th style="width: 8.33%; border: 2px solid black;">H</th>
+      <th style="width: 8.33%; border: 2px solid black;">Base</th>
+      <th style="width: 8.33%; border: 2px solid black;">New</th>
+      <th style="width: 8.33%; border: 2px solid black;">H</th>
     </tr>
     <tr>
-      <td style="border: 2px solid black;">GR-ConvNet <a href="https://arxiv.org/abs/1909.04810">[3]</a> </td>
-      <td style="border: 2px solid black;">0.75</td>
-      <td style="border: 2px solid black;">0.61</td>
-      <td style="border: 2px solid black;">0.67</td>
-      <td style="border: 2px solid black;">0.88</td>
-      <td style="border: 2px solid black;">0.66</td>
-      <td style="border: 2px solid black;">0.75</td>
+      <td style="width: 16.66%; border: 2px solid black;">GR-ConvNet <a href="https://arxiv.org/abs/1909.04810">[3]</a> </td>
+      <td style="width: 8.33%; border: 2px solid black;">0.75</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.61</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.67</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.88</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.66</td>
+      <td style="width: 8.33%; border: 2px solid black;">0.75</td>
     </tr>
     <tr>
       <td style="border: 2px solid black;">Det-Seg-Refine <a href="https://arxiv.org/abs/2107.05287">[4]</a> </td>
@@ -314,6 +315,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
     </tr>
   </table>
 </div>
+</center>
 
 
 <br>
@@ -331,7 +333,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 | GraspSAM w/ G.D (Ours)  | **0.64**             | **0.62**              | **0.63**              | -->
 
 <!-- ### **Grasp dection performance comparison when using language as a prompt** -->
-<h3 class="title is-3">Grasp dection performance comparison when using language as a prompt</h3>
+<h3 class="title is-3">Grasp dection with language</h3>
 <center>
 <!-- <div style="center; margin: 0 auto;"> -->
 <table style="width: 60%; center;">
