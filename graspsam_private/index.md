@@ -466,6 +466,32 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <!-- - **Grasp-Anything(Seen)** -->
 <h3 class="title is-3">Grasp-Anything(Seen)</h3>
 
+
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td  style="margin: 10px 20px 10px 0px;" width="100%">RGB</td>
+                <td  style="margin: 10px 20px 10px 0px;" width="100%">Prompt</td>
+                <td  style="margin: 10px 20px 10px 0px;" width="100%">Mask</td>
+                <td  style="margin: 10px 20px 10px 0px;" width="100%">Grasp</td>
+                <td  style="margin: 10px 20px 10px 0px;" width="100%">Quality Map</td>
+                <td  style="margin: 10px 20px 10px 0px;" width="100%">RGB</td>
+                <td  style="margin: 10px 20px 10px 0px;" width="100%">Prompt</td>
+                <td  style="margin: 10px 20px 10px 0px;" width="100%">Mask</td>
+                <td  style="margin: 10px 20px 10px 0px;" width="100%">Grasp</td>
+                <td  style="margin: 10px 20px 10px 0px;" width="100%">Quality Map</td>
+                <!-- <td style="border: none;">
+                    <img src="./assets/images/graspanything/seen/5/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/graspanything/seen/7/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td> -->
+            </tr>
+        </tbody>
+    </table>
+</center>
+
 <center>
     <table style="border: none; display: initial;">
         <tbody>
