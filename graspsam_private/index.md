@@ -507,16 +507,16 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         <div style="flex: 1; font-size: 0.8em;">Quality Map</div>
     </div> -->
     <div style="display: flex; justify-content: space-between; text-align: center; margin: 20px 0;">
-        <div style="flex: 1; font-size: 0.8em; margin-left: 5px; margin-right: 5px;">RGB Image</div>
-        <div style="flex: 1; font-size: 0.8em; margin-left: 5px; margin-right: 5px;">Prompt</div>
-        <div style="flex: 1; font-size: 0.8em; margin-left: 5px; margin-right: 5px;">Pred Mask</div>
-        <div style="flex: 1; font-size: 0.8em; margin-left: 5px; margin-right: 5px;">Pred Grasp</div>
-        <div style="flex: 1; font-size: 0.8em; margin-left: 5px; margin-right: 5px;">Quality Map</div>
-        <div style="flex: 1; font-size: 0.8em; margin-left: 5px; margin-right: 5px;">RGB Image</div>
-        <div style="flex: 1; font-size: 0.8em; margin-left: 5px; margin-right: 5px;">Prompt</div>
-        <div style="flex: 1; font-size: 0.8em; margin-left: 5px; margin-right: 5px;">Pred Mask</div>
-        <div style="flex: 1; font-size: 0.8em; margin-left: 5px; margin-right: 5px;">Pred Grasp</div>
-        <div style="flex: 1; font-size: 0.8em; margin-left: 5px; margin-right: 5px;">Quality Map</div>
+        <div style="flex: 1; font-size: 0.8em; margin-left: 5px; margin-right: 10px;">RGB Image</div>
+        <div style="flex: 1; font-size: 0.8em; margin-left: 5px; margin-right: 10px;">Prompt</div>
+        <div style="flex: 1; font-size: 0.8em; margin-left: 5px; margin-right: 10px;">Pred Mask</div>
+        <div style="flex: 1; font-size: 0.8em; margin-left: 5px; margin-right: 10px;">Pred Grasp</div>
+        <div style="flex: 1; font-size: 0.8em; margin-left: 5px; margin-right: 10px;">Quality Map</div>
+        <div style="flex: 1; font-size: 0.8em; margin-left: 5px; margin-right: 10px;">RGB Image</div>
+        <div style="flex: 1; font-size: 0.8em; margin-left: 5px; margin-right: 10px;">Prompt</div>
+        <div style="flex: 1; font-size: 0.8em; margin-left: 5px; margin-right: 10px;">Pred Mask</div>
+        <div style="flex: 1; font-size: 0.8em; margin-left: 5px; margin-right: 10px;">Pred Grasp</div>
+        <div style="flex: 1; font-size: 0.8em; margin-left: 5px; margin-right: 10px;">Quality Map</div>
     </div>
 </center>
 
