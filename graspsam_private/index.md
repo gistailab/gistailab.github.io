@@ -471,16 +471,16 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
     <table style="border: none; display: initial;">
         <tbody>
             <tr style="border: none;">
-                <td  style="margin: 10px 20px 10px 0px;" width="100%">RGB</td>
-                <td  style="margin: 10px 20px 10px 0px;" width="100%">Prompt</td>
-                <td  style="margin: 10px 20px 10px 0px;" width="100%">Mask</td>
-                <td  style="margin: 10px 20px 10px 0px;" width="100%">Grasp</td>
-                <td  style="margin: 10px 20px 10px 0px;" width="100%">Quality Map</td>
-                <td  style="margin: 10px 20px 10px 0px;" width="100%">RGB</td>
-                <td  style="margin: 10px 20px 10px 0px;" width="100%">Prompt</td>
-                <td  style="margin: 10px 20px 10px 0px;" width="100%">Mask</td>
-                <td  style="margin: 10px 20px 10px 0px;" width="100%">Grasp</td>
-                <td  style="margin: 10px 20px 10px 0px;" width="100%">Quality Map</td>
+                <td  style="margin: 10px 20px 10px 0px;" width="25%">RGB</td>
+                <td  style="margin: 10px 20px 10px 0px;" width="25%">Prompt</td>
+                <td  style="margin: 10px 20px 10px 0px;" width="25%">Mask</td>
+                <td  style="margin: 10px 20px 10px 0px;" width="25%">Grasp</td>
+                <td  style="margin: 10px 20px 10px 0px;" width="25%">Quality Map</td>
+                <td  style="margin: 10px 20px 10px 0px;" width="25%">RGB</td>
+                <td  style="margin: 10px 20px 10px 0px;" width="25%">Prompt</td>
+                <td  style="margin: 10px 20px 10px 0px;" width="25%">Mask</td>
+                <td  style="margin: 10px 20px 10px 0px;" width="25%">Grasp</td>
+                <td  style="margin: 10px 20px 10px 0px;" width="25%">Quality Map</td>
                 <!-- <td style="border: none;">
                     <img src="./assets/images/graspanything/seen/5/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
                 </td>
