@@ -471,7 +471,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
     <table style="border: none; display: initial;">
         <tbody>
             <tr style="border: none;">
-                <td  width="25%">RGB</td>
+                <!-- <td  width="25%">RGB</td>
                 <td  width="25%">Prompt</td>
                 <td  width="25%">Mask</td>
                 <td  width="25%">Grasp</td>
@@ -480,13 +480,17 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
                 <td  width="25%">Prompt</td>
                 <td  width="25%">Mask</td>
                 <td  width="25%">Grasp</td>
-                <td  width="25%">Quality Map</td>
-                <!-- <td style="border: none;">
-                    <img src="./assets/images/graspanything/seen/5/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
-                </td>
-                <td style="border: none;">
-                    <img src="./assets/images/graspanything/seen/7/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
-                </td> -->
+                <td  width="25%">Quality Map</td> -->
+                <th style="font-size: 0.8em;">RGB</th>
+                <th style="font-size: 0.8em;">Prompt</th>
+                <th style="font-size: 0.8em;">Mask</th>
+                <th style="font-size: 0.8em;">Grasp</th>
+                <th style="font-size: 0.8em;">Quality Map</th>
+                <th style="font-size: 0.8em;">RGB</th>
+                <th style="font-size: 0.8em;">Prompt</th>
+                <th style="font-size: 0.8em;">Mask</th>
+                <th style="font-size: 0.8em;">Grasp</th>
+                <th style="font-size: 0.8em;">Quality Map</th>
             </tr>
         </tbody>
     </table>
