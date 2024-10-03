@@ -481,16 +481,16 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
                 <td  width="25%">Mask</td>
                 <td  width="25%">Grasp</td>
                 <td  width="25%">Quality Map</td> -->
-                <th style="font-size: 0.5em;">RGB</th>
-                <th style="font-size: 0.5em;">Prompt</th>
-                <th style="font-size: 0.5em;">Mask</th>
-                <th style="font-size: 0.5em;">Grasp</th>
-                <th style="font-size: 0.5em;">Quality Map</th>
-                <th style="font-size: 0.5em;">RGB</th>
-                <th style="font-size: 0.5em;">Prompt</th>
-                <th style="font-size: 0.5em;">Mask</th>
-                <th style="font-size: 0.5em;">Grasp</th>
-                <th style="font-size: 0.5em;">Quality Map</th>
+                <th style="font-size: 0.7em;">RGB</th>
+                <th style="font-size: 0.7em;">Prompt</th>
+                <th style="font-size: 0.7em;">Mask</th>
+                <th style="font-size: 0.7em;">Grasp</th>
+                <th style="font-size: 0.7em;">Quality Map</th>
+                <th style="font-size: 0.7em;">RGB</th>
+                <th style="font-size: 0.7em;">Prompt</th>
+                <th style="font-size: 0.7em;">Mask</th>
+                <th style="font-size: 0.7em;">Grasp</th>
+                <th style="font-size: 0.7em;">Quality Map</th>
             </tr>
         </tbody>
     </table>
