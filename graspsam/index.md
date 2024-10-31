@@ -466,46 +466,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <!-- - **Grasp-Anything(Seen)** -->
 <h3 class="title is-3">Grasp-Anything(Seen)</h3>
 
-
 <center>
-    <!-- <table style="border: none; display: initial;">
-        <tbody>
-            <tr style="border: none;">
-                <td  width="25%">RGB</td>
-                <td  width="25%">Prompt</td>
-                <td  width="25%">Mask</td>
-                <td  width="25%">Grasp</td>
-                <td  width="25%">Quality Map</td>
-                <td  width="25%">RGB</td>
-                <td  width="25%">Prompt</td>
-                <td  width="25%">Mask</td>
-                <td  width="25%">Grasp</td>
-                <td  width="25%">Quality Map</td> -->
-                <!-- <th style="font-size: 0.7em;">RGB</th>
-                <th style="font-size: 0.7em;">Prompt</th>
-                <th style="font-size: 0.7em;">Mask</th>
-                <th style="font-size: 0.7em;">Grasp</th>
-                <th style="font-size: 0.7em;">Quality Map</th>
-                <th style="font-size: 0.7em;">RGB</th>
-                <th style="font-size: 0.7em;">Prompt</th>
-                <th style="font-size: 0.7em;">Mask</th>
-                <th style="font-size: 0.7em;">Grasp</th>
-                <th style="font-size: 0.7em;">Quality Map</th>
-            </tr>
-        </tbody>
-    </table> -->
-    <!-- <div style="display: flex; justify-content: space-between; text-align: center; margin: 20px 0;">
-        <div style="flex: 1; font-size: 0.8em;">RGB Image</div>
-        <div style="flex: 1; font-size: 0.8em;">Prompt</div>
-        <div style="flex: 1; font-size: 0.8em;">Pred Mask</div>
-        <div style="flex: 1; font-size: 0.8em;">Pred Grasp</div>
-        <div style="flex: 1; font-size: 0.8em;">Quality Map</div>
-        <div style="flex: 1; font-size: 0.8em;">RGB Image</div>
-        <div style="flex: 1; font-size: 0.8em;">Prompt</div>
-        <div style="flex: 1; font-size: 0.8em;">Pred Mask</div>
-        <div style="flex: 1; font-size: 0.8em;">Pred Grasp</div>
-        <div style="flex: 1; font-size: 0.8em;">Quality Map</div>
-    </div> -->
     <div style="display: flex; justify-content: space-between; text-align: center; margin: 2px 0;">
         <div style="flex: 1; font-size: 0.7em; margin-left: 12px; margin-right: -8.5px;">RGB Image</div>
         <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Prompt</div>
@@ -568,6 +529,20 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <h3 class="title is-3">Grasp-Anything(Unseen)</h3>
 
 <center>
+    <div style="display: flex; justify-content: space-between; text-align: center; margin: 2px 0;">
+        <div style="flex: 1; font-size: 0.7em; margin-left: 12px; margin-right: -8.5px;">RGB Image</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Prompt</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Pred Mask</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Pred Grasp</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: 15px;">Quality Map    </div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: 12px; margin-right: -8.5px;">RGB Image</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Prompt</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Pred Mask</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Pred Grasp</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: 14px;">Quality Map</div>
+    </div>
+</center>
+<center>
     <table style="border: none; display: initial;">
         <tbody>
             <tr style="border: none;">
@@ -621,6 +596,20 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <h3 class="title is-3">Armbench</h3>
 
 <center>
+    <div style="display: flex; justify-content: space-between; text-align: center; margin: 2px 0;">
+        <div style="flex: 1; font-size: 0.7em; margin-left: 12px; margin-right: -8.5px;">RGB Image</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Prompt</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Pred Mask</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Pred Grasp</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: 15px;">Quality Map    </div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: 12px; margin-right: -8.5px;">RGB Image</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Prompt</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Pred Mask</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Pred Grasp</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: 14px;">Quality Map</div>
+    </div>
+</center>
+<center>
     <table style="border: none; display: initial;">
         <tbody>
             <tr style="border: none;">
@@ -668,6 +657,20 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <!-- - **GraspNet** -->
 <h3 class="title is-3">GraspNet</h3>
 
+<center>
+    <div style="display: flex; justify-content: space-between; text-align: center; margin: 2px 0;">
+        <div style="flex: 1; font-size: 0.7em; margin-left: 12px; margin-right: -8.5px;">RGB Image</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Prompt</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Pred Mask</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Pred Grasp</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: 15px;">Quality Map    </div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: 12px; margin-right: -8.5px;">RGB Image</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Prompt</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Pred Mask</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Pred Grasp</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: 14px;">Quality Map</div>
+    </div>
+</center>
 <center>
     <table style="border: none; display: initial;">
         <tbody>
@@ -717,6 +720,20 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <!-- - **OCID** -->
 <h3 class="title is-3">OCID</h3>
 
+<center>
+    <div style="display: flex; justify-content: space-between; text-align: center; margin: 2px 0;">
+        <div style="flex: 1; font-size: 0.7em; margin-left: 12px; margin-right: -8.5px;">RGB Image</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Prompt</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Pred Mask</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Pred Grasp</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: 15px;">Quality Map    </div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: 12px; margin-right: -8.5px;">RGB Image</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Prompt</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Pred Mask</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Pred Grasp</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: 14px;">Quality Map</div>
+    </div>
+</center>
 <center>
     <table style="border: none; display: initial;">
         <tbody>
@@ -771,6 +788,20 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <h3 class="title is-3">Prompt: 1Point</h3>
 
 <center>
+    <div style="display: flex; justify-content: space-between; text-align: center; margin: 2px 0;">
+        <div style="flex: 1; font-size: 0.7em; margin-left: 12px; margin-right: -8.5px;">RGB Image</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Prompt</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Pred Mask</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Pred Grasp</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: 15px;">Quality Map    </div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: 12px; margin-right: -8.5px;">RGB Image</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Prompt</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Pred Mask</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Pred Grasp</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: 14px;">Quality Map</div>
+    </div>
+</center>
+<center>
     <table style="border: none; display: initial;">
         <tbody>
             <tr style="border: none;">
@@ -819,6 +850,20 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 
 <!-- - **3Points** -->
 <h3 class="title is-3">Prompt: 3Points</h3>
+<center>
+    <div style="display: flex; justify-content: space-between; text-align: center; margin: 2px 0;">
+        <div style="flex: 1; font-size: 0.7em; margin-left: 12px; margin-right: -8.5px;">RGB Image</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Prompt</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Pred Mask</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Pred Grasp</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: 15px;">Quality Map    </div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: 12px; margin-right: -8.5px;">RGB Image</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Prompt</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Pred Mask</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Pred Grasp</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: 14px;">Quality Map</div>
+    </div>
+</center>
 <center>
     <table style="border: none; display: initial;">
         <tbody>
@@ -869,6 +914,20 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <!-- - **5Points** -->
 <h3 class="title is-3">Prompt: 5Points</h3>
 <center>
+    <div style="display: flex; justify-content: space-between; text-align: center; margin: 2px 0;">
+        <div style="flex: 1; font-size: 0.7em; margin-left: 12px; margin-right: -8.5px;">RGB Image</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Prompt</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Pred Mask</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Pred Grasp</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: 15px;">Quality Map    </div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: 12px; margin-right: -8.5px;">RGB Image</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Prompt</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Pred Mask</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Pred Grasp</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: 14px;">Quality Map</div>
+    </div>
+</center>
+<center>
     <table style="border: none; display: initial;">
         <tbody>
             <tr style="border: none;">
@@ -917,6 +976,20 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 
 <!-- - **10Points** -->
 <h3 class="title is-3">Prompt: 10Points</h3>
+<center>
+    <div style="display: flex; justify-content: space-between; text-align: center; margin: 2px 0;">
+        <div style="flex: 1; font-size: 0.7em; margin-left: 12px; margin-right: -8.5px;">RGB Image</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Prompt</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Pred Mask</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Pred Grasp</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: 15px;">Quality Map    </div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: 12px; margin-right: -8.5px;">RGB Image</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Prompt</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Pred Mask</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: -8.5px;">Pred Grasp</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -8.5px; margin-right: 14px;">Quality Map</div>
+    </div>
+</center>
 <center>
     <table style="border: none; display: initial;">
         <tbody>
