@@ -509,14 +509,15 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
     <div style="display: flex; justify-content: space-between; text-align: center; margin: 2px 0;">
         <div style="flex: 1; font-size: 0.7em; margin-left: 0px; margin-right: 0px;">RGB Image</div>
         <div style="flex: 1; font-size: 0.7em; margin-left: 0px; margin-right: 0px;">Prompt</div>
-        <div style="flex: 1; font-size: 0.7em; margin-left: 0px; margin-right: 0px;">Pred  Mask</div>
-        <div style="flex: 1; font-size: 0.7em; margin-left: 0px; margin-right: 0px;">Pred  Grasp</div>
-        <div style="flex: 1; font-size: 0.7em; margin-left: 0px; margin-right: 0px;">Quality  Map</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: 0px; margin-right: 0px;">Pred Mask</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: 0px; margin-right: 0px;">Pred Grasp</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: 0px; margin-right: 0px;">Quality Map</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: 0px; margin-right: 0px;"> </div>
         <div style="flex: 1; font-size: 0.7em; margin-left: 0px; margin-right: 0px;">RGB Image</div>
         <div style="flex: 1; font-size: 0.7em; margin-left: 0px; margin-right: 0px;">Prompt</div>
-        <div style="flex: 1; font-size: 0.7em; margin-left: 0px; margin-right: 0px;">Pred  Mask</div>
-        <div style="flex: 1; font-size: 0.7em; margin-left: 0px; margin-right: 0px;">Pred  Grasp</div>
-        <div style="flex: 1; font-size: 0.7em; margin-left: 0px; margin-right: 0px;">Quality  Map</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: 0px; margin-right: 0px;">Pred Mask</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: 0px; margin-right: 0px;">Pred Grasp</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: 0px; margin-right: 0px;">Quality Map</div>
     </div>
 </center>
 
