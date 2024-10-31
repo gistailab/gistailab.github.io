@@ -507,7 +507,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         <div style="flex: 1; font-size: 0.8em;">Quality Map</div>
     </div> -->
     <div style="display: flex; justify-content: space-between; text-align: center; margin: 2px 0;">
-        <div style="flex: 1; font-size: 0.7em; margin-left: 15px; margin-right: -7px;">RGB Image</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: 12px; margin-right: -7px;">RGB Image</div>
         <div style="flex: 1; font-size: 0.7em; margin-left: -7px; margin-right: -7px;">Prompt</div>
         <div style="flex: 1; font-size: 0.7em; margin-left: -7px; margin-right: -7px;">Pred Mask</div>
         <div style="flex: 1; font-size: 0.7em; margin-left: -7px; margin-right: -7px;">Pred Grasp</div>
@@ -516,7 +516,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         <div style="flex: 1; font-size: 0.7em; margin-left: -7px; margin-right: -7px;">Prompt</div>
         <div style="flex: 1; font-size: 0.7em; margin-left: -7px; margin-right: -7px;">Pred Mask</div>
         <div style="flex: 1; font-size: 0.7em; margin-left: -7px; margin-right: -7px;">Pred Grasp</div>
-        <div style="flex: 1; font-size: 0.7em; margin-left: -7px; margin-right: 15px;">Quality Map</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: -7px; margin-right: 14px;">Quality Map</div>
     </div>
 </center>
 
