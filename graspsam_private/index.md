@@ -969,7 +969,9 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 
 # Real Image Inference with Grounding Dino
 
-<h3 class="title is-3">Prompt: User Language</h3>
+<!-- <h3 class="title is-3">Prompt: User Language</h3> -->
+
+- **Give me a car toy**
 <center>
 <table style="border: none; display: initial;">
     <tbody>
@@ -984,6 +986,8 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         </tbody>
     </table>
 </center>
+
+- **I need a shoe**
 <center>
 <table style="border: none; display: initial;">
     <tbody>
@@ -998,6 +1002,8 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         </tbody>
     </table>
 </center>
+
+- **Give me a bus toy**
 <center>
 <table style="border: none; display: initial;">
     <tbody>
@@ -1012,6 +1018,8 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         </tbody>
     </table>
 </center>
+
+- **Give me a mayonnaise**
 <center>
 <table style="border: none; display: initial;">
     <tbody>
@@ -1026,6 +1034,8 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         </tbody>
     </table>
 </center>
+
+- **Give me a cup**
 <center>
 <table style="border: none; display: initial;">
     <tbody>
@@ -1040,6 +1050,8 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         </tbody>
     </table>
 </center>
+
+- **Give me a box**
 <center>
 <table style="border: none; display: initial;">
     <tbody>
@@ -1117,7 +1129,9 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 </center> -->
 
 
-<h3 class="title is-3">Prompt: Rigid </h3>
+<!-- <h3 class="title is-3">Prompt: Rigid </h3> -->
+
+- **A rigid object**
 <center>
 <table style="border: none; display: initial;">
     <tbody>
@@ -1132,6 +1146,8 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         </tbody>
     </table>
 </center>
+
+- **A rigid object**
 <center>
 <table style="border: none; display: initial;">
     <tbody>
@@ -1146,6 +1162,8 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         </tbody>
     </table>
 </center>
+
+- **A rigid object**
 <center>
 <table style="border: none; display: initial;">
     <tbody>
@@ -1160,6 +1178,8 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         </tbody>
     </table>
 </center>
+
+- **A rigid object**
 <center>
 <table style="border: none; display: initial;">
     <tbody>
@@ -1174,6 +1194,8 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         </tbody>
     </table>
 </center>
+
+- **A rigid object**
 <center>
 <table style="border: none; display: initial;">
     <tbody>
@@ -1188,6 +1210,8 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         </tbody>
     </table>
 </center>
+
+- **A rigid object**
 <center>
 <table style="border: none; display: initial;">
     <tbody>
