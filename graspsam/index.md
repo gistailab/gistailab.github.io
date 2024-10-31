@@ -93,13 +93,13 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         </tbody>
     </table>
     <br>
-    <table style="border: none; display: initial;">
+    <!-- <table style="border: none; display: initial;">
         <tbody>
             <tr style="border: none;">
                 <td style="border: none;">( Official code will be released )</td>
             </tr>
         </tbody>
-    </table>
+    </table> -->
 </center>
 
 <br>
@@ -377,9 +377,6 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 </center>
 
 
-
-
-
 <br>
 <br>
 <br>
@@ -464,11 +461,834 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <br>
 
 
-# Additional Image Inference
+# Additional Dataset Image Inference
 
-<!-- - **Will be released** -->
-<h3 class="title is-3">Will be released</h3>
+<!-- - **Grasp-Anything(Seen)** -->
+<h3 class="title is-3">Grasp-Anything(Seen)</h3>
+
+
+<center>
+    <!-- <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td  width="25%">RGB</td>
+                <td  width="25%">Prompt</td>
+                <td  width="25%">Mask</td>
+                <td  width="25%">Grasp</td>
+                <td  width="25%">Quality Map</td>
+                <td  width="25%">RGB</td>
+                <td  width="25%">Prompt</td>
+                <td  width="25%">Mask</td>
+                <td  width="25%">Grasp</td>
+                <td  width="25%">Quality Map</td> -->
+                <!-- <th style="font-size: 0.7em;">RGB</th>
+                <th style="font-size: 0.7em;">Prompt</th>
+                <th style="font-size: 0.7em;">Mask</th>
+                <th style="font-size: 0.7em;">Grasp</th>
+                <th style="font-size: 0.7em;">Quality Map</th>
+                <th style="font-size: 0.7em;">RGB</th>
+                <th style="font-size: 0.7em;">Prompt</th>
+                <th style="font-size: 0.7em;">Mask</th>
+                <th style="font-size: 0.7em;">Grasp</th>
+                <th style="font-size: 0.7em;">Quality Map</th>
+            </tr>
+        </tbody>
+    </table> -->
+    <!-- <div style="display: flex; justify-content: space-between; text-align: center; margin: 20px 0;">
+        <div style="flex: 1; font-size: 0.8em;">RGB Image</div>
+        <div style="flex: 1; font-size: 0.8em;">Prompt</div>
+        <div style="flex: 1; font-size: 0.8em;">Pred Mask</div>
+        <div style="flex: 1; font-size: 0.8em;">Pred Grasp</div>
+        <div style="flex: 1; font-size: 0.8em;">Quality Map</div>
+        <div style="flex: 1; font-size: 0.8em;">RGB Image</div>
+        <div style="flex: 1; font-size: 0.8em;">Prompt</div>
+        <div style="flex: 1; font-size: 0.8em;">Pred Mask</div>
+        <div style="flex: 1; font-size: 0.8em;">Pred Grasp</div>
+        <div style="flex: 1; font-size: 0.8em;">Quality Map</div>
+    </div> -->
+    <div style="display: flex; justify-content: space-between; text-align: center; margin: 2px 0;">
+        <div style="flex: 1; font-size: 0.7em; margin-left: 0px; margin-right: 0px;"> </div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: 0px; margin-right: 0px;">RGB Image</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: 0px; margin-right: 0px;">Prompt</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: 0px; margin-right: 0px;">Pred Mask</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: 0px; margin-right: 0px;">Pred Grasp</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: 0px; margin-right: 0px;">Quality Map</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: 0px; margin-right: 0px;"> </div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: 0px; margin-right: 0px;">RGB Image</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: 0px; margin-right: 0px;">Prompt</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: 0px; margin-right: 0px;">Pred Mask</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: 0px; margin-right: 0px;">Pred Grasp</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: 0px; margin-right: 0px;">Quality Map</div>
+        <div style="flex: 1; font-size: 0.7em; margin-left: 0px; margin-right: 0px;"> </div>
+    </div>
+</center>
+
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/graspanything/seen/5/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/graspanything/seen/7/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/graspanything/seen/15/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/graspanything/seen/21/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/graspanything/seen/38/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/graspanything/seen/42/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<!-- <br> -->
+
+<!-- - **Grasp-Anything(Unseen)** -->
+<h3 class="title is-3">Grasp-Anything(Unseen)</h3>
+
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/graspanything/unseen/7/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/graspanything/unseen/8/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/graspanything/unseen/10/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/graspanything/unseen/14/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/graspanything/unseen/17/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/graspanything/unseen/1002/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+
 <br>
+<br>
+<br>
+<br>
+
+# In the Wild Image Inference
+
+<!-- - **Armbench** -->
+<h3 class="title is-3">Armbench</h3>
+
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/armbench/1/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/armbench/11/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/armbench/21/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/armbench/34/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/armbench/86/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/armbench/99/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+
+<!-- <br> -->
+
+<!-- - **GraspNet** -->
+<h3 class="title is-3">GraspNet</h3>
+
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/graspnet/5/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/graspnet/21/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/graspnet/89/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/graspnet/92/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/graspnet/98/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/graspnet/45/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+
+<!-- <br> -->
+
+
+<!-- - **OCID** -->
+<h3 class="title is-3">OCID</h3>
+
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/ocid/2/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/ocid/9/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/ocid/28/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/ocid/34/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/ocid/38/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/ocid/53/predict_vis_1h.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+
+<br>
+<br>
+<br>
+<br>
+
+# Real Image Inference
+
+<!-- - **1Point** -->
+<h3 class="title is-3">Prompt: 1Point</h3>
+
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/1point/real_img_0.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/1point/real_img_72.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/1point/real_img_75.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/1point/real_img_78.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/1point/real_img_88.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/1point/real_img_95.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<!-- <br> -->
+
+
+
+
+<!-- - **3Points** -->
+<h3 class="title is-3">Prompt: 3Points</h3>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/3points/real_img_16.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/3points/real_img_20.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/3points/real_img_28.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/3points/real_img_32.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/3points/real_img_44.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/3points/real_img_58.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<!-- <br> -->
+
+
+
+
+<!-- - **5Points** -->
+<h3 class="title is-3">Prompt: 5Points</h3>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/5points/real_img_5.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/5points/real_img_10.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/5points/real_img_48.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/5points/real_img_51.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/5points/real_img_65.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/5points/real_img_70.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<!-- <br> -->
+
+
+
+
+<!-- - **10Points** -->
+<h3 class="title is-3">Prompt: 10Points</h3>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/10points/real_img_12.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/10points/real_img_30.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/10points/real_img_60.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/10points/real_img_68.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/10points/real_img_92.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/10points/real_img_98.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+
+
+
+<br>
+<br>
+<br>
+<br>
+
+# Real Image Inference with Grounding Dino
+
+<!-- <h3 class="title is-3">Prompt: User Language</h3> -->
+
+- **Give me a car toy**
+<center>
+<table style="border: none; display: initial;">
+    <tbody>
+        <tr style="border: none;">
+            <td style="border: none;">
+                <img src="./assets/images/real_images/dino/language/prompt_10.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+            </td>
+            <td style="border: none;">
+                <img src="./assets/images/real_images/dino/language/prompt_grasp_10.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+
+- **I need a shoe**
+<center>
+<table style="border: none; display: initial;">
+    <tbody>
+        <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/prompt_16.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/prompt_grasp_16.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+
+- **Give me a bus toy**
+<center>
+<table style="border: none; display: initial;">
+    <tbody>
+        <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/prompt_28.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/prompt_grasp_28.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+
+- **Give me a mayonnaise**
+<center>
+<table style="border: none; display: initial;">
+    <tbody>
+        <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/prompt_42.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/prompt_grasp_42.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+
+- **Give me a cup**
+<center>
+<table style="border: none; display: initial;">
+    <tbody>
+        <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/prompt_74.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/prompt_grasp_74.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+
+- **Give me a box**
+<center>
+<table style="border: none; display: initial;">
+    <tbody>
+        <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/prompt_77.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/prompt_grasp_77.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+
+<!-- <center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/prompt_10.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/prompt_grasp_10.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/prompt_16.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/prompt_grasp_16.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/prompt_28.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/prompt_grasp_28.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/prompt_42.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/prompt_grasp_42.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/prompt_74.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/prompt_grasp_74.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/prompt_77.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/language/prompt_grasp_77.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center> -->
+
+
+<!-- <h3 class="title is-3">Prompt: Rigid </h3> -->
+
+- **A rigid object**
+<center>
+<table style="border: none; display: initial;">
+    <tbody>
+        <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/grid/rigid_0.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/grid/rigid_grasp_0.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+
+- **A rigid object**
+<center>
+<table style="border: none; display: initial;">
+    <tbody>
+        <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/grid/rigid_9.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/grid/rigid_grasp_9.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+
+- **A rigid object**
+<center>
+<table style="border: none; display: initial;">
+    <tbody>
+        <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/grid/rigid_28.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/grid/rigid_grasp_28.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+
+- **A rigid object**
+<center>
+<table style="border: none; display: initial;">
+    <tbody>
+        <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/grid/rigid_47.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/grid/rigid_grasp_47.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+
+- **A rigid object**
+<center>
+<table style="border: none; display: initial;">
+    <tbody>
+        <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/grid/rigid_80.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/grid/rigid_grasp_80.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+
+- **A rigid object**
+<center>
+<table style="border: none; display: initial;">
+    <tbody>
+        <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/grid/rigid_97.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/grid/rigid_grasp_97.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<!-- <center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/grid/rigid_0.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/grid/rigid_grasp_0.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/grid/rigid_9.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/grid/rigid_grasp_9.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/grid/rigid_28.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/grid/rigid_grasp_28.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/grid/rigid_47.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/grid/rigid_grasp_47.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<center>
+    <table style="border: none; display: initial;">
+        <tbody>
+            <tr style="border: none;">
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/grid/rigid_80.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/grid/rigid_grasp_80.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/grid/rigid_97.jpg" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+                <td style="border: none;">
+                    <img src="./assets/images/real_images/dino/grid/rigid_grasp_97.png" alt="Additional Result 1" style="margin: 10px 20px 10px 0px;" width="100%"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center> -->
 
 
 <!-- <br> -->
@@ -476,7 +1296,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <!-- <br> -->
 <!-- <br> -->
 <!-- <hr style="border: solid 1px #c80000;"> -->
-<!-- <hr style="#c80000;"> -->
+<hr style="#c80000;">
 <br>
 <br>
 <br>
@@ -498,10 +1318,9 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <br>
 <br>
 
-<!-- # Acknowledgements
+# Acknowledgements
 
-  This work was fully supported by the Korea Institute for Advancement of Technology (KIAT) grant funded by the Korea Government (MOTIE) (Project Name: Shared autonomy based on deep reinforcement learning for responding intelligently to unfixed environments such as robotic assembly tasks, Project Number: 20008613).
-  This work was also partially supported by the HPC Support project of the Korea Ministry of Science and ICT and NIPA. -->
+  This work was supported by Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korea government(MSIT) No.RS2021-II212068, Artificial Intelligence Innovation Hub.
 
 <br>
 <br>
