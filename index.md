@@ -18,6 +18,12 @@ title: "GIST - AILAB paper project home"
 
 ## Paper Projects
 
+### GraspSAM: When Segment Anything Model Meets Grasp Detection (25' ICRA accepted)
+
+[Project Page](https://gistailab.github.io/graspsam/) | [Paper](https://arxiv.org/abs/2409.12521)
+
+Grasp detection requires flexibility to handle objects of various shapes without relying on prior object knowledge, while also offering intuitive, user-guided control. In this paper, we introduce GraspSAM, an innovative extension of the Segment Anything Model (SAM) designed for prompt-driven and category-agnostic grasp detection. Unlike previous methods, which are often limited by small-scale training data, GraspSAM leverages SAM’s large-scale training and prompt-based segmentation capabilities to efficiently support both target-object and category-agnostic grasping. By utilizing adapters, learnable token embeddings, and a lightweight modified decoder, GraspSAM requires minimal fine-tuning to integrate object segmentation and grasp prediction into a unified framework. Our model achieves state-of-the-art (SOTA) performance across multiple datasets, including Jacquard, Grasp-Anything, and Grasp-Anything++. Extensive experiments demonstrate GraspSAM’s flexibility in handling different types of prompts (such as points, boxes, and language), highlighting its robustness and effectiveness in real-world robotic applications.
+
 ### Learning to Place Unseen Objects Stably using a Large-scale Simulation (24' RA-L accepted)
 
 [Project Page](https://gistailab.github.io/uop/) | [Paper-IEEEXplore](https://ieeexplore.ieee.org/document/10417128)

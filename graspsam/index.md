@@ -33,6 +33,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 <center>
     <h1 style="display: block;">
         GraspSAM: When Segment Anything Model Meets Grasp Detection<br>
+        ICRA 2025<br>
     </h1>
     <br>
     <!-- published in in 24' IEEE RA-L <br> -->
@@ -44,7 +45,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
                 <td style="border: none;"><a href="https://scholar.google.co.kr/citations?user=tqylaI8AAAAJ&hl=ko&oi=ao"><sup>1</sup>Sangjun Noh</a></td>
                 <td style="border: none;"><a href="https://scholar.google.co.kr/citations?hl=ko&user=VKULYHAAAAAJ"><sup>1</sup>Jongwon Kim</a></td>
                 <td style="border: none;"><a href="https://scholar.google.com/citations?user=a7iMp8wAAAAJ&hl=ko&oi=sra"><sup>1</sup>Dongwoo Nam</a></td>
-                <td style="border: none;"><a href="https://scholar.google.com/citations?user=N9dLZH4AAAAJ&hl=ko&oi=sra"><sup>1</sup>Seunghyeok Back</a></td>
+                <td style="border: none;"><a href="https://scholar.google.com/citations?user=N9dLZH4AAAAJ&hl=ko&oi=sra"><sup>2</sup>Seunghyeok Back</a></td>
                 <td style="border: none;"><a href="https://scholar.google.com/citations?user=52DNwMIAAAAJ&hl=ko&oi=sra"><sup>1</sup>Raeyoung Kang</a></td>
                 <td style="border: none;"><a href="https://scholar.google.com/citations?user=QVihy5MAAAAJ&hl=ko&oi=ao"><sup>1</sup>Kyoobin Lee</a><sup>†</sup></td>
             </tr>
@@ -65,6 +66,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
         <tbody>
             <tr style="border: none;">
                     <sup>1</sup>Gwangju Institute of Science and Technology (GIST)
+                    <sup>2</sup>Korea Institute of Machinery & Materials (KIMM)
             </tr>
         </tbody>
     </table>
