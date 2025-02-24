@@ -32,8 +32,7 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
 
 <center>
     <h1 style="display: block;">
-        GraspSAM: When Segment Anything Model Meets Grasp Detection<br>
-        ICRA 2025<br>
+        GraspSAM: When Segment Anything Model Meets Grasp Detection [ICRA 2025]<br>
     </h1>
     <br>
     <!-- published in in 24' IEEE RA-L <br> -->
