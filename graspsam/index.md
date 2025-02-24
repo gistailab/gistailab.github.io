@@ -66,6 +66,12 @@ title: "GraspSAM: When Segment Anything Model Meets Grasp Detection"
             <tr style="border: none;">
                     <sup>1</sup>Gwangju Institute of Science and Technology (GIST)
             </tr>
+        </tbody>
+    </table>
+    <br>
+    <br>
+    <table style="border: none; display: initial;">
+        <tbody>
             <tr style="border: none;">
                     <sup>2</sup>Korea Institute of Machinery & Materials (KIMM)
             </tr>
